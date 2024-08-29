@@ -1,0 +1,5002 @@
+[
+    {
+        "numId": 200,
+        "id": "mens-jeans",
+        "name": "Jeans",
+        "shortName": "Jeans",
+        "fullName": "Men's Jeans",
+        "localizedId": "mens-jeans"
+    },
+    {
+        "numId": 1726,
+        "id": "mens-sneakers",
+        "name": "Sneakers & Athletic Shoes",
+        "shortName": "Sneakers & Athletic",
+        "fullName": "Men's Sneakers & Athletic Shoes",
+        "localizedId": "mens-sneakers"
+    },
+    {
+        "numId": 2055,
+        "id": "mens-low-top-sneakers",
+        "name": "Low Top Sneakers",
+        "shortName": "Low Top",
+        "fullName": "Men's Low Top Sneakers",
+        "localizedId": "mens-low-top-sneakers"
+    },
+    {
+        "numId": 221,
+        "id": "mens-boots",
+        "name": "Boots",
+        "shortName": "Boots",
+        "fullName": "Men's Boots",
+        "localizedId": "mens-boots"
+    },
+    {
+        "numId": 2135,
+        "id": "mens-light-jackets",
+        "name": "Jackets",
+        "shortName": "Jackets",
+        "fullName": "Men's Jackets",
+        "localizedId": "mens-light-jackets"
+    },
+    {
+        "numId": 212,
+        "id": "mens-dress-pants",
+        "name": "Dress Pants",
+        "shortName": "Dress",
+        "fullName": "Men's Dress Pants",
+        "localizedId": "mens-dress-pants"
+    },
+    {
+        "numId": 226,
+        "id": "mens-suits",
+        "name": "Suits",
+        "shortName": "Suits",
+        "fullName": "Men's Suits",
+        "localizedId": "mens-suits"
+    },
+    {
+        "numId": 218,
+        "id": "mens-tees-and-tshirts",
+        "name": "T-shirts",
+        "shortName": "Tees",
+        "fullName": "Men's T-shirts",
+        "localizedId": "mens-tees-and-tshirts"
+    },
+    {
+        "numId": 220,
+        "id": "mens-shoes-athletic",
+        "name": "Performance Sneakers",
+        "shortName": "Performance",
+        "fullName": "Men's Performance Sneakers",
+        "localizedId": "mens-shoes-athletic"
+    },
+    {
+        "numId": 177,
+        "id": "mens-athletic",
+        "name": "Activewear",
+        "shortName": "Activewear",
+        "fullName": "Men's Activewear",
+        "localizedId": "mens-athletic"
+    },
+    {
+        "numId": 247,
+        "id": "mens-watches",
+        "name": "Watches",
+        "shortName": "Watches",
+        "fullName": "Men's Watches",
+        "localizedId": "mens-watches"
+    },
+    {
+        "numId": 2058,
+        "id": "mens-flip-flops",
+        "name": "Flip Flop Sandals",
+        "shortName": "Flip Flops",
+        "fullName": "Men's Flip Flop Sandals",
+        "localizedId": "mens-flip-flops"
+    },
+    {
+        "numId": 224,
+        "id": "mens-sandals",
+        "name": "Sandals",
+        "shortName": "Sandals",
+        "fullName": "Men's Sandals",
+        "localizedId": "mens-sandals"
+    },
+    {
+        "numId": 2059,
+        "id": "mens-slides",
+        "name": "Slide Sandals",
+        "shortName": "Slides",
+        "fullName": "Men's Slide Sandals",
+        "localizedId": "mens-slides"
+    },
+    {
+        "numId": 2044,
+        "id": "womens-sneaker-low-top",
+        "name": "Low Top Sneakers",
+        "shortName": "Low Top",
+        "fullName": "Women's Low Top Sneakers",
+        "localizedId": "womens-sneaker-low-top"
+    },
+    {
+        "numId": 216,
+        "id": "mens-shortsleeve-shirts",
+        "name": "Short Sleeve Shirts",
+        "shortName": "Shortsleeve",
+        "fullName": "Men's Short Sleeve Shirts",
+        "localizedId": "mens-shortsleeve-shirts"
+    },
+    {
+        "numId": 241,
+        "id": "mens-boxers",
+        "name": "Boxers",
+        "shortName": "Boxers",
+        "fullName": "Men's Boxers",
+        "localizedId": "mens-boxers"
+    },
+    {
+        "numId": 1207,
+        "id": "mens-sweatshirts",
+        "name": "Sweatshirts & Hoodies",
+        "shortName": "Sweatshirts & Hoodies",
+        "fullName": "Men's Sweatshirts & Hoodies",
+        "localizedId": "mens-sweatshirts"
+    },
+    {
+        "numId": 1724,
+        "id": "womens-sneakers",
+        "name": "Sneakers & Athletic Shoes",
+        "shortName": "Sneakers & Athletic",
+        "fullName": "Women's Sneakers & Athletic Shoes",
+        "localizedId": "womens-sneakers"
+    },
+    {
+        "numId": 245,
+        "id": "mens-cuff-links",
+        "name": "Cuff links",
+        "shortName": "Cuff links",
+        "fullName": "Cuff Links",
+        "localizedId": "mens-cuff-links"
+    },
+    {
+        "numId": 246,
+        "id": "mens-jewelry",
+        "name": "Jewelry",
+        "shortName": "Jewelry",
+        "fullName": "Men's Jewelry",
+        "localizedId": "mens-jewelry"
+    },
+    {
+        "numId": 225,
+        "id": "mens-shorts",
+        "name": "Shorts",
+        "shortName": "Shorts",
+        "fullName": "Men's Shorts",
+        "localizedId": "mens-shorts"
+    },
+    {
+        "numId": 208,
+        "id": "mens-pants",
+        "name": "Pants",
+        "shortName": "Pants",
+        "fullName": "Men's Pants",
+        "localizedId": "mens-pants"
+    },
+    {
+        "numId": 2054,
+        "id": "mens-loafers",
+        "name": "Slip-on Loafers",
+        "shortName": "Loafers",
+        "fullName": "Men's Slip-on Loafers",
+        "localizedId": "mens-loafers"
+    },
+    {
+        "numId": 223,
+        "id": "mens-lace-up-shoes",
+        "name": "Lace-up Shoes",
+        "shortName": "Lace-up",
+        "fullName": "Men's Dress Shoes",
+        "localizedId": "mens-lace-up-shoes"
+    },
+    {
+        "numId": 2057,
+        "id": "mens-slip-on-sneakers",
+        "name": "Slip-on Sneakers",
+        "shortName": "Slip On",
+        "fullName": "Men's Slip-on Sneakers",
+        "localizedId": "mens-slip-on-sneakers"
+    },
+    {
+        "numId": 2056,
+        "id": "mens-high-top-sneakers",
+        "name": "High Top Sneakers",
+        "shortName": "High Top",
+        "fullName": "Men's High Top Sneakers",
+        "localizedId": "mens-high-top-sneakers"
+    },
+    {
+        "numId": 195,
+        "id": "mens-denim-jackets",
+        "name": "Jean Jackets",
+        "shortName": "Denim",
+        "fullName": "Jean Jackets",
+        "localizedId": "mens-denim-jackets"
+    },
+    {
+        "numId": 2130,
+        "id": "mens-jackets-denim",
+        "name": "Denim Jackets",
+        "shortName": "Denim",
+        "fullName": "Men's Denim Jackets",
+        "localizedId": "mens-jackets-denim"
+    },
+    {
+        "numId": 197,
+        "id": "mens-leather-and-suede-coats",
+        "name": "Leather & Suede Jackets",
+        "shortName": "Leather & Suede",
+        "fullName": "Men's Leather & Suede Jackets",
+        "localizedId": "mens-leather-and-suede-coats"
+    },
+    {
+        "numId": 1205,
+        "id": "mens-backpacks",
+        "name": "Backpacks",
+        "shortName": "Backpacks",
+        "fullName": "Men's Backpacks",
+        "localizedId": "mens-backpacks"
+    },
+    {
+        "numId": 217,
+        "id": "mens-polo-shirts",
+        "name": "Polos",
+        "shortName": "Polos",
+        "fullName": "Men's Polos",
+        "localizedId": "mens-polo-shirts"
+    },
+    {
+        "numId": 222,
+        "id": "mens-slip-ons-shoes",
+        "name": "Slip-ons & Loafers",
+        "shortName": "Slip-ons & Loafers",
+        "fullName": "Men's Slip-ons & Loafers",
+        "localizedId": "mens-slip-ons-shoes"
+    },
+    {
+        "numId": 173,
+        "id": "mens-hats",
+        "name": "Hats",
+        "shortName": "Hats",
+        "fullName": "Men's Hats",
+        "localizedId": "mens-hats"
+    },
+    {
+        "numId": 202,
+        "id": "mens-distressed-jeans",
+        "name": "Distressed Jeans",
+        "shortName": "Distressed",
+        "fullName": "Men's Distressed Jeans",
+        "localizedId": "mens-distressed-jeans"
+    },
+    {
+        "numId": 169,
+        "id": "mens-belts",
+        "name": "Belts",
+        "shortName": "Belts",
+        "fullName": "Men's Belts",
+        "localizedId": "mens-belts"
+    },
+    {
+        "numId": 180,
+        "id": "mens-athletic-shirts",
+        "name": "Activewear Shirts",
+        "shortName": "Shirts",
+        "fullName": "Men's Activewear Shirts",
+        "localizedId": "mens-athletic-shirts"
+    },
+    {
+        "numId": 1711,
+        "id": "mens-eyeglasses",
+        "name": "Eyeglasses",
+        "shortName": "Eyeglasses",
+        "fullName": "Men's Eyeglasses",
+        "localizedId": "mens-eyeglasses"
+    },
+    {
+        "numId": 2074,
+        "id": "womens-cross-body-bags",
+        "name": "Crossbody Bags",
+        "shortName": "Cross Body",
+        "fullName": "Women's Crossbody Bags",
+        "localizedId": "womens-cross-body-bags"
+    },
+    {
+        "numId": 2080,
+        "id": "mens-cross-body-bags",
+        "name": "Crossbody Bags",
+        "shortName": "Cross Body",
+        "fullName": "Men's Crossbody Bags",
+        "localizedId": "mens-cross-body-bags"
+    },
+    {
+        "numId": 240,
+        "id": "mens-briefs",
+        "name": "Briefs",
+        "shortName": "Briefs",
+        "fullName": "Men's Briefs",
+        "localizedId": "mens-briefs"
+    },
+    {
+        "numId": 193,
+        "id": "mens-blazers-and-sport-coats",
+        "name": "Sport Coats & Blazers",
+        "shortName": "Sportcoats",
+        "fullName": "Men's Sport Coats & Blazers",
+        "localizedId": "mens-blazers-and-sport-coats"
+    },
+    {
+        "numId": 1439,
+        "id": "mens-half-zip-sweaters",
+        "name": "Half-zip Sweaters",
+        "shortName": "Half-Zip",
+        "fullName": "Men's Half-Zip Sweaters",
+        "localizedId": "mens-half-zip-sweaters"
+    },
+    {
+        "numId": 210,
+        "id": "mens-casual-pants",
+        "name": "Casual Pants",
+        "shortName": "Casual",
+        "fullName": "Men's Casual Pants",
+        "localizedId": "mens-casual-pants"
+    },
+    {
+        "numId": 2123,
+        "id": "mens-puffer-coats",
+        "name": "Down & Puffer Coats",
+        "shortName": "Down & Puffers",
+        "fullName": "Men's Down & Puffer Coats",
+        "localizedId": "mens-puffer-coats"
+    },
+    {
+        "numId": 215,
+        "id": "mens-longsleeve-shirts",
+        "name": "Long Sleeve Shirts",
+        "shortName": "Longsleeve",
+        "fullName": "Men's Long Sleeve Shirts",
+        "localizedId": "mens-longsleeve-shirts"
+    },
+    {
+        "numId": 198,
+        "id": "mens-overcoats-and-trenchcoats",
+        "name": "Raincoats & Trench Coats",
+        "shortName": "Overcoats & Trenchcoats",
+        "fullName": "Men's Raincoats & Trench Coats",
+        "localizedId": "mens-overcoats-and-trenchcoats"
+    },
+    {
+        "numId": 179,
+        "id": "mens-athletic-pants",
+        "name": "Activewear Pants",
+        "shortName": "Pants",
+        "fullName": "Men's Activewear Pants",
+        "localizedId": "mens-athletic-pants"
+    },
+    {
+        "numId": 174,
+        "id": "mens-sunglasses",
+        "name": "Sunglasses",
+        "shortName": "Sunglasses",
+        "fullName": "Men's Sunglasses",
+        "localizedId": "mens-sunglasses"
+    },
+    {
+        "numId": 1202,
+        "id": "mens-tote-bags",
+        "name": "Tote Bags",
+        "shortName": "Totes",
+        "fullName": "Men's Tote Bags",
+        "localizedId": "mens-tote-bags"
+    },
+    {
+        "numId": 1438,
+        "id": "mens-crewneck-sweaters",
+        "name": "Crewneck Sweaters",
+        "shortName": "Crewnecks",
+        "fullName": "Men's Crewneck Sweaters",
+        "localizedId": "mens-crewneck-sweaters"
+    },
+    {
+        "numId": 233,
+        "id": "mens-cashmere-sweaters",
+        "name": "Cashmere Sweaters",
+        "shortName": "Cashmere",
+        "fullName": "Men's Cashmere Sweaters",
+        "localizedId": "mens-cashmere-sweaters"
+    },
+    {
+        "numId": 1201,
+        "id": "mens-messenger-bags",
+        "name": "Messenger Bags",
+        "shortName": "Messenger",
+        "fullName": "Men's Messenger Bags",
+        "localizedId": "mens-messenger-bags"
+    },
+    {
+        "numId": 2131,
+        "id": "mens-bomber-jackets",
+        "name": "Bomber Jackets",
+        "shortName": "Bomber",
+        "fullName": "Men's Bomber Jackets",
+        "localizedId": "mens-bomber-jackets"
+    },
+    {
+        "numId": 2050,
+        "id": "mens-wingtip-shoes",
+        "name": "Lace-up Wingtip Shoes",
+        "shortName": "Wingtip",
+        "fullName": "Men's Lace-up Wingtip Shoes",
+        "localizedId": "mens-wingtip-shoes"
+    },
+    {
+        "numId": 2142,
+        "id": "mens-sleepwear-bottoms",
+        "name": "Bottoms",
+        "shortName": "Bottoms",
+        "fullName": "Men's Bottoms",
+        "localizedId": "mens-sleepwear-bottoms"
+    },
+    {
+        "numId": 194,
+        "id": "mens-outerwear",
+        "name": "Outerwear",
+        "shortName": "Coats",
+        "fullName": "Men's Outerwear",
+        "localizedId": "mens-outerwear"
+    },
+    {
+        "numId": 2047,
+        "id": "mens-lace-up-and-chukka-boots",
+        "name": "Lace-up & Chukka",
+        "shortName": "Lace up & Chukka",
+        "fullName": "Men's Lace-up & Chukka Boots",
+        "localizedId": "mens-lace-up-and-chukka-boots"
+    },
+    {
+        "numId": 2052,
+        "id": "mens-lace-up-boots",
+        "name": "Lace-up Boots",
+        "shortName": "Boots",
+        "fullName": "Men's Lace-up Boots",
+        "localizedId": "mens-lace-up-boots"
+    },
+    {
+        "numId": 2327,
+        "id": "shirts",
+        "name": "Shirts",
+        "shortName": "Shirts",
+        "fullName": "Women's Shirts",
+        "localizedId": "shirts"
+    },
+    {
+        "numId": 148,
+        "id": "tees-and-tshirts",
+        "name": "T-shirts",
+        "shortName": "T-shirts",
+        "fullName": "Women's T-shirts",
+        "localizedId": "tees-and-tshirts"
+    },
+    {
+        "numId": 1694,
+        "id": "mens-slim-jeans",
+        "name": "Slim Jeans",
+        "shortName": "Slim",
+        "fullName": "Men's Slim Jeans",
+        "localizedId": "mens-slim-jeans"
+    },
+    {
+        "numId": 2264,
+        "id": "mens-wide-pants",
+        "name": "Wide-Leg Pants",
+        "shortName": "Wide Leg",
+        "fullName": "Men's Wide-Leg Pants",
+        "localizedId": "mens-wide-pants"
+    },
+    {
+        "numId": 2129,
+        "id": "mens-leather-jackets",
+        "name": "Leather & Faux Leather Jackets",
+        "shortName": "Leather",
+        "fullName": "Men's Leather & Faux Leather Jackets",
+        "localizedId": "mens-leather-jackets"
+    },
+    {
+        "numId": 2128,
+        "id": "mens-jackets-vests",
+        "name": "Vests",
+        "shortName": "Vests",
+        "fullName": "Men's Vests",
+        "localizedId": "mens-jackets-vests"
+    },
+    {
+        "numId": 238,
+        "id": "mens-swimsuits",
+        "name": "Swimwear",
+        "shortName": "Swimwear",
+        "fullName": "Men's Swimwear",
+        "localizedId": "mens-swimsuits"
+    },
+    {
+        "numId": 213,
+        "id": "mens-shirts",
+        "name": "Shirts",
+        "shortName": "Shirts",
+        "fullName": "Men's Shirts",
+        "localizedId": "mens-shirts"
+    },
+    {
+        "numId": 206,
+        "id": "mens-relaxed-jeans",
+        "name": "Relaxed Jeans",
+        "shortName": "Relaxed",
+        "fullName": "Men's Relaxed Jeans",
+        "localizedId": "mens-relaxed-jeans"
+    },
+    {
+        "numId": 214,
+        "id": "mens-dress-shirts",
+        "name": "Dress Shirts",
+        "shortName": "Dress",
+        "fullName": "Men's Dress Shirts",
+        "localizedId": "mens-dress-shirts"
+    },
+    {
+        "numId": 2262,
+        "id": "mens-skinny-slim-pants",
+        "name": "Skinny & Slim Pants",
+        "shortName": "Skinny & Slim",
+        "fullName": "Men's Skinny & Slim Pants",
+        "localizedId": "mens-skinny-slim-pants"
+    },
+    {
+        "numId": 2233,
+        "id": "mens-skinny-jeans",
+        "name": "Skinny Jeans",
+        "shortName": "Skinny",
+        "fullName": "Men's Skinny Jeans",
+        "localizedId": "mens-skinny-jeans"
+    },
+    {
+        "numId": 207,
+        "id": "mens-straight-leg-jeans",
+        "name": "Straight-Leg Jeans",
+        "shortName": "Straight Leg",
+        "fullName": "Men's Straight-Leg Jeans",
+        "localizedId": "mens-straight-leg-jeans"
+    },
+    {
+        "numId": 2048,
+        "id": "mens-chelsea-boots",
+        "name": "Chelsea Boots",
+        "shortName": "Chelsea",
+        "fullName": "Men's Chelsea Boots",
+        "localizedId": "mens-chelsea-boots"
+    },
+    {
+        "numId": 2030,
+        "id": "womens-flip-flops",
+        "name": "Flip Flop Sandals",
+        "shortName": "Flip Flops",
+        "fullName": "Women's Flip Flop Sandals",
+        "localizedId": "womens-flip-flops"
+    },
+    {
+        "numId": 2031,
+        "id": "womens-slides",
+        "name": "Slide Sandals",
+        "shortName": "Slides",
+        "fullName": "Women's Slide Sandals",
+        "localizedId": "womens-slides"
+    },
+    {
+        "numId": 2234,
+        "id": "mens-tapered-jeans",
+        "name": "Tapered Jeans",
+        "shortName": "Tapered",
+        "fullName": "Men's Tapered Jeans",
+        "localizedId": "mens-tapered-jeans"
+    },
+    {
+        "numId": 228,
+        "id": "mens-pajamas",
+        "name": "Pajamas",
+        "shortName": "Pajamas",
+        "fullName": "Men's Pajamas",
+        "localizedId": "mens-pajamas"
+    },
+    {
+        "numId": 199,
+        "id": "mens-wool-coats",
+        "name": "Wool Coats",
+        "shortName": "Wool",
+        "fullName": "Men's Wool Coats",
+        "localizedId": "mens-wool-coats"
+    },
+    {
+        "numId": 1627,
+        "id": "boys-pajamas",
+        "name": "Boys' Pajamas",
+        "shortName": "Pajamas",
+        "fullName": "Boys' Pajamas",
+        "localizedId": "boys-pajamas"
+    },
+    {
+        "numId": 1625,
+        "id": "boys-matching-sets",
+        "name": "Boys' Matching Sets",
+        "shortName": "Matching Sets",
+        "fullName": "Boys' Matching Sets",
+        "localizedId": "boys-matching-sets"
+    },
+    {
+        "numId": 236,
+        "id": "mens-turtleneck-sweaters",
+        "name": "Turtleneck Sweaters",
+        "shortName": "Turtlenecks",
+        "fullName": "Men's Turtleneck Sweaters",
+        "localizedId": "mens-turtleneck-sweaters"
+    },
+    {
+        "numId": 1440,
+        "id": "mens-v-neck-sweaters",
+        "name": "V-Neck Sweaters",
+        "shortName": "V-necks",
+        "fullName": "Men's V-Neck Sweaters",
+        "localizedId": "mens-v-neck-sweaters"
+    },
+    {
+        "numId": 2078,
+        "id": "mens-bag-accessories",
+        "name": "Bag Accessories",
+        "shortName": "Accessories",
+        "fullName": "Men's Bag Accessories",
+        "localizedId": "mens-bag-accessories"
+    },
+    {
+        "numId": 1204,
+        "id": "mens-travel-bags",
+        "name": "Travel Bags",
+        "shortName": "Travel",
+        "fullName": "Men's Travel Bags",
+        "localizedId": "mens-travel-bags"
+    },
+    {
+        "numId": 167,
+        "id": "mens-accessories",
+        "name": "Accessories",
+        "shortName": "Accessories",
+        "fullName": "Men's Accessories",
+        "localizedId": "mens-accessories"
+    },
+    {
+        "numId": 232,
+        "id": "mens-cardigan-sweaters",
+        "name": "Cardigans & Zip Up Sweaters",
+        "shortName": "Cardigans & Zip Ups",
+        "fullName": "Men's Cardigans & Zip Up Sweaters",
+        "localizedId": "mens-cardigan-sweaters"
+    },
+    {
+        "numId": 2261,
+        "id": "mens-straight-pants",
+        "name": "Straight Leg Pants",
+        "shortName": "Straight",
+        "fullName": "Men's Straight Leg Pants",
+        "localizedId": "mens-straight-pants"
+    },
+    {
+        "numId": 182,
+        "id": "mens-athletic-shorts",
+        "name": "Activewear Shorts",
+        "shortName": "Shorts",
+        "fullName": "Men's Activewear Shorts",
+        "localizedId": "mens-athletic-shorts"
+    },
+    {
+        "numId": 211,
+        "id": "mens-chinos-and-khakis",
+        "name": "Chinos & Khakis",
+        "shortName": "Chinos & Khakis",
+        "fullName": "Men's Chinos & Khakis",
+        "localizedId": "mens-chinos-and-khakis"
+    },
+    {
+        "numId": 1713,
+        "id": "mens-tech-accessories",
+        "name": "Tech Accessories",
+        "shortName": "Tech",
+        "fullName": "Tech accessories for men",
+        "localizedId": "mens-tech-accessories"
+    },
+    {
+        "numId": 175,
+        "id": "mens-ties",
+        "name": "Ties",
+        "shortName": "Ties",
+        "fullName": "Men's Ties",
+        "localizedId": "mens-ties"
+    },
+    {
+        "numId": 176,
+        "id": "mens-wallets",
+        "name": "Wallets",
+        "shortName": "Wallets",
+        "fullName": "Men's Wallets",
+        "localizedId": "mens-wallets"
+    },
+    {
+        "numId": 204,
+        "id": "mens-loose-jeans",
+        "name": "Loose Jeans",
+        "shortName": "Loose",
+        "fullName": "Men's Loose Jeans",
+        "localizedId": "mens-loose-jeans"
+    },
+    {
+        "numId": 201,
+        "id": "mens-bootcut-jeans",
+        "name": "Bootcut Jeans",
+        "shortName": "Bootcut",
+        "fullName": "Men's Bootcut Jeans",
+        "localizedId": "mens-bootcut-jeans"
+    },
+    {
+        "numId": 1203,
+        "id": "mens-business-bags",
+        "name": "Briefcases",
+        "shortName": "Briefcases",
+        "fullName": "Men's Briefcases",
+        "localizedId": "mens-business-bags"
+    },
+    {
+        "numId": 242,
+        "id": "mens-socks",
+        "name": "Socks",
+        "shortName": "Socks",
+        "fullName": "Men's Socks",
+        "localizedId": "mens-socks"
+    },
+    {
+        "numId": 1974,
+        "id": "womens-flats-loafers",
+        "name": "Loafers",
+        "shortName": "Loafers",
+        "fullName": "Women's Loafer Flats",
+        "localizedId": "womens-flats-loafers"
+    },
+    {
+        "numId": 2049,
+        "id": "mens-hiking-boots",
+        "name": "Hiking Boots",
+        "shortName": "Hiking",
+        "fullName": "Men's Hiking Boots",
+        "localizedId": "mens-hiking-boots"
+    },
+    {
+        "numId": 1743,
+        "id": "mens-scarves",
+        "name": "Scarves",
+        "shortName": "Scarves",
+        "fullName": "Men's Scarves",
+        "localizedId": "mens-scarves"
+    },
+    {
+        "numId": 219,
+        "id": "mens-shoes",
+        "name": "Shoes",
+        "shortName": "Shoes",
+        "fullName": "Men's Shoes",
+        "localizedId": "mens-shoes"
+    },
+    {
+        "numId": 33,
+        "id": "backpacks",
+        "name": "Backpacks",
+        "shortName": "Backpacks",
+        "fullName": "Women's Backpacks",
+        "localizedId": "backpacks"
+    },
+    {
+        "numId": 2235,
+        "id": "mens-ankle-jeans",
+        "name": "Ankle Jeans",
+        "shortName": "Ankle",
+        "fullName": "Men's Ankle Jeans",
+        "localizedId": "mens-ankle-jeans"
+    },
+    {
+        "numId": 1662,
+        "id": "boys-watches",
+        "name": "Boys' Watches",
+        "shortName": "Watches",
+        "fullName": "Boys' Watches",
+        "localizedId": "boys-watches"
+    },
+    {
+        "numId": 2263,
+        "id": "mens-tapered-pants",
+        "name": "Tapered Pants",
+        "shortName": "Tapered",
+        "fullName": "Men's Tapered Pants",
+        "localizedId": "mens-tapered-pants"
+    },
+    {
+        "numId": 11,
+        "id": "sunglasses",
+        "name": "Sunglasses",
+        "shortName": "Sunglasses",
+        "fullName": "Women's Sunglasses",
+        "localizedId": "sunglasses"
+    },
+    {
+        "numId": 243,
+        "id": "mens-tee-shirts",
+        "name": "Undershirts",
+        "shortName": "Undershirts",
+        "fullName": "Men's Undershirts",
+        "localizedId": "mens-tee-shirts"
+    },
+    {
+        "numId": 230,
+        "id": "mens-slippers",
+        "name": "Slippers",
+        "shortName": "Slippers",
+        "fullName": "Men's Slippers",
+        "localizedId": "mens-slippers"
+    },
+    {
+        "numId": 178,
+        "id": "mens-athletic-jackets",
+        "name": "Activewear Jackets",
+        "shortName": "Jackets",
+        "fullName": "Men's Activewear Jackets",
+        "localizedId": "mens-athletic-jackets"
+    },
+    {
+        "numId": 231,
+        "id": "mens-sweaters",
+        "name": "Sweaters",
+        "shortName": "Sweaters",
+        "fullName": "Men's Sweaters",
+        "localizedId": "mens-sweaters"
+    },
+    {
+        "numId": 170,
+        "id": "mens-fragrances",
+        "name": "Fragrances",
+        "shortName": "Fragrances",
+        "fullName": "Men's Fragrances",
+        "localizedId": "mens-fragrances"
+    },
+    {
+        "numId": 1441,
+        "id": "mens-vests",
+        "name": "Knit Vests",
+        "shortName": "Vests",
+        "fullName": "Knit Vests",
+        "localizedId": "mens-vests"
+    },
+    {
+        "numId": 1210,
+        "id": "leather-jackets",
+        "name": "Leather & Faux Leather Jackets",
+        "shortName": "Leather",
+        "fullName": "Women's Leather & Faux Leather Jackets",
+        "localizedId": "leather-jackets"
+    },
+    {
+        "numId": 1744,
+        "id": "denim-jackets",
+        "name": "Denim Jackets",
+        "shortName": "Denim",
+        "fullName": "Women's Denim Jackets",
+        "localizedId": "denim-jackets"
+    },
+    {
+        "numId": 455,
+        "id": "boys-shoes",
+        "name": "Boys' Shoes",
+        "shortName": "Shoes",
+        "fullName": "Boys' Shoes",
+        "localizedId": "boys-shoes"
+    },
+    {
+        "numId": 78,
+        "id": "womens-outerwear",
+        "name": "Outerwear",
+        "shortName": "Coats",
+        "fullName": "Women's Outerwear",
+        "localizedId": "womens-outerwear"
+    },
+    {
+        "numId": 52,
+        "id": "jackets",
+        "name": "Jackets",
+        "shortName": "Jackets",
+        "fullName": "Women's Jackets",
+        "localizedId": "jackets"
+    },
+    {
+        "numId": 2265,
+        "id": "mens-joggers-sweatpants",
+        "name": "Joggers & Sweatpants",
+        "shortName": "Joggers & Sweatpants",
+        "fullName": "Men's Joggers & Sweatpants",
+        "localizedId": "mens-joggers-sweatpants"
+    },
+    {
+        "numId": 82,
+        "id": "puffer-coats",
+        "name": "Down & Puffer Coats",
+        "shortName": "Down & Puffers",
+        "fullName": "Women's Down & Puffer Coats",
+        "localizedId": "puffer-coats"
+    },
+    {
+        "numId": 2124,
+        "id": "mens-long-coats",
+        "name": "Long Coats",
+        "shortName": "Long",
+        "fullName": "Men's Long Coats",
+        "localizedId": "mens-long-coats"
+    },
+    {
+        "numId": 2121,
+        "id": "mens-parka-coats",
+        "name": "Parkas",
+        "shortName": "Parka",
+        "fullName": "Men's Parkas",
+        "localizedId": "mens-parka-coats"
+    },
+    {
+        "numId": 229,
+        "id": "mens-robes",
+        "name": "Robes",
+        "shortName": "Robes",
+        "fullName": "Men's Robes",
+        "localizedId": "mens-robes"
+    },
+    {
+        "numId": 1742,
+        "id": "mens-gloves",
+        "name": "Gloves",
+        "shortName": "Gloves",
+        "fullName": "Men's Gloves",
+        "localizedId": "mens-gloves"
+    },
+    {
+        "numId": 76,
+        "id": "watches",
+        "name": "Watches",
+        "shortName": "Watches",
+        "fullName": "Women's Watches",
+        "localizedId": "watches"
+    },
+    {
+        "numId": 1230,
+        "id": "mens-sports-bags",
+        "name": "Gym & Sports Bags",
+        "shortName": "Gym & Sports",
+        "fullName": "Men's Gym & Sports Bags",
+        "localizedId": "mens-sports-bags"
+    },
+    {
+        "numId": 2079,
+        "id": "mens-belt-bags",
+        "name": "Belt Bags",
+        "shortName": "Belt",
+        "fullName": "Men's Belt Bags",
+        "localizedId": "mens-belt-bags"
+    },
+    {
+        "numId": 2266,
+        "id": "mens-cropped-pants",
+        "name": "Cropped Pants",
+        "shortName": "Cropped",
+        "fullName": "Men's Cropped Pants",
+        "localizedId": "mens-cropped-pants"
+    },
+    {
+        "numId": 40,
+        "id": "tote-bags",
+        "name": "Tote Bags",
+        "shortName": "Totes",
+        "fullName": "Women's Tote Bags",
+        "localizedId": "tote-bags"
+    },
+    {
+        "numId": 69,
+        "id": "fine-necklaces",
+        "name": "Fine Necklaces",
+        "shortName": "Necklaces",
+        "fullName": "Fine Necklaces",
+        "localizedId": "fine-necklaces"
+    },
+    {
+        "numId": 73,
+        "id": "necklaces",
+        "name": "Necklaces",
+        "shortName": "Necklaces",
+        "fullName": "Necklaces",
+        "localizedId": "necklaces"
+    },
+    {
+        "numId": 12,
+        "id": "wallets",
+        "name": "Wallets & Card Holders",
+        "shortName": "Wallets & Card Holders",
+        "fullName": "Women's Wallets & Card Holders",
+        "localizedId": "wallets"
+    },
+    {
+        "numId": 2069,
+        "id": "womens-bag-accessories",
+        "name": "Bag Straps",
+        "shortName": "Bag Straps",
+        "fullName": "Women's Bag Straps",
+        "localizedId": "womens-bag-accessories"
+    },
+    {
+        "numId": 3,
+        "id": "womens-accessories",
+        "name": "Accessories",
+        "shortName": "Accessories",
+        "fullName": "Women's Accessories",
+        "localizedId": "womens-accessories"
+    },
+    {
+        "numId": 450,
+        "id": "boys-accessories",
+        "name": "Boys' Accessories",
+        "shortName": "Accessories",
+        "fullName": "Boys' Accessories",
+        "localizedId": "boys-accessories"
+    },
+    {
+        "numId": 1704,
+        "id": "womens-eyeglasses",
+        "name": "Eyeglasses",
+        "shortName": "Eyeglasses",
+        "fullName": "Women's Eyeglasses",
+        "localizedId": "womens-eyeglasses"
+    },
+    {
+        "numId": 1190,
+        "id": "sweatshirts",
+        "name": "Sweatshirts & Hoodies",
+        "shortName": "Sweatshirts & Hoodies",
+        "fullName": "Women's Sweatshirts & Hoodies",
+        "localizedId": "sweatshirts"
+    },
+    {
+        "numId": 48,
+        "id": "panties",
+        "name": "Panties",
+        "shortName": "Panties",
+        "fullName": "Women's Panties",
+        "localizedId": "panties"
+    },
+    {
+        "numId": 33,
+        "id": "backpacks",
+        "name": "Backpacks",
+        "shortName": "Backpacks",
+        "fullName": "Women's Backpacks",
+        "localizedId": "backpacks"
+    },
+    {
+        "numId": 139,
+        "id": "womens-tops",
+        "name": "Tops",
+        "shortName": "Tops",
+        "fullName": "Women's Tops",
+        "localizedId": "womens-tops"
+    },
+    {
+        "numId": 2044,
+        "id": "womens-sneaker-low-top",
+        "name": "Low Top Sneakers",
+        "shortName": "Low Top",
+        "fullName": "Women's Low Top Sneakers",
+        "localizedId": "womens-sneaker-low-top"
+    },
+    {
+        "numId": 53,
+        "id": "blazers",
+        "name": "Blazers",
+        "shortName": "Blazers",
+        "fullName": "Women's Blazers",
+        "localizedId": "blazers"
+    },
+    {
+        "numId": 40,
+        "id": "tote-bags",
+        "name": "Tote Bags",
+        "shortName": "Totes",
+        "fullName": "Women's Tote Bags",
+        "localizedId": "tote-bags"
+    },
+    {
+        "numId": 1995,
+        "id": "midi-dresses",
+        "name": "Midi Dresses",
+        "shortName": "Midi",
+        "fullName": "Women's Midi Dresses",
+        "localizedId": "midi-dresses"
+    },
+    {
+        "numId": 1990,
+        "id": "floral-dresses",
+        "name": "Floral Dresses",
+        "shortName": "Floral",
+        "fullName": "Women's Floral Dresses",
+        "localizedId": "floral-dresses"
+    },
+    {
+        "numId": 121,
+        "id": "mini-skirts",
+        "name": "Mini Skirts",
+        "shortName": "Mini",
+        "fullName": "Women's Mini Skirts",
+        "localizedId": "mini-skirts"
+    },
+    {
+        "numId": 132,
+        "id": "crewneck-sweaters",
+        "name": "Crewneck & Swoop Neck Sweaters",
+        "shortName": "Crewnecks & Scoopnecks",
+        "fullName": "Women's Crewneck & Scoop Neck Sweaters",
+        "localizedId": "crewneck-sweaters"
+    },
+    {
+        "numId": 78,
+        "id": "womens-outerwear",
+        "name": "Outerwear",
+        "shortName": "Coats",
+        "fullName": "Women's Outerwear",
+        "localizedId": "womens-outerwear"
+    },
+    {
+        "numId": 52,
+        "id": "jackets",
+        "name": "Jackets",
+        "shortName": "Jackets",
+        "fullName": "Women's Jackets",
+        "localizedId": "jackets"
+    },
+    {
+        "numId": 91,
+        "id": "wide-leg-pants",
+        "name": "Wide-Leg Pants",
+        "shortName": "Wide Leg",
+        "fullName": "Women's Wide-Leg Pants",
+        "localizedId": "wide-leg-pants"
+    },
+    {
+        "numId": 1724,
+        "id": "womens-sneakers",
+        "name": "Sneakers & Athletic Shoes",
+        "shortName": "Sneakers & Athletic",
+        "fullName": "Women's Sneakers & Athletic Shoes",
+        "localizedId": "womens-sneakers"
+    },
+    {
+        "numId": 117,
+        "id": "sandals",
+        "name": "Sandals",
+        "shortName": "Sandals",
+        "fullName": "Women's Sandals",
+        "localizedId": "sandals"
+    },
+    {
+        "numId": 54,
+        "id": "casual-jackets",
+        "name": "Casual Jackets",
+        "shortName": "Casual",
+        "fullName": "Women's Casual Jackets",
+        "localizedId": "casual-jackets"
+    },
+    {
+        "numId": 909,
+        "id": "mascara",
+        "name": "Mascara",
+        "shortName": "Mascara",
+        "fullName": "Mascara",
+        "localizedId": "mascara"
+    },
+    {
+        "numId": 39,
+        "id": "shoulder-bags",
+        "name": "Shoulder Bags",
+        "shortName": "Shoulder",
+        "fullName": "Women's Shoulder Bags",
+        "localizedId": "shoulder-bags"
+    },
+    {
+        "numId": 110,
+        "id": "shoes-athletic",
+        "name": "Performance Sneakers",
+        "shortName": "Performance",
+        "fullName": "Women's Performance Sneakers",
+        "localizedId": "shoes-athletic"
+    },
+    {
+        "numId": 13,
+        "id": "womens-athletic-clothes",
+        "name": "Activewear",
+        "shortName": "Activewear",
+        "fullName": "Women's Activewear",
+        "localizedId": "womens-athletic-clothes"
+    },
+    {
+        "numId": 34,
+        "id": "clutches",
+        "name": "Clutches",
+        "shortName": "Clutches",
+        "fullName": "Women's Clutches",
+        "localizedId": "clutches"
+    },
+    {
+        "numId": 35,
+        "id": "evening-handbags",
+        "name": "Evening Bags",
+        "shortName": "Evening",
+        "fullName": "Women's Evening Bags",
+        "localizedId": "evening-handbags"
+    },
+    {
+        "numId": 113,
+        "id": "flats",
+        "name": "Flats",
+        "shortName": "Flats",
+        "fullName": "Women's Flats",
+        "localizedId": "flats"
+    },
+    {
+        "numId": 111,
+        "id": "boots",
+        "name": "Boots",
+        "shortName": "Boots",
+        "fullName": "Women's Boots",
+        "localizedId": "boots"
+    },
+    {
+        "numId": 30,
+        "id": "evening-dresses",
+        "name": "Evening Dresses",
+        "shortName": "Evening",
+        "fullName": "Women's Evening Dresses",
+        "localizedId": "evening-dresses"
+    },
+    {
+        "numId": 2043,
+        "id": "womens-sneaker-high-top",
+        "name": "High Top Sneakers",
+        "shortName": "High Top",
+        "fullName": "Women's High Top Sneakers",
+        "localizedId": "womens-sneaker-high-top"
+    },
+    {
+        "numId": 11,
+        "id": "sunglasses",
+        "name": "Sunglasses",
+        "shortName": "Sunglasses",
+        "fullName": "Women's Sunglasses",
+        "localizedId": "sunglasses"
+    },
+    {
+        "numId": 414,
+        "id": "perfume",
+        "name": "Fragrances",
+        "shortName": "Fragrances",
+        "fullName": "Perfume",
+        "localizedId": "perfume"
+    },
+    {
+        "numId": 119,
+        "id": "shorts",
+        "name": "Shorts",
+        "shortName": "Shorts",
+        "fullName": "Women's Shorts",
+        "localizedId": "shorts"
+    },
+    {
+        "numId": 82,
+        "id": "puffer-coats",
+        "name": "Down & Puffer Coats",
+        "shortName": "Down & Puffers",
+        "fullName": "Women's Down & Puffer Coats",
+        "localizedId": "puffer-coats"
+    },
+    {
+        "numId": 2001,
+        "id": "womens-boots-knee-high",
+        "name": "Knee High Boots",
+        "shortName": "Knee High",
+        "fullName": "Women's Knee High Boots",
+        "localizedId": "womens-boots-knee-high"
+    },
+    {
+        "numId": 29,
+        "id": "day-dresses",
+        "name": "Day Dresses",
+        "shortName": "Day",
+        "fullName": "Women's Day Dresses",
+        "localizedId": "day-dresses"
+    },
+    {
+        "numId": 1992,
+        "id": "printed-dresses",
+        "name": "Printed Dresses",
+        "shortName": "Printed",
+        "fullName": "Women's Printed Dresses",
+        "localizedId": "printed-dresses"
+    },
+    {
+        "numId": 2055,
+        "id": "mens-low-top-sneakers",
+        "name": "Low Top Sneakers",
+        "shortName": "Low Top",
+        "fullName": "Men's Low Top Sneakers",
+        "localizedId": "mens-low-top-sneakers"
+    },
+    {
+        "numId": 1706,
+        "id": "womens-tech-accessories",
+        "name": "Tech Accessories",
+        "shortName": "Tech",
+        "fullName": "Tech accessories for women",
+        "localizedId": "womens-tech-accessories"
+    },
+    {
+        "numId": 2031,
+        "id": "womens-slides",
+        "name": "Slide Sandals",
+        "shortName": "Slides",
+        "fullName": "Women's Slide Sandals",
+        "localizedId": "womens-slides"
+    },
+    {
+        "numId": 1996,
+        "id": "maxi-dresses",
+        "name": "Maxi Dresses",
+        "shortName": "Maxi",
+        "fullName": "Women's Maxi Dresses",
+        "localizedId": "maxi-dresses"
+    },
+    {
+        "numId": 1988,
+        "id": "formal-dresses",
+        "name": "Formal Dresses",
+        "shortName": "Formal",
+        "fullName": "Women's Formal Dresses",
+        "localizedId": "formal-dresses"
+    },
+    {
+        "numId": 1997,
+        "id": "long-sleeve-dresses",
+        "name": "Long Sleeve Dresses",
+        "shortName": "Long Sleeve",
+        "fullName": "Women's Long Sleeve Dresses",
+        "localizedId": "long-sleeve-dresses"
+    },
+    {
+        "numId": 9,
+        "id": "hats",
+        "name": "Hats",
+        "shortName": "Hats",
+        "fullName": "Women's Hats",
+        "localizedId": "hats"
+    },
+    {
+        "numId": 76,
+        "id": "watches",
+        "name": "Watches",
+        "shortName": "Watches",
+        "fullName": "Women's Watches",
+        "localizedId": "watches"
+    },
+    {
+        "numId": 1974,
+        "id": "womens-flats-loafers",
+        "name": "Loafers",
+        "shortName": "Loafers",
+        "fullName": "Women's Loafer Flats",
+        "localizedId": "womens-flats-loafers"
+    },
+    {
+        "numId": 38,
+        "id": "satchels",
+        "name": "Satchels & Top Handle Bags",
+        "shortName": "Satchels & Top Handles",
+        "fullName": "Women's Satchels & Top Handle Bags",
+        "localizedId": "satchels"
+    },
+    {
+        "numId": 75,
+        "id": "rings",
+        "name": "Rings",
+        "shortName": "Rings",
+        "fullName": "Rings",
+        "localizedId": "rings"
+    },
+    {
+        "numId": 1745,
+        "id": "jumpsuits-and-rompers",
+        "name": "Jumpsuits & Rompers",
+        "shortName": "Jumpsuits & Rompers",
+        "fullName": "Women's Jumpsuits & Rompers",
+        "localizedId": "jumpsuits-and-rompers"
+    },
+    {
+        "numId": 122,
+        "id": "mid-length-skirts",
+        "name": "Mid Length Skirts",
+        "shortName": "Mid-length",
+        "fullName": "Women's Mid Length Skirts",
+        "localizedId": "mid-length-skirts"
+    },
+    {
+        "numId": 79,
+        "id": "coats",
+        "name": "Coats",
+        "shortName": "Coats",
+        "fullName": "Women's Coats",
+        "localizedId": "coats"
+    },
+    {
+        "numId": 2095,
+        "id": "womens-long-coats",
+        "name": "Long Coats",
+        "shortName": "Long",
+        "fullName": "Women's Long Coats",
+        "localizedId": "womens-long-coats"
+    },
+    {
+        "numId": 1987,
+        "id": "cocktail-dresses",
+        "name": "Cocktail Dresses",
+        "shortName": "Cocktail",
+        "fullName": "Women's Cocktail Dresses",
+        "localizedId": "cocktail-dresses"
+    },
+    {
+        "numId": 83,
+        "id": "raincoats-and-trenchcoats",
+        "name": "Raincoats & Trench Coats",
+        "shortName": "Raincoats",
+        "fullName": "Women's Raincoats & Trench Coats",
+        "localizedId": "raincoats-and-trenchcoats"
+    },
+    {
+        "numId": 1972,
+        "id": "womens-flats-ballet",
+        "name": "Ballet Flats",
+        "shortName": "Ballet",
+        "fullName": "Women's Ballet Flats",
+        "localizedId": "womens-flats-ballet"
+    },
+    {
+        "numId": 1726,
+        "id": "mens-sneakers",
+        "name": "Sneakers & Athletic Shoes",
+        "shortName": "Sneakers & Athletic",
+        "fullName": "Men's Sneakers & Athletic Shoes",
+        "localizedId": "mens-sneakers"
+    },
+    {
+        "numId": 418,
+        "id": "straight-leg-jeans",
+        "name": "Straight-Leg Jeans",
+        "shortName": "Straight Fit",
+        "fullName": "Women's Straight-Leg Jeans",
+        "localizedId": "straight-leg-jeans"
+    },
+    {
+        "numId": 2024,
+        "id": "womens-pump-closed-toe",
+        "name": "Closed Toe Pumps",
+        "shortName": "Closed Toe",
+        "fullName": "Women's Closed Toe Pumps",
+        "localizedId": "womens-pump-closed-toe"
+    },
+    {
+        "numId": 2038,
+        "id": "womens-slingback",
+        "name": "Slingbacks",
+        "shortName": "Slingback",
+        "fullName": "Women's Slingbacks",
+        "localizedId": "womens-slingback"
+    },
+    {
+        "numId": 2074,
+        "id": "womens-cross-body-bags",
+        "name": "Crossbody Bags",
+        "shortName": "Cross Body",
+        "fullName": "Women's Crossbody Bags",
+        "localizedId": "womens-cross-body-bags"
+    },
+    {
+        "numId": 2002,
+        "id": "womens-boots-over-the-knee",
+        "name": "Over the Knee Boots",
+        "shortName": "Over the Knee",
+        "fullName": "Women's Over the Knee Boots",
+        "localizedId": "womens-boots-over-the-knee"
+    },
+    {
+        "numId": 1014,
+        "id": "maternity-swimsuits",
+        "name": "Maternity Swimwear",
+        "shortName": "Swimwear",
+        "fullName": "Women's Maternity Swimwear",
+        "localizedId": "maternity-swimsuits"
+    },
+    {
+        "numId": 136,
+        "id": "one-piece-swimsuits",
+        "name": "One Piece Swimsuits",
+        "shortName": "One-Piece",
+        "fullName": "Women's One Piece Swimsuits",
+        "localizedId": "one-piece-swimsuits"
+    },
+    {
+        "numId": 36,
+        "id": "hobo-bags",
+        "name": "Hobo Bags",
+        "shortName": "Hobos",
+        "fullName": "Women's Hobo Bags",
+        "localizedId": "hobo-bags"
+    },
+    {
+        "numId": 1993,
+        "id": "mini-dresses",
+        "name": "Mini Dresses",
+        "shortName": "Mini",
+        "fullName": "Women's Mini Dresses",
+        "localizedId": "mini-dresses"
+    },
+    {
+        "numId": 4,
+        "id": "belts",
+        "name": "Belts",
+        "shortName": "Belts",
+        "fullName": "Women's Belts",
+        "localizedId": "belts"
+    },
+    {
+        "numId": 2062,
+        "id": "bodysuits",
+        "name": "Bodysuits",
+        "shortName": "Bodysuits",
+        "fullName": "Women's Bodysuits",
+        "localizedId": "bodysuits"
+    },
+    {
+        "numId": 120,
+        "id": "skirts",
+        "name": "Skirts",
+        "shortName": "Skirts",
+        "fullName": "Women's Skirts",
+        "localizedId": "skirts"
+    },
+    {
+        "numId": 555,
+        "id": "sun-care",
+        "name": "Sun Care",
+        "shortName": "Sun",
+        "fullName": "Sun Care",
+        "localizedId": "sun-care"
+    },
+    {
+        "numId": 978,
+        "id": "blow-dryers-irons",
+        "name": "Blow Dryers & Irons",
+        "shortName": "Blow Dryers & Irons",
+        "fullName": "Blow Dryers & Irons",
+        "localizedId": "blow-dryers-irons"
+    },
+    {
+        "numId": 1190,
+        "id": "sweatshirts",
+        "name": "Sweatshirts & Hoodies",
+        "shortName": "Sweatshirts & Hoodies",
+        "fullName": "Women's Sweatshirts & Hoodies",
+        "localizedId": "sweatshirts"
+    },
+    {
+        "numId": 1210,
+        "id": "leather-jackets",
+        "name": "Leather & Faux Leather Jackets",
+        "shortName": "Leather",
+        "fullName": "Women's Leather & Faux Leather Jackets",
+        "localizedId": "leather-jackets"
+    },
+    {
+        "numId": 1140,
+        "id": "womens-pants",
+        "name": "Pants",
+        "shortName": "Pants",
+        "fullName": "Women's Pants",
+        "localizedId": "womens-pants"
+    },
+    {
+        "numId": 152,
+        "id": "plus-size-dresses",
+        "name": "Plus Size Dresses",
+        "shortName": "Dresses",
+        "fullName": "Women's Plus Size Dresses",
+        "localizedId": "plus-size-dresses"
+    },
+    {
+        "numId": 22,
+        "id": "bridal",
+        "name": "Bridal",
+        "shortName": "Bridal",
+        "fullName": "Bridal",
+        "localizedId": "bridal"
+    },
+    {
+        "numId": 1229,
+        "id": "bridal-dresses",
+        "name": "Bridal Dresses",
+        "shortName": "Bridal",
+        "fullName": "Bridal Dresses",
+        "localizedId": "bridal-dresses"
+    },
+    {
+        "numId": 1977,
+        "id": "womens-mules",
+        "name": "Mules",
+        "shortName": "Mules",
+        "fullName": "Women's Mules",
+        "localizedId": "womens-mules"
+    },
+    {
+        "numId": 95,
+        "id": "petite-dresses",
+        "name": "Petite Dresses",
+        "shortName": "Dresses",
+        "fullName": "Women's Petite Dresses",
+        "localizedId": "petite-dresses"
+    },
+    {
+        "numId": 46,
+        "id": "gowns",
+        "name": "Nightgowns",
+        "shortName": "Gowns",
+        "fullName": "Women's Nightgowns",
+        "localizedId": "gowns"
+    },
+    {
+        "numId": 1986,
+        "id": "party-dresses",
+        "name": "Party Dresses",
+        "shortName": "Party",
+        "fullName": "Women's Party Dresses",
+        "localizedId": "party-dresses"
+    },
+    {
+        "numId": 116,
+        "id": "pumps",
+        "name": "Pumps",
+        "shortName": "Heels",
+        "fullName": "Women's Pumps",
+        "localizedId": "pumps"
+    },
+    {
+        "numId": 906,
+        "id": "eye-shadow",
+        "name": "Eye Shadow",
+        "shortName": "Eye Shadow",
+        "fullName": "Eye Shadow",
+        "localizedId": "eye-shadow"
+    },
+    {
+        "numId": 148,
+        "id": "tees-and-tshirts",
+        "name": "T-shirts",
+        "shortName": "T-shirts",
+        "fullName": "Women's T-shirts",
+        "localizedId": "tees-and-tshirts"
+    },
+    {
+        "numId": 89,
+        "id": "leggings",
+        "name": "Leggings",
+        "shortName": "Leggings",
+        "fullName": "Women's Leggings",
+        "localizedId": "leggings"
+    },
+    {
+        "numId": 69,
+        "id": "fine-necklaces",
+        "name": "Fine Necklaces",
+        "shortName": "Necklaces",
+        "fullName": "Fine Necklaces",
+        "localizedId": "fine-necklaces"
+    },
+    {
+        "numId": 73,
+        "id": "necklaces",
+        "name": "Necklaces",
+        "shortName": "Necklaces",
+        "fullName": "Necklaces",
+        "localizedId": "necklaces"
+    },
+    {
+        "numId": 97,
+        "id": "petite-jackets",
+        "name": "Petite Jackets",
+        "shortName": "Jackets",
+        "fullName": "Women's Petite Jackets",
+        "localizedId": "petite-jackets"
+    },
+    {
+        "numId": 61,
+        "id": "distressed-jeans",
+        "name": "Distressed Jeans",
+        "shortName": "Distressed Jeans",
+        "fullName": "Women's Distressed Jeans",
+        "localizedId": "distressed-jeans"
+    },
+    {
+        "numId": 64,
+        "id": "skinny-jeans",
+        "name": "Skinny Jeans",
+        "shortName": "Skinny Fit",
+        "fullName": "Women's Skinny Jeans",
+        "localizedId": "skinny-jeans"
+    },
+    {
+        "numId": 114,
+        "id": "mules-and-clogs",
+        "name": "Mules & Clogs",
+        "shortName": "Mules & Clogs",
+        "fullName": "Women's Mules & Clogs",
+        "localizedId": "mules-and-clogs"
+    },
+    {
+        "numId": 2070,
+        "id": "womens-bucket-bags",
+        "name": "Bucket Bags",
+        "shortName": "Bucket",
+        "fullName": "Women's Bucket Bags",
+        "localizedId": "womens-bucket-bags"
+    },
+    {
+        "numId": 1975,
+        "id": "womens-flats-oxfords",
+        "name": "Oxfords",
+        "shortName": "Oxfords",
+        "fullName": "Women's Oxford Flats",
+        "localizedId": "womens-flats-oxfords"
+    },
+    {
+        "numId": 925,
+        "id": "face-makeup-removers",
+        "name": "Face Makeup Removers",
+        "shortName": "Makeup Removers",
+        "fullName": "Face Makeup Removers",
+        "localizedId": "face-makeup-removers"
+    },
+    {
+        "numId": 154,
+        "id": "plus-size-jackets",
+        "name": "Plus Size Jackets",
+        "shortName": "Jackets",
+        "fullName": "Women's Plus Size Jackets",
+        "localizedId": "plus-size-jackets"
+    },
+    {
+        "numId": 2090,
+        "id": "womens-bomber-jackets",
+        "name": "Bomber Jackets",
+        "shortName": "Bomber",
+        "fullName": "Women's Bomber Jackets",
+        "localizedId": "womens-bomber-jackets"
+    },
+    {
+        "numId": 165,
+        "id": "plus-size-tops",
+        "name": "Plus Size Tops",
+        "shortName": "Tops",
+        "fullName": "Women's Plus Size Tops",
+        "localizedId": "plus-size-tops"
+    },
+    {
+        "numId": 2063,
+        "id": "crop-tops",
+        "name": "Crop Tops",
+        "shortName": "Crop Tops",
+        "fullName": "Women's Crop Tops",
+        "localizedId": "crop-tops"
+    },
+    {
+        "numId": 2112,
+        "id": "womens-sleepwear-pajama-sets",
+        "name": "Pajama Sets",
+        "shortName": "Pajama Sets",
+        "fullName": "Pajama Sets",
+        "localizedId": "womens-sleepwear-pajama-sets"
+    },
+    {
+        "numId": 2113,
+        "id": "womens-sleepwear-tops",
+        "name": "Sleepwear Tops",
+        "shortName": "Tops",
+        "fullName": "Sleepwear Tops",
+        "localizedId": "womens-sleepwear-tops"
+    },
+    {
+        "numId": 118,
+        "id": "wedges",
+        "name": "Wedges",
+        "shortName": "Wedges",
+        "fullName": "Women's Wedges",
+        "localizedId": "wedges"
+    },
+    {
+        "numId": 57,
+        "id": "jeans",
+        "name": "Jeans",
+        "shortName": "Jeans",
+        "fullName": "Women's Jeans",
+        "localizedId": "jeans"
+    },
+    {
+        "numId": 2020,
+        "id": "womens-platform-sandals",
+        "name": "Platform Sandals",
+        "shortName": "Sandals",
+        "fullName": "Women's Platform Sandals",
+        "localizedId": "womens-platform-sandals"
+    },
+    {
+        "numId": 2327,
+        "id": "shirts",
+        "name": "Shirts",
+        "shortName": "Shirts",
+        "fullName": "Women's Shirts",
+        "localizedId": "shirts"
+    },
+    {
+        "numId": 1142,
+        "id": "plus-size-pants",
+        "name": "Plus Size Pants",
+        "shortName": "Pants",
+        "fullName": "Women's Plus Size Pants",
+        "localizedId": "plus-size-pants"
+    },
+    {
+        "numId": 128,
+        "id": "womens-suits",
+        "name": "Suits",
+        "shortName": "Suits",
+        "fullName": "Women's Suits",
+        "localizedId": "womens-suits"
+    },
+    {
+        "numId": 60,
+        "id": "cropped-jeans",
+        "name": "Cropped Jeans",
+        "shortName": "Cropped Fit",
+        "fullName": "Women's Cropped Jeans",
+        "localizedId": "cropped-jeans"
+    },
+    {
+        "numId": 1998,
+        "id": "womens-boots-ankle",
+        "name": "Ankle Boots",
+        "shortName": "Ankle",
+        "fullName": "Women's Ankle Boots",
+        "localizedId": "womens-boots-ankle"
+    },
+    {
+        "numId": 2076,
+        "id": "womens-mini-bags",
+        "name": "Mini Bags",
+        "shortName": "Mini",
+        "fullName": "Women's Mini Bags",
+        "localizedId": "womens-mini-bags"
+    },
+    {
+        "numId": 1984,
+        "id": "casual-dresses",
+        "name": "Casual Dresses",
+        "shortName": "Casual",
+        "fullName": "Women's Casual Dresses",
+        "localizedId": "casual-dresses"
+    },
+    {
+        "numId": 130,
+        "id": "cardigan-sweaters",
+        "name": "Cardigans",
+        "shortName": "Cardigans",
+        "fullName": "Women's Cardigans",
+        "localizedId": "cardigan-sweaters"
+    },
+    {
+        "numId": 2096,
+        "id": "womens-short-coats",
+        "name": "Short Coats",
+        "shortName": "Short",
+        "fullName": "Women's Short Coats",
+        "localizedId": "womens-short-coats"
+    },
+    {
+        "numId": 41,
+        "id": "womens-intimates",
+        "name": "Lingerie",
+        "shortName": "Intimates",
+        "fullName": "Women's Lingerie",
+        "localizedId": "womens-intimates"
+    },
+    {
+        "numId": 123,
+        "id": "long-skirts",
+        "name": "Long Skirts",
+        "shortName": "Long",
+        "fullName": "Women's Long Skirts",
+        "localizedId": "long-skirts"
+    },
+    {
+        "numId": 129,
+        "id": "sweaters",
+        "name": "Sweaters",
+        "shortName": "Sweaters",
+        "fullName": "Women's Sweaters",
+        "localizedId": "sweaters"
+    },
+    {
+        "numId": 2061,
+        "id": "blouses",
+        "name": "Blouses",
+        "shortName": "Blouses",
+        "fullName": "Women's Blouses",
+        "localizedId": "blouses"
+    },
+    {
+        "numId": 2071,
+        "id": "womens-belt-bags",
+        "name": "Belt Bags",
+        "shortName": "Belt",
+        "fullName": "Women's Belt Bags",
+        "localizedId": "womens-belt-bags"
+    },
+    {
+        "numId": 1141,
+        "id": "petite-pants",
+        "name": "Petite Pants",
+        "shortName": "Pants",
+        "fullName": "Women's Petite Pants",
+        "localizedId": "petite-pants"
+    },
+    {
+        "numId": 112,
+        "id": "evening-shoes",
+        "name": "Evening Shoes",
+        "shortName": "Evening",
+        "fullName": "Women's Evening Shoes",
+        "localizedId": "evening-shoes"
+    },
+    {
+        "numId": 88,
+        "id": "dress-pants",
+        "name": "Dress Pants",
+        "shortName": "Dress",
+        "fullName": "Women's Dress Pants",
+        "localizedId": "dress-pants"
+    },
+    {
+        "numId": 163,
+        "id": "plus-size-sweaters",
+        "name": "Plus Size Sweaters",
+        "shortName": "Sweaters",
+        "fullName": "Women's Plus Size Sweaters",
+        "localizedId": "plus-size-sweaters"
+    },
+    {
+        "numId": 133,
+        "id": "turleneck-sweaters",
+        "name": "Turtleneck Sweaters",
+        "shortName": "Turtlenecks",
+        "fullName": "Women's Turtleneck Sweaters",
+        "localizedId": "turleneck-sweaters"
+    },
+    {
+        "numId": 954,
+        "id": "body-lotions-creams",
+        "name": "Body Lotions & Creams",
+        "shortName": "Body Lotions & Creams",
+        "fullName": "Body Lotions & Creams",
+        "localizedId": "body-lotions-creams"
+    },
+    {
+        "numId": 955,
+        "id": "body-oils",
+        "name": "Body Oils",
+        "shortName": "Body Oils",
+        "fullName": "Body Oils",
+        "localizedId": "body-oils"
+    },
+    {
+        "numId": 967,
+        "id": "bath-body-gift-sets",
+        "name": "Beauty & Skincare Sets",
+        "shortName": "Beauty & Skincare Sets",
+        "fullName": "Skincare Sets",
+        "localizedId": "bath-body-gift-sets"
+    },
+    {
+        "numId": 51,
+        "id": "thongs",
+        "name": "Thongs",
+        "shortName": "Thongs",
+        "fullName": "Women's Thongs",
+        "localizedId": "thongs"
+    },
+    {
+        "numId": 135,
+        "id": "swimsuits",
+        "name": "Swimwear",
+        "shortName": "Swimwear",
+        "fullName": "Women's Swimwear",
+        "localizedId": "swimsuits"
+    },
+    {
+        "numId": 80,
+        "id": "fur-and-shearling-coats",
+        "name": "Fur & Shearling Coats",
+        "shortName": "Fur & Shearling",
+        "fullName": "Women's Fur & Shearling Coats",
+        "localizedId": "fur-and-shearling-coats"
+    },
+    {
+        "numId": 115,
+        "id": "platforms",
+        "name": "Platforms",
+        "shortName": "Platforms",
+        "fullName": "Women's Platforms",
+        "localizedId": "platforms"
+    },
+    {
+        "numId": 72,
+        "id": "earrings",
+        "name": "Earrings",
+        "shortName": "Earrings",
+        "fullName": "Earrings",
+        "localizedId": "earrings"
+    },
+    {
+        "numId": 58,
+        "id": "bootcut-jeans",
+        "name": "Bootcut Jeans",
+        "shortName": "Bootcut Fit",
+        "fullName": "Women's Bootcut Jeans",
+        "localizedId": "bootcut-jeans"
+    },
+    {
+        "numId": 77,
+        "id": "maternity-clothes",
+        "name": "Maternity Clothing",
+        "shortName": "Maternity",
+        "fullName": "Women's Maternity Clothing",
+        "localizedId": "maternity-clothes"
+    },
+    {
+        "numId": 419,
+        "id": "stretch-jeans",
+        "name": "Stretch Jeans",
+        "shortName": "Stretch Jeans",
+        "fullName": "Women's Stretch Jeans",
+        "localizedId": "stretch-jeans"
+    },
+    {
+        "numId": 1192,
+        "id": "key-chains",
+        "name": "Key Chains",
+        "shortName": "Key Chains",
+        "fullName": "Key Chains",
+        "localizedId": "key-chains"
+    },
+    {
+        "numId": 96,
+        "id": "petite-intimates",
+        "name": "Petite Lingerie",
+        "shortName": "Lingerie",
+        "fullName": "Women's Petite Lingerie",
+        "localizedId": "petite-intimates"
+    },
+    {
+        "numId": 50,
+        "id": "shapewear",
+        "name": "Shapewear",
+        "shortName": "Shapewear",
+        "fullName": "Women's Shapewear",
+        "localizedId": "shapewear"
+    },
+    {
+        "numId": 86,
+        "id": "casual-pants",
+        "name": "Casual Pants",
+        "shortName": "Casual",
+        "fullName": "Women's Casual Pants",
+        "localizedId": "casual-pants"
+    },
+    {
+        "numId": 2008,
+        "id": "womens-boots-cold-weather",
+        "name": "Cold Weather Boots",
+        "shortName": "Cold Weather",
+        "fullName": "Women's Cold Weather Boots",
+        "localizedId": "womens-boots-cold-weather"
+    },
+    {
+        "numId": 1708,
+        "id": "petite-sweatshirts",
+        "name": "Petite Sweatshirts",
+        "shortName": "Sweatshirts & Hoodies",
+        "fullName": "Women's Petite Sweatshirts",
+        "localizedId": "petite-sweatshirts"
+    },
+    {
+        "numId": 2022,
+        "id": "womens-pump-stiletto",
+        "name": "Stiletto Pumps",
+        "shortName": "Stiletto",
+        "fullName": "Women's Stiletto Pumps",
+        "localizedId": "womens-pump-stiletto"
+    },
+    {
+        "numId": 2080,
+        "id": "mens-cross-body-bags",
+        "name": "Crossbody Bags",
+        "shortName": "Cross Body",
+        "fullName": "Men's Crossbody Bags",
+        "localizedId": "mens-cross-body-bags"
+    },
+    {
+        "numId": 1971,
+        "id": "womens-shoes-booties",
+        "name": "Booties",
+        "shortName": "Booties",
+        "fullName": "Women's Booties",
+        "localizedId": "womens-shoes-booties"
+    },
+    {
+        "numId": 2103,
+        "id": "womens-straight-pants",
+        "name": "Straight Pants",
+        "shortName": "Straight",
+        "fullName": "Women's Straight Pants",
+        "localizedId": "womens-straight-pants"
+    },
+    {
+        "numId": 26,
+        "id": "dresses",
+        "name": "Dresses",
+        "shortName": "Dresses",
+        "fullName": "Women's Dresses",
+        "localizedId": "dresses"
+    },
+    {
+        "numId": 1744,
+        "id": "denim-jackets",
+        "name": "Denim Jackets",
+        "shortName": "Denim",
+        "fullName": "Women's Denim Jackets",
+        "localizedId": "denim-jackets"
+    },
+    {
+        "numId": 131,
+        "id": "cashmere-sweaters",
+        "name": "Cashmere Sweaters",
+        "shortName": "Cashmere",
+        "fullName": "Women's Cashmere Sweaters",
+        "localizedId": "cashmere-sweaters"
+    },
+    {
+        "numId": 126,
+        "id": "robes",
+        "name": "Robes",
+        "shortName": "Robes",
+        "fullName": "Women's Robes",
+        "localizedId": "robes"
+    },
+    {
+        "numId": 2314,
+        "id": "womens-matching-sets",
+        "name": "Matching Sets",
+        "shortName": "Matching Sets",
+        "fullName": "Two-Piece Sets",
+        "localizedId": "womens-matching-sets"
+    },
+    {
+        "numId": 950,
+        "id": "body-cleansers-soap",
+        "name": "Bar Soap",
+        "shortName": "Bar Soap",
+        "fullName": "Bar Soap",
+        "localizedId": "body-cleansers-soap"
+    },
+    {
+        "numId": 137,
+        "id": "two-piece-swimsuits",
+        "name": "Two Piece Swimsuits",
+        "shortName": "Bikinis",
+        "fullName": "Women's Two Piece Swimsuits",
+        "localizedId": "two-piece-swimsuits"
+    },
+    {
+        "numId": 62,
+        "id": "flare-jeans",
+        "name": "Flare Jeans",
+        "shortName": "Flare Fit",
+        "fullName": "Women's Flare Jeans",
+        "localizedId": "flare-jeans"
+    },
+    {
+        "numId": 1207,
+        "id": "mens-sweatshirts",
+        "name": "Sweatshirts & Hoodies",
+        "shortName": "Sweatshirts & Hoodies",
+        "fullName": "Men's Sweatshirts & Hoodies",
+        "localizedId": "mens-sweatshirts"
+    },
+    {
+        "numId": 1978,
+        "id": "womens-clogs",
+        "name": "Clogs",
+        "shortName": "Clogs",
+        "fullName": "Women's Clogs",
+        "localizedId": "womens-clogs"
+    },
+    {
+        "numId": 2248,
+        "id": "womens-joggers-sweats",
+        "name": "Joggers & Sweats",
+        "shortName": "Athletic",
+        "fullName": "Joggers & Sweats",
+        "localizedId": "womens-joggers-sweats"
+    },
+    {
+        "numId": 42,
+        "id": "bras",
+        "name": "Bras",
+        "shortName": "Bras",
+        "fullName": "Women's Bras",
+        "localizedId": "bras"
+    },
+    {
+        "numId": 2019,
+        "id": "womens-platform-sneakers",
+        "name": "Platform Sneakers",
+        "shortName": "Sneakers",
+        "fullName": "Women's Platform Sneakers",
+        "localizedId": "womens-platform-sneakers"
+    },
+    {
+        "numId": 2102,
+        "id": "womens-leather-pants",
+        "name": "Leather Pants",
+        "shortName": "Leather",
+        "fullName": "Women's Leather Pants",
+        "localizedId": "womens-leather-pants"
+    },
+    {
+        "numId": 420,
+        "id": "fine-rings",
+        "name": "Fine Rings",
+        "shortName": "Rings",
+        "fullName": "Fine Rings",
+        "localizedId": "fine-rings"
+    },
+    {
+        "numId": 2073,
+        "id": "womens-camera-bags",
+        "name": "Camera Bags",
+        "shortName": "Camera",
+        "fullName": "Women's Camera Bags",
+        "localizedId": "womens-camera-bags"
+    },
+    {
+        "numId": 220,
+        "id": "mens-shoes-athletic",
+        "name": "Performance Sneakers",
+        "shortName": "Performance",
+        "fullName": "Men's Performance Sneakers",
+        "localizedId": "mens-shoes-athletic"
+    },
+    {
+        "numId": 177,
+        "id": "mens-athletic",
+        "name": "Activewear",
+        "shortName": "Activewear",
+        "fullName": "Men's Activewear",
+        "localizedId": "mens-athletic"
+    },
+    {
+        "numId": 92,
+        "id": "petites",
+        "name": "Petite Clothing",
+        "shortName": "Petites",
+        "fullName": "Women's Petite Clothing",
+        "localizedId": "petites"
+    },
+    {
+        "numId": 2030,
+        "id": "womens-flip-flops",
+        "name": "Flip Flop Sandals",
+        "shortName": "Flip Flops",
+        "fullName": "Women's Flip Flop Sandals",
+        "localizedId": "womens-flip-flops"
+    },
+    {
+        "numId": 2091,
+        "id": "womens-capes",
+        "name": "Capes",
+        "shortName": "Capes",
+        "fullName": "Women's Capes",
+        "localizedId": "womens-capes"
+    },
+    {
+        "numId": 10,
+        "id": "scarves",
+        "name": "Scarves & Wraps",
+        "shortName": "Scarves & Wraps",
+        "fullName": "Women's Scarves",
+        "localizedId": "scarves"
+    },
+    {
+        "numId": 1723,
+        "id": "womens-espadrilles",
+        "name": "Espadrilles",
+        "shortName": "Espadrilles",
+        "fullName": "Women's Espadrilles",
+        "localizedId": "womens-espadrilles"
+    },
+    {
+        "numId": 108,
+        "id": "petite-tops",
+        "name": "Petite Tops",
+        "shortName": "Tops",
+        "fullName": "Women's Petite Tops",
+        "localizedId": "petite-tops"
+    },
+    {
+        "numId": 87,
+        "id": "cropped-pants",
+        "name": "Cropped Pants",
+        "shortName": "Cropped",
+        "fullName": "Women's Cropped Pants",
+        "localizedId": "cropped-pants"
+    },
+    {
+        "numId": 553,
+        "id": "eye-care",
+        "name": "Eye Care",
+        "shortName": "Eyes",
+        "fullName": "Eye Care",
+        "localizedId": "eye-care"
+    },
+    {
+        "numId": 2104,
+        "id": "womens-shorts-jean",
+        "name": "Denim Shorts",
+        "shortName": "Denim",
+        "fullName": "Women's Denim Shorts",
+        "localizedId": "womens-shorts-jean"
+    },
+    {
+        "numId": 1999,
+        "id": "womens-boots-chelsea",
+        "name": "Chelsea Boots",
+        "shortName": "Chelsea",
+        "fullName": "Women's Chelsea Boots",
+        "localizedId": "womens-boots-chelsea"
+    },
+    {
+        "numId": 2011,
+        "id": "womens-espadrilles-wedges",
+        "name": "Wedge Espadrilles",
+        "shortName": "Wedges",
+        "fullName": "Women's Wedge Espadrilles",
+        "localizedId": "womens-espadrilles-wedges"
+    },
+    {
+        "numId": 2110,
+        "id": "womens-skorts",
+        "name": "Skorts",
+        "shortName": "Skorts",
+        "fullName": "Women's Skorts",
+        "localizedId": "womens-skorts"
+    },
+    {
+        "numId": 12,
+        "id": "wallets",
+        "name": "Wallets & Card Holders",
+        "shortName": "Wallets & Card Holders",
+        "fullName": "Women's Wallets & Card Holders",
+        "localizedId": "wallets"
+    },
+    {
+        "numId": 56,
+        "id": "vests",
+        "name": "Vests",
+        "shortName": "Vests",
+        "fullName": "Women's Vests",
+        "localizedId": "vests"
+    },
+    {
+        "numId": 2045,
+        "id": "womens-sneaker-slip-on",
+        "name": "Slip On Sneakers",
+        "shortName": "Slip On",
+        "fullName": "Women's Slip On Sneakers",
+        "localizedId": "womens-sneaker-slip-on"
+    },
+    {
+        "numId": 2083,
+        "id": "womens-wide-leg-jeans",
+        "name": "Wide-Leg Jeans",
+        "shortName": "Wide Leg",
+        "fullName": "Women's Wide-Leg Jeans",
+        "localizedId": "womens-wide-leg-jeans"
+    },
+    {
+        "numId": 153,
+        "id": "plus-size-intimates",
+        "name": "Plus Size Intimates",
+        "shortName": "Intimates",
+        "fullName": "Women's Plus Size Intimates",
+        "localizedId": "plus-size-intimates"
+    },
+    {
+        "numId": 2018,
+        "id": "womens-platform-boots",
+        "name": "Platform Boots",
+        "shortName": "Boots",
+        "fullName": "Women's Platform Boots",
+        "localizedId": "womens-platform-boots"
+    },
+    {
+        "numId": 2085,
+        "id": "womens-overalls",
+        "name": "Denim Overalls",
+        "shortName": "Overalls",
+        "fullName": "Women's Denim Overalls",
+        "localizedId": "womens-overalls"
+    },
+    {
+        "numId": 138,
+        "id": "swimsuit-coverups",
+        "name": "Swimsuit Coverups",
+        "shortName": "Cover-ups",
+        "fullName": "Women's Swimsuit Coverups",
+        "localizedId": "swimsuit-coverups"
+    },
+    {
+        "numId": 134,
+        "id": "v-neck-sweaters",
+        "name": "V-Neck Sweaters",
+        "shortName": "V-Necks",
+        "fullName": "Women's V-Neck Sweaters",
+        "localizedId": "v-neck-sweaters"
+    },
+    {
+        "numId": 2082,
+        "id": "womens-boyfriend-jeans",
+        "name": "Boyfriend Jeans",
+        "shortName": "Boyfriend",
+        "fullName": "Women's Boyfriend Jeans",
+        "localizedId": "womens-boyfriend-jeans"
+    },
+    {
+        "numId": 47,
+        "id": "hosiery",
+        "name": "Hosiery",
+        "shortName": "Hosiery",
+        "fullName": "Women's Hosiery",
+        "localizedId": "hosiery"
+    },
+    {
+        "numId": 2072,
+        "id": "womens-beach-and-straw-bags",
+        "name": "Beach & Straw Bags",
+        "shortName": "Beach & Straw",
+        "fullName": "Women's Beach & Straw Bags",
+        "localizedId": "womens-beach-and-straw-bags"
+    },
+    {
+        "numId": 2000,
+        "id": "womens-boots-combat",
+        "name": "Combat Boots",
+        "shortName": "Combat",
+        "fullName": "Women's Combat Boots",
+        "localizedId": "womens-boots-combat"
+    },
+    {
+        "numId": 1709,
+        "id": "plus-size-sweatshirts",
+        "name": "Plus Size Sweatshirts & Hoodies",
+        "shortName": "Sweatshirts & Hoodies",
+        "fullName": "Women's Plus Size Sweatshirts & Hoodies",
+        "localizedId": "plus-size-sweatshirts"
+    },
+    {
+        "numId": 2114,
+        "id": "womens-sleepwear-bottoms",
+        "name": "Bottoms",
+        "shortName": "Bottoms",
+        "fullName": "Bottoms",
+        "localizedId": "womens-sleepwear-bottoms"
+    },
+    {
+        "numId": 74,
+        "id": "brooches-and-pins",
+        "name": "Pins",
+        "shortName": "Pins",
+        "fullName": "Pins",
+        "localizedId": "brooches-and-pins"
+    },
+    {
+        "numId": 48,
+        "id": "panties",
+        "name": "Panties",
+        "shortName": "Panties",
+        "fullName": "Women's Panties",
+        "localizedId": "panties"
+    },
+    {
+        "numId": 904,
+        "id": "face-luminizer",
+        "name": "Face Highlighter",
+        "shortName": "Highlighter",
+        "fullName": "Face Highlighter",
+        "localizedId": "face-luminizer"
+    },
+    {
+        "numId": 972,
+        "id": "hair-shampoo",
+        "name": "Shampoo",
+        "shortName": "Shampoo",
+        "fullName": "Shampoo",
+        "localizedId": "hair-shampoo"
+    },
+    {
+        "numId": 70,
+        "id": "bracelets",
+        "name": "Bracelets",
+        "shortName": "Bracelets",
+        "fullName": "Bracelets",
+        "localizedId": "bracelets"
+    },
+    {
+        "numId": 2229,
+        "id": "women-slim-fit-jean",
+        "name": "Slim Jeans",
+        "shortName": "Slim Fit",
+        "fullName": "Women's Slim Jeans",
+        "localizedId": "women-slim-fit-jean"
+    },
+    {
+        "numId": 81,
+        "id": "leather-and-suede-coats",
+        "name": "Leather & Suede Coats",
+        "shortName": "Leather & Faux Leather",
+        "fullName": "Women's Leather & Suede Coats",
+        "localizedId": "leather-and-suede-coats"
+    },
+    {
+        "numId": 8,
+        "id": "hair-accessories",
+        "name": "Hair Accessories",
+        "shortName": "Hair Accessories",
+        "fullName": "Hair Accessories",
+        "localizedId": "hair-accessories"
+    },
+    {
+        "numId": 160,
+        "id": "plus-size-skirts",
+        "name": "Plus Size Skirts",
+        "shortName": "Skirts",
+        "fullName": "Women's Plus Size Skirts",
+        "localizedId": "plus-size-skirts"
+    },
+    {
+        "numId": 1965,
+        "id": "womens-booties-lace-up",
+        "name": "Lace up Booties",
+        "shortName": "Lace-up",
+        "fullName": "Women's Lace up Booties",
+        "localizedId": "womens-booties-lace-up"
+    },
+    {
+        "numId": 159,
+        "id": "plus-size-shorts",
+        "name": "Plus Size Shorts",
+        "shortName": "Shorts",
+        "fullName": "Women's Plus Size Shorts",
+        "localizedId": "plus-size-shorts"
+    },
+    {
+        "numId": 18,
+        "id": "athletic-shorts",
+        "name": "Activewear Shorts",
+        "shortName": "Shorts",
+        "fullName": "Women's Activewear Shorts",
+        "localizedId": "athletic-shorts"
+    },
+    {
+        "numId": 2111,
+        "id": "womens-drawstring-shorts",
+        "name": "Drawstring Shorts",
+        "shortName": "Drawstring",
+        "fullName": "Women's Drawstring Shorts",
+        "localizedId": "womens-drawstring-shorts"
+    },
+    {
+        "numId": 164,
+        "id": "plus-size-swimsuits",
+        "name": "Plus Size Swimwear",
+        "shortName": "Swimwear",
+        "fullName": "Women's Plus Size Swimwear",
+        "localizedId": "plus-size-swimsuits"
+    },
+    {
+        "numId": 2084,
+        "id": "womens-ankle-fit-jeans",
+        "name": "Ankle Jeans",
+        "shortName": "Ankle Fit",
+        "fullName": "Women's Ankle Jeans",
+        "localizedId": "womens-ankle-fit-jeans"
+    },
+    {
+        "numId": 2009,
+        "id": "womens-espadrilles-closed-toe",
+        "name": "Close Toe Espadrilles",
+        "shortName": "Closed Toe",
+        "fullName": "Women's Close Toe Espadrilles",
+        "localizedId": "womens-espadrilles-closed-toe"
+    },
+    {
+        "numId": 63,
+        "id": "relaxed-jeans",
+        "name": "Relaxed Jeans",
+        "shortName": "Relaxed Fit",
+        "fullName": "Women's Relaxed Jeans",
+        "localizedId": "relaxed-jeans"
+    },
+    {
+        "numId": 45,
+        "id": "chemises",
+        "name": "Chemises",
+        "shortName": "Chemises",
+        "fullName": "Women's Chemises",
+        "localizedId": "chemises"
+    },
+    {
+        "numId": 16,
+        "id": "athletic-pants",
+        "name": "Activewear Pants",
+        "shortName": "Pants",
+        "fullName": "Women's Activewear Pants",
+        "localizedId": "athletic-pants"
+    },
+    {
+        "numId": 90,
+        "id": "skinny-pants",
+        "name": "Skinny & Slim Pants",
+        "shortName": "Skinny & Slim",
+        "fullName": "Women's Skinny Pants",
+        "localizedId": "skinny-pants"
+    },
+    {
+        "numId": 951,
+        "id": "deodorant",
+        "name": "Deodorant",
+        "shortName": "Deodorant",
+        "fullName": "Deodorant",
+        "localizedId": "deodorant"
+    },
+    {
+        "numId": 2100,
+        "id": "womens-tapered-pants",
+        "name": "Tapered Pants",
+        "shortName": "Tapered",
+        "fullName": "Women's Tapered Pants",
+        "localizedId": "womens-tapered-pants"
+    },
+    {
+        "numId": 2058,
+        "id": "mens-flip-flops",
+        "name": "Flip Flop Sandals",
+        "shortName": "Flip Flops",
+        "fullName": "Men's Flip Flop Sandals",
+        "localizedId": "mens-flip-flops"
+    },
+    {
+        "numId": 224,
+        "id": "mens-sandals",
+        "name": "Sandals",
+        "shortName": "Sandals",
+        "fullName": "Men's Sandals",
+        "localizedId": "mens-sandals"
+    },
+    {
+        "numId": 2059,
+        "id": "mens-slides",
+        "name": "Slide Sandals",
+        "shortName": "Slides",
+        "fullName": "Men's Slide Sandals",
+        "localizedId": "mens-slides"
+    },
+    {
+        "numId": 1187,
+        "id": "face-foundation",
+        "name": "Foundations & Powders",
+        "shortName": "Foundations & Powders",
+        "fullName": "Foundations & Powders",
+        "localizedId": "face-foundation"
+    },
+    {
+        "numId": 1205,
+        "id": "mens-backpacks",
+        "name": "Backpacks",
+        "shortName": "Backpacks",
+        "fullName": "Men's Backpacks",
+        "localizedId": "mens-backpacks"
+    },
+    {
+        "numId": 552,
+        "id": "face-care",
+        "name": "Face Care",
+        "shortName": "Face",
+        "fullName": "Face Care",
+        "localizedId": "face-care"
+    },
+    {
+        "numId": 416,
+        "id": "makeup",
+        "name": "Makeup",
+        "shortName": "Makeup",
+        "fullName": "Makeup",
+        "localizedId": "makeup"
+    },
+    {
+        "numId": 2069,
+        "id": "womens-bag-accessories",
+        "name": "Bag Straps",
+        "shortName": "Bag Straps",
+        "fullName": "Women's Bag Straps",
+        "localizedId": "womens-bag-accessories"
+    },
+    {
+        "numId": 2109,
+        "id": "womens-shorts-bike",
+        "name": "Bike Shorts",
+        "shortName": "Bike",
+        "fullName": "Women's Bike Shorts",
+        "localizedId": "womens-shorts-bike"
+    },
+    {
+        "numId": 149,
+        "id": "plus-sizes",
+        "name": "Plus Size Clothing",
+        "shortName": "Plus Sizes",
+        "fullName": "Women's Plus Size Clothing",
+        "localizedId": "plus-sizes"
+    },
+    {
+        "numId": 1994,
+        "id": "knee-length-dresses",
+        "name": "Knee Length Dresses",
+        "shortName": "Knee Length",
+        "fullName": "Women's Knee Length Dresses",
+        "localizedId": "knee-length-dresses"
+    },
+    {
+        "numId": 106,
+        "id": "petite-sweaters",
+        "name": "Petite Sweaters",
+        "shortName": "Sweaters",
+        "fullName": "Women's Petite Sweaters",
+        "localizedId": "petite-sweaters"
+    },
+    {
+        "numId": 7,
+        "id": "gloves",
+        "name": "Gloves",
+        "shortName": "Gloves",
+        "fullName": "Women's Gloves",
+        "localizedId": "gloves"
+    },
+    {
+        "numId": 20,
+        "id": "sports-bras-and-underwear",
+        "name": "Sports Bras & Underwear",
+        "shortName": "Sport Bras & Underwear",
+        "fullName": "Women's Sports Bras & Underwear",
+        "localizedId": "sports-bras-and-underwear"
+    },
+    {
+        "numId": 71,
+        "id": "charms",
+        "name": "Charms",
+        "shortName": "Charms",
+        "fullName": "Charms",
+        "localizedId": "charms"
+    },
+    {
+        "numId": 894,
+        "id": "blush",
+        "name": "Face Blush",
+        "shortName": "Blush",
+        "fullName": "Face Blush",
+        "localizedId": "blush"
+    },
+    {
+        "numId": 174,
+        "id": "mens-sunglasses",
+        "name": "Sunglasses",
+        "shortName": "Sunglasses",
+        "fullName": "Men's Sunglasses",
+        "localizedId": "mens-sunglasses"
+    },
+    {
+        "numId": 908,
+        "id": "eyeliner",
+        "name": "Eyeliner",
+        "shortName": "Eyeliner",
+        "fullName": "Eyeliner",
+        "localizedId": "eyeliner"
+    },
+    {
+        "numId": 546,
+        "id": "eye-makeup",
+        "name": "Eye Makeup",
+        "shortName": "Eyes",
+        "fullName": "Eye Makeup",
+        "localizedId": "eye-makeup"
+    },
+    {
+        "numId": 983,
+        "id": "makeup-travel-bags",
+        "name": "Makeup & Travel Bags",
+        "shortName": "Makeup & Travel Bags",
+        "fullName": "Makeup & Travel Bags",
+        "localizedId": "makeup-travel-bags"
+    },
+    {
+        "numId": 84,
+        "id": "wool-coats",
+        "name": "Wool Coats",
+        "shortName": "Wool",
+        "fullName": "Women's Wool Coats",
+        "localizedId": "wool-coats"
+    },
+    {
+        "numId": 98,
+        "id": "petite-jeans",
+        "name": "Petite Denim",
+        "shortName": "Denim",
+        "fullName": "Women's Petite Denim",
+        "localizedId": "petite-jeans"
+    },
+    {
+        "numId": 49,
+        "id": "socks",
+        "name": "Socks",
+        "shortName": "Socks",
+        "fullName": "Women's Socks",
+        "localizedId": "socks"
+    },
+    {
+        "numId": 65,
+        "id": "jewelry",
+        "name": "Jewelry",
+        "shortName": "Jewelry",
+        "fullName": "Women's Jewelry",
+        "localizedId": "jewelry"
+    },
+    {
+        "numId": 44,
+        "id": "camisoles",
+        "name": "Camisoles",
+        "shortName": "Camisoles",
+        "fullName": "Women's Camisoles",
+        "localizedId": "camisoles"
+    },
+    {
+        "numId": 125,
+        "id": "pajamas",
+        "name": "Pajamas",
+        "shortName": "Pajamas",
+        "fullName": "Women's Pajamas",
+        "localizedId": "pajamas"
+    },
+    {
+        "numId": 155,
+        "id": "plus-size-jeans",
+        "name": "Plus Size Denim",
+        "shortName": "Denim",
+        "fullName": "Women's Plus Size Denim",
+        "localizedId": "plus-size-jeans"
+    },
+    {
+        "numId": 1704,
+        "id": "womens-eyeglasses",
+        "name": "Eyeglasses",
+        "shortName": "Eyeglasses",
+        "fullName": "Women's Eyeglasses",
+        "localizedId": "womens-eyeglasses"
+    },
+    {
+        "numId": 2280,
+        "id": "women-shorts-bermuda",
+        "name": "Bermuda Shorts",
+        "shortName": "Bermuda",
+        "fullName": "Bermuda Shorts",
+        "localizedId": "women-shorts-bermuda"
+    },
+    {
+        "numId": 455,
+        "id": "boys-shoes",
+        "name": "Boys' Shoes",
+        "shortName": "Shoes",
+        "fullName": "Boys' Shoes",
+        "localizedId": "boys-shoes"
+    },
+    {
+        "numId": 469,
+        "id": "girls-shoes",
+        "name": "Girls' Shoes",
+        "shortName": "Shoes",
+        "fullName": "Girls' Shoes",
+        "localizedId": "girls-shoes"
+    },
+    {
+        "numId": 261,
+        "id": "teen-girls-dresses",
+        "name": "Teen Girls' Dresses",
+        "shortName": "Dresses",
+        "fullName": "Teen Girls' Dresses",
+        "localizedId": "teen-girls-dresses"
+    },
+    {
+        "numId": 2097,
+        "id": "womens-high-rise-pants",
+        "name": "High Waist Pants",
+        "shortName": "High Waist",
+        "fullName": "Women's High Waist Pants",
+        "localizedId": "womens-high-rise-pants"
+    },
+    {
+        "numId": 916,
+        "id": "lipstick",
+        "name": "Lipstick",
+        "shortName": "Lipstick",
+        "fullName": "Lipstick",
+        "localizedId": "lipstick"
+    },
+    {
+        "numId": 100,
+        "id": "petite-outerwear",
+        "name": "Petite Outerwear",
+        "shortName": "Outerwear",
+        "fullName": "Women's Petite Outerwear",
+        "localizedId": "petite-outerwear"
+    },
+    {
+        "numId": 1707,
+        "id": "womens-umbrellas",
+        "name": "Umbrellas",
+        "shortName": "Umbrellas",
+        "fullName": "Women's Umbrellas",
+        "localizedId": "womens-umbrellas"
+    },
+    {
+        "numId": 2054,
+        "id": "mens-loafers",
+        "name": "Slip-on Loafers",
+        "shortName": "Loafers",
+        "fullName": "Men's Slip-on Loafers",
+        "localizedId": "mens-loafers"
+    },
+    {
+        "numId": 965,
+        "id": "toothpaste",
+        "name": "Toothpaste",
+        "shortName": "Toothpaste",
+        "fullName": "Toothpaste",
+        "localizedId": "toothpaste"
+    },
+    {
+        "numId": 914,
+        "id": "lip-gloss",
+        "name": "Lip Gloss",
+        "shortName": "Lip Gloss",
+        "fullName": "Lip Gloss",
+        "localizedId": "lip-gloss"
+    },
+    {
+        "numId": 2081,
+        "id": "womens-jeans-legging",
+        "name": "Jeggings",
+        "shortName": "Leggings",
+        "fullName": "Jeggings",
+        "localizedId": "womens-jeans-legging"
+    },
+    {
+        "numId": 67,
+        "id": "fine-bracelets",
+        "name": "Fine Bracelets",
+        "shortName": "Bracelets",
+        "fullName": "Fine Bracelets",
+        "localizedId": "fine-bracelets"
+    },
+    {
+        "numId": 59,
+        "id": "classic-jeans",
+        "name": "Classic Jeans",
+        "shortName": "Classic Fit",
+        "fullName": "Women's Classic Jeans",
+        "localizedId": "classic-jeans"
+    },
+    {
+        "numId": 1722,
+        "id": "womens-shoes-accessories",
+        "name": "Shoe Accessories",
+        "shortName": "Shoes Accessories",
+        "fullName": "Women's Shoe Accessories",
+        "localizedId": "womens-shoes-accessories"
+    },
+    {
+        "numId": 417,
+        "id": "skin-care",
+        "name": "Skin Care",
+        "shortName": "Skin Care",
+        "fullName": "Skin Care",
+        "localizedId": "skin-care"
+    },
+    {
+        "numId": 975,
+        "id": "hair-conditioner",
+        "name": "Conditioner",
+        "shortName": "Conditioner",
+        "fullName": "Conditioner",
+        "localizedId": "hair-conditioner"
+    },
+    {
+        "numId": 109,
+        "id": "womens-shoes",
+        "name": "Shoes",
+        "shortName": "Shoes",
+        "fullName": "Women's Shoes",
+        "localizedId": "womens-shoes"
+    },
+    {
+        "numId": 2282,
+        "id": "women-shorts-chino",
+        "name": "Chino Shorts",
+        "shortName": "Chino",
+        "fullName": "Chino Shorts",
+        "localizedId": "women-shorts-chino"
+    },
+    {
+        "numId": 958,
+        "id": "body-scrubs-exfoliants",
+        "name": "Body Scrubs & Exfoliants",
+        "shortName": "Body Scrubs & Exfoliants",
+        "fullName": "Body Scrubs & Exfoliants",
+        "localizedId": "body-scrubs-exfoliants"
+    },
+    {
+        "numId": 987,
+        "id": "beauty-tools-bags-cases",
+        "name": "Bags & Cases",
+        "shortName": "Bags & Cases",
+        "fullName": "Bags & Cases",
+        "localizedId": "beauty-tools-bags-cases"
+    },
+    {
+        "numId": 15,
+        "id": "athletic-jackets",
+        "name": "Activewear Jackets",
+        "shortName": "Jackets",
+        "fullName": "Women's Activewear Jackets",
+        "localizedId": "athletic-jackets"
+    },
+    {
+        "numId": 157,
+        "id": "plus-size-outerwear",
+        "name": "Plus Size Outerwear",
+        "shortName": "Outerwear",
+        "fullName": "Women's Plus Size Outerwear",
+        "localizedId": "plus-size-outerwear"
+    },
+    {
+        "numId": 2281,
+        "id": "women-shorts-belted",
+        "name": "Belted Shorts",
+        "shortName": "Belted",
+        "fullName": "Belted Shorts",
+        "localizedId": "women-shorts-belted"
+    },
+    {
+        "numId": 545,
+        "id": "face-makeup",
+        "name": "Face Makeup",
+        "shortName": "Face",
+        "fullName": "Face Makeup",
+        "localizedId": "face-makeup"
+    },
+    {
+        "numId": 127,
+        "id": "slippers",
+        "name": "Slippers",
+        "shortName": "Slippers",
+        "fullName": "Women's Slippers",
+        "localizedId": "slippers"
+    },
+    {
+        "numId": 2094,
+        "id": "womens-parka-coats",
+        "name": "Parkas",
+        "shortName": "Parkas",
+        "fullName": "Women's Parkas",
+        "localizedId": "womens-parka-coats"
+    },
+    {
+        "numId": 500,
+        "id": "teen-girls-swimsuits",
+        "name": "Teen Girls' Swimwear",
+        "shortName": "Swimwear",
+        "fullName": "Teen Girls' Swimwear",
+        "localizedId": "teen-girls-swimsuits"
+    },
+    {
+        "numId": 291,
+        "id": "teen-girls-tops",
+        "name": "Teen Girls' Tops",
+        "shortName": "Tops",
+        "fullName": "Teen Girls' Tops",
+        "localizedId": "teen-girls-tops"
+    },
+    {
+        "numId": 474,
+        "id": "girls-swimsuits",
+        "name": "Girls' Swimwear",
+        "shortName": "Swimwear",
+        "fullName": "Girls' Swimwear",
+        "localizedId": "girls-swimsuits"
+    },
+    {
+        "numId": 1673,
+        "id": "girls-tops",
+        "name": "Girls' Tops",
+        "shortName": "Tops",
+        "fullName": "Girls' Tops",
+        "localizedId": "girls-tops"
+    },
+    {
+        "numId": 921,
+        "id": "nail-polish",
+        "name": "Nail Polish",
+        "shortName": "Nail Polish",
+        "fullName": "Nail Polish",
+        "localizedId": "nail-polish"
+    },
+    {
+        "numId": 2130,
+        "id": "mens-jackets-denim",
+        "name": "Denim Jackets",
+        "shortName": "Denim",
+        "fullName": "Men's Denim Jackets",
+        "localizedId": "mens-jackets-denim"
+    },
+    {
+        "numId": 2129,
+        "id": "mens-leather-jackets",
+        "name": "Leather & Faux Leather Jackets",
+        "shortName": "Leather",
+        "fullName": "Men's Leather & Faux Leather Jackets",
+        "localizedId": "mens-leather-jackets"
+    },
+    {
+        "numId": 21,
+        "id": "athletic-tops",
+        "name": "Activewear Tops",
+        "shortName": "Tops",
+        "fullName": "Women's Activewear Tops",
+        "localizedId": "athletic-tops"
+    },
+    {
+        "numId": 194,
+        "id": "mens-outerwear",
+        "name": "Outerwear",
+        "shortName": "Coats",
+        "fullName": "Men's Outerwear",
+        "localizedId": "mens-outerwear"
+    },
+    {
+        "numId": 2135,
+        "id": "mens-light-jackets",
+        "name": "Jackets",
+        "shortName": "Jackets",
+        "fullName": "Men's Jackets",
+        "localizedId": "mens-light-jackets"
+    },
+    {
+        "numId": 961,
+        "id": "hand-treatments",
+        "name": "Hand Treatments",
+        "shortName": "Hand Treatments",
+        "fullName": "Hand Treatments",
+        "localizedId": "hand-treatments"
+    },
+    {
+        "numId": 107,
+        "id": "petite-swimsuits",
+        "name": "Petite Swimwear",
+        "shortName": "Swimwear",
+        "fullName": "Women's Petite Swimwear",
+        "localizedId": "petite-swimsuits"
+    },
+    {
+        "numId": 68,
+        "id": "fine-earrings",
+        "name": "Fine Earrings",
+        "shortName": "Earrings",
+        "fullName": "Fine Earrings",
+        "localizedId": "fine-earrings"
+    },
+    {
+        "numId": 2123,
+        "id": "mens-puffer-coats",
+        "name": "Down & Puffer Coats",
+        "shortName": "Down & Puffers",
+        "fullName": "Men's Down & Puffer Coats",
+        "localizedId": "mens-puffer-coats"
+    },
+    {
+        "numId": 548,
+        "id": "lip-products",
+        "name": "Lip Products",
+        "shortName": "Lips",
+        "fullName": "Lip Products",
+        "localizedId": "lip-products"
+    },
+    {
+        "numId": 1814,
+        "id": "sofas-loveseats",
+        "name": "Sofas & Loveseats",
+        "shortName": "Sofas & Loveseats",
+        "fullName": "Sofas & Loveseats",
+        "localizedId": "sofas-loveseats"
+    },
+    {
+        "numId": 1766,
+        "id": "bar-counter-stools",
+        "name": "Bar & Counter Stools",
+        "shortName": "Bar & Counter Stools",
+        "fullName": "Bar & Counter Stools",
+        "localizedId": "bar-counter-stools"
+    },
+    {
+        "numId": 1843,
+        "id": "comforters",
+        "name": "Comforters",
+        "shortName": "Comforters",
+        "fullName": "Comforters",
+        "localizedId": "comforters"
+    },
+    {
+        "numId": 1770,
+        "id": "buffets-sideboards",
+        "name": "Buffets & Sideboards",
+        "shortName": "Buffets & Sideboards",
+        "fullName": "Buffets & Sideboards",
+        "localizedId": "buffets-sideboards"
+    },
+    {
+        "numId": 1232,
+        "id": "travel-duffels-and-totes",
+        "name": "Travel Duffels & Totes",
+        "shortName": "Duffels & Totes",
+        "fullName": "Travel Duffels & Totes",
+        "localizedId": "travel-duffels-and-totes"
+    },
+    {
+        "numId": 1231,
+        "id": "carry-on-luggage",
+        "name": "Carry-on Luggage",
+        "shortName": "Carry-ons",
+        "fullName": "Carry-on Luggage",
+        "localizedId": "carry-on-luggage"
+    },
+    {
+        "numId": 1236,
+        "id": "rolling-luggage",
+        "name": "Rolling Luggage",
+        "shortName": "Rolling Luggage",
+        "fullName": "Rolling Luggage",
+        "localizedId": "rolling-luggage"
+    },
+    {
+        "numId": 806,
+        "id": "living",
+        "name": "Home & Living",
+        "shortName": "Home",
+        "fullName": "Home & Living",
+        "localizedId": "living"
+    },
+    {
+        "numId": 2208,
+        "id": "home-office-laptop-carts-and-stands",
+        "name": "Laptop Carts & Stands",
+        "shortName": "Laptop Carts & Stands",
+        "fullName": "Laptop Carts & Stands",
+        "localizedId": "home-office-laptop-carts-and-stands"
+    },
+    {
+        "numId": 584,
+        "id": "dining-chairs",
+        "name": "Dining Chairs",
+        "shortName": "Dining Chairs",
+        "fullName": "Dining Chairs",
+        "localizedId": "dining-chairs"
+    },
+    {
+        "numId": 576,
+        "id": "livingroom-chairs",
+        "name": "Armchairs & Recliners",
+        "shortName": "Armchairs & Recliners",
+        "fullName": "Armchairs & Recliners",
+        "localizedId": "livingroom-chairs"
+    },
+    {
+        "numId": 2283,
+        "id": "rugs-area",
+        "name": "Area Rugs",
+        "shortName": "Area Rugs",
+        "fullName": "Area Rugs",
+        "localizedId": "rugs-area"
+    },
+    {
+        "numId": 814,
+        "id": "fry-saute-pans",
+        "name": "Fry Pans & Skillets",
+        "shortName": "Fry Pans & Skillets",
+        "fullName": "Fry & Saute Pans",
+        "localizedId": "fry-saute-pans"
+    },
+    {
+        "numId": 617,
+        "id": "outdoor-furniture",
+        "name": "Outdoor Furniture",
+        "shortName": "Furniture",
+        "fullName": "Outdoor Furniture",
+        "localizedId": "outdoor-furniture"
+    },
+    {
+        "numId": 621,
+        "id": "furniture",
+        "name": "Furniture",
+        "shortName": "Furniture",
+        "fullName": "Furniture",
+        "localizedId": "furniture"
+    },
+    {
+        "numId": 1817,
+        "id": "livingroom-ottomans-benches",
+        "name": "Living Room Ottomans",
+        "shortName": "Ottomans",
+        "fullName": "Ottomans",
+        "localizedId": "livingroom-ottomans-benches"
+    },
+    {
+        "numId": 2322,
+        "id": "fall-outdoor-decorations",
+        "name": "Fall Outdoor Decorations",
+        "shortName": "Fall Outdoor Decorations",
+        "fullName": "Halloween Outdoor",
+        "localizedId": "fall-outdoor-decorations"
+    },
+    {
+        "numId": 1939,
+        "id": "winter-decor",
+        "name": "Winter Decor",
+        "shortName": "Winter Decor",
+        "fullName": "Winter Decor",
+        "localizedId": "winter-decor"
+    },
+    {
+        "numId": 583,
+        "id": "dining-tables",
+        "name": "Dining Tables",
+        "shortName": "Dining Tables",
+        "fullName": "Dining Tables",
+        "localizedId": "dining-tables"
+    },
+    {
+        "numId": 2174,
+        "id": "kids-and-baby-furniture-beds",
+        "name": "Kids Beds",
+        "shortName": "Kids Beds",
+        "fullName": "Kids Beds",
+        "localizedId": "kids-and-baby-furniture-beds"
+    },
+    {
+        "numId": 323,
+        "id": "kids-and-baby",
+        "name": "Kids' Nursery, Clothes and Toys",
+        "shortName": "Kids",
+        "fullName": "Kids' Nursery, Clothes and Toys",
+        "localizedId": "kids-and-baby"
+    },
+    {
+        "numId": 2175,
+        "id": "kids-and-baby-furniture-bunk-beds-and-lofts",
+        "name": "Bunk Beds & Lofts",
+        "shortName": "Bunk Beds & Lofts",
+        "fullName": "Bunk Beds & Lofts",
+        "localizedId": "kids-and-baby-furniture-bunk-beds-and-lofts"
+    },
+    {
+        "numId": 1893,
+        "id": "chandeliers",
+        "name": "Chandeliers",
+        "shortName": "Chandeliers",
+        "fullName": "Chandeliers",
+        "localizedId": "chandeliers"
+    },
+    {
+        "numId": 2200,
+        "id": "bedroom-chests",
+        "name": "Chests",
+        "shortName": "Chests",
+        "fullName": "Chests",
+        "localizedId": "bedroom-chests"
+    },
+    {
+        "numId": 603,
+        "id": "home-office-furniture",
+        "name": "Home Office",
+        "shortName": "Home Office Furniture",
+        "fullName": "Home Office",
+        "localizedId": "home-office-furniture"
+    },
+    {
+        "numId": 580,
+        "id": "side-end-tables",
+        "name": "Side & End Tables",
+        "shortName": "Side & End Tables",
+        "fullName": "Side & End Tables",
+        "localizedId": "side-end-tables"
+    },
+    {
+        "numId": 1815,
+        "id": "livingroom-sleeper-sofas",
+        "name": "Sleeper Sofas",
+        "shortName": "Sleeper Sofas",
+        "fullName": "Sleeper Sofas",
+        "localizedId": "livingroom-sleeper-sofas"
+    },
+    {
+        "numId": 2222,
+        "id": "adjustable-bed",
+        "name": "Adjustable Bed",
+        "shortName": "Adjustable Bed",
+        "fullName": "Adjustable Bed",
+        "localizedId": "adjustable-bed"
+    },
+    {
+        "numId": 1864,
+        "id": "indoor-pillows",
+        "name": "Indoor Pillows",
+        "shortName": "Indoor Pillows",
+        "fullName": "Indoor Pillows",
+        "localizedId": "indoor-pillows"
+    },
+    {
+        "numId": 1792,
+        "id": "outdoor-pillows-cushions",
+        "name": "Pillows & Cushions",
+        "shortName": "Pillows & Cushions",
+        "fullName": "Outdoor Pillows & Cushions",
+        "localizedId": "outdoor-pillows-cushions"
+    },
+    {
+        "numId": 2195,
+        "id": "livingroom-chaise-and-lounges",
+        "name": "Chaise & Lounges",
+        "shortName": "Chaise & Lounges",
+        "fullName": "Chaise & Lounges",
+        "localizedId": "livingroom-chaise-and-lounges"
+    },
+    {
+        "numId": 890,
+        "id": "table-lamps",
+        "name": "Table Lamps",
+        "shortName": "Table Lamps",
+        "fullName": "Table Lamps",
+        "localizedId": "table-lamps"
+    },
+    {
+        "numId": 1759,
+        "id": "console-tables",
+        "name": "Entryway Tables",
+        "shortName": "Entryway Tables",
+        "fullName": "Entryway Tables",
+        "localizedId": "console-tables"
+    },
+    {
+        "numId": 1816,
+        "id": "livingroom-console-tables",
+        "name": "Console Tables",
+        "shortName": "Console Tables",
+        "fullName": "Console Tables",
+        "localizedId": "livingroom-console-tables"
+    },
+    {
+        "numId": 1962,
+        "id": "quilts-coverlets",
+        "name": "Quilts & Coverlets",
+        "shortName": "Quilts & Coverlets",
+        "fullName": "Quilts & Coverlets",
+        "localizedId": "quilts-coverlets"
+    },
+    {
+        "numId": 1822,
+        "id": "beds-headboards",
+        "name": "Beds & Headboards",
+        "shortName": "Beds & Headboards",
+        "fullName": "Beds & Headboards",
+        "localizedId": "beds-headboards"
+    },
+    {
+        "numId": 749,
+        "id": "mirrors",
+        "name": "Mirrors",
+        "shortName": "Mirrors",
+        "fullName": "Mirrors",
+        "localizedId": "mirrors"
+    },
+    {
+        "numId": 820,
+        "id": "decorative-pillows",
+        "name": "Decorative Pillows",
+        "shortName": "Decorative Pillows",
+        "fullName": "Decorative Pillows",
+        "localizedId": "decorative-pillows"
+    },
+    {
+        "numId": 622,
+        "id": "sheets",
+        "name": "Sheets",
+        "shortName": "Sheets",
+        "fullName": "Sheets",
+        "localizedId": "sheets"
+    },
+    {
+        "numId": 575,
+        "id": "sectionals",
+        "name": "Sectionals",
+        "shortName": "Sectionals",
+        "fullName": "Sectionals",
+        "localizedId": "sectionals"
+    },
+    {
+        "numId": 1910,
+        "id": "rugs-outdoor",
+        "name": "Outdoor Rugs",
+        "shortName": "Outdoor Rugs",
+        "fullName": "Outdoor Rugs",
+        "localizedId": "rugs-outdoor"
+    },
+    {
+        "numId": 859,
+        "id": "flatware-sets",
+        "name": "Flatware Sets",
+        "shortName": "Flatware Sets",
+        "fullName": "Flatware Sets",
+        "localizedId": "flatware-sets"
+    },
+    {
+        "numId": 597,
+        "id": "desks",
+        "name": "Desks",
+        "shortName": "Desks",
+        "fullName": "Desks",
+        "localizedId": "desks"
+    },
+    {
+        "numId": 2204,
+        "id": "home-office-guest-chairs",
+        "name": "Guest Chairs",
+        "shortName": "Guest Chairs",
+        "fullName": "Guest Chairs",
+        "localizedId": "home-office-guest-chairs"
+    },
+    {
+        "numId": 1927,
+        "id": "bedding-pillows",
+        "name": "Pillows",
+        "shortName": "Pillows",
+        "fullName": "Pillows",
+        "localizedId": "bedding-pillows"
+    },
+    {
+        "numId": 1101,
+        "id": "kids-beds-and-mattresses",
+        "name": "Kids Beds & Mattresses",
+        "shortName": "Beds & Mattresses",
+        "fullName": "Kids Beds & Mattresses",
+        "localizedId": "kids-beds-and-mattresses"
+    },
+    {
+        "numId": 2198,
+        "id": "bedroom-bed-frames",
+        "name": "Bed Frames",
+        "shortName": "Bed Frames",
+        "fullName": "Bed Frames",
+        "localizedId": "bedroom-bed-frames"
+    },
+    {
+        "numId": 579,
+        "id": "coffee-tables",
+        "name": "Coffee Tables",
+        "shortName": "Coffee Tables",
+        "fullName": "Coffee Tables",
+        "localizedId": "coffee-tables"
+    },
+    {
+        "numId": 1774,
+        "id": "outdoor-sofas-sectionals",
+        "name": "Sofas & Sectionals",
+        "shortName": "Sofas & Sectionals",
+        "fullName": "Outdoor Sofas & Sectionals",
+        "localizedId": "outdoor-sofas-sectionals"
+    },
+    {
+        "numId": 805,
+        "id": "accents",
+        "name": "Decor",
+        "shortName": "Decor",
+        "fullName": "Accents",
+        "localizedId": "accents"
+    },
+    {
+        "numId": 751,
+        "id": "panels",
+        "name": "Panels",
+        "shortName": "Panels",
+        "fullName": "Panels",
+        "localizedId": "panels"
+    },
+    {
+        "numId": 2202,
+        "id": "dining-display-cabinets",
+        "name": "Display Cabinets",
+        "shortName": "Display Cabinets",
+        "fullName": "Display Cabinets",
+        "localizedId": "dining-display-cabinets"
+    },
+    {
+        "numId": 2152,
+        "id": "entryway-furniture",
+        "name": "Entryway",
+        "shortName": "Entryway Furniture",
+        "fullName": "Entryway",
+        "localizedId": "entryway-furniture"
+    },
+    {
+        "numId": 1755,
+        "id": "storage-entryway",
+        "name": "Entryway",
+        "shortName": "Entryway",
+        "fullName": "Entryway",
+        "localizedId": "storage-entryway"
+    },
+    {
+        "numId": 1235,
+        "id": "luggage-sets",
+        "name": "Luggage Sets",
+        "shortName": "Luggage Sets",
+        "fullName": "Luggage Sets",
+        "localizedId": "luggage-sets"
+    },
+    {
+        "numId": 1760,
+        "id": "livingroom-tv-stands-media",
+        "name": "TV Stands & Media",
+        "shortName": "TV Stands & Media",
+        "fullName": "TV Stands & Media",
+        "localizedId": "livingroom-tv-stands-media"
+    },
+    {
+        "numId": 1820,
+        "id": "bedroom-dressers-armoires",
+        "name": "Dressers & Armoires",
+        "shortName": "Dressers & Armoires",
+        "fullName": "Dressers & Armoires",
+        "localizedId": "bedroom-dressers-armoires"
+    },
+    {
+        "numId": 2227,
+        "id": "foundations",
+        "name": "Foundations",
+        "shortName": "Foundations",
+        "fullName": "Foundations",
+        "localizedId": "foundations"
+    },
+    {
+        "numId": 1754,
+        "id": "storage-bookcases-shelves",
+        "name": "Bookcases & Shelves",
+        "shortName": "Bookcases & Shelves",
+        "fullName": "Bookcases & Shelves",
+        "localizedId": "storage-bookcases-shelves"
+    },
+    {
+        "numId": 1894,
+        "id": "flush-mount-lighting",
+        "name": "Flush Mount Lighting",
+        "shortName": "Flush Mount Lighting",
+        "fullName": "Flush Mount Lighting",
+        "localizedId": "flush-mount-lighting"
+    },
+    {
+        "numId": 872,
+        "id": "bakeware-sets",
+        "name": "Bakeware Sets",
+        "shortName": "Bakeware Sets",
+        "fullName": "Bakeware Sets",
+        "localizedId": "bakeware-sets"
+    },
+    {
+        "numId": 2308,
+        "id": "countertop-storage",
+        "name": "Countertop Storage",
+        "shortName": "Countertop Storage",
+        "fullName": "Countertop Storage",
+        "localizedId": "countertop-storage"
+    },
+    {
+        "numId": 855,
+        "id": "tumblers-water-glasses",
+        "name": "Tumblers",
+        "shortName": "Tumblers",
+        "fullName": "Tumblers",
+        "localizedId": "tumblers-water-glasses"
+    },
+    {
+        "numId": 759,
+        "id": "rug-pads",
+        "name": "Rug Pads",
+        "shortName": "Rug Pads",
+        "fullName": "Rug Pads",
+        "localizedId": "rug-pads"
+    },
+    {
+        "numId": 2151,
+        "id": "shoe-storage",
+        "name": "Shoe Storage",
+        "shortName": "Shoe Storage",
+        "fullName": "Shoe Storage",
+        "localizedId": "shoe-storage"
+    },
+    {
+        "numId": 674,
+        "id": "cookware-sets",
+        "name": "Cookware Sets",
+        "shortName": "Cookware Sets",
+        "fullName": "Cookware Sets",
+        "localizedId": "cookware-sets"
+    },
+    {
+        "numId": 817,
+        "id": "knife-sets",
+        "name": "Knife Sets",
+        "shortName": "Knife Sets",
+        "fullName": "Knife Sets",
+        "localizedId": "knife-sets"
+    },
+    {
+        "numId": 878,
+        "id": "storage-containers",
+        "name": "Food Storage Containers",
+        "shortName": "Food Storage Containers",
+        "fullName": "Food Storage Containers",
+        "localizedId": "storage-containers"
+    },
+    {
+        "numId": 713,
+        "id": "coffee-makers",
+        "name": "Coffee Machines",
+        "shortName": "Coffee Machines",
+        "fullName": "Coffee Machines",
+        "localizedId": "coffee-makers"
+    },
+    {
+        "numId": 2294,
+        "id": "pet-bowls-and-feeders",
+        "name": "Pet Bowls & Feeders",
+        "shortName": "Pet Bowls & Feeders",
+        "fullName": "Pet Bowls & Feeders",
+        "localizedId": "pet-bowls-and-feeders"
+    },
+    {
+        "numId": 783,
+        "id": "clocks",
+        "name": "Clocks",
+        "shortName": "Clocks",
+        "fullName": "Clocks",
+        "localizedId": "clocks"
+    },
+    {
+        "numId": 666,
+        "id": "flatware",
+        "name": "Flatware & Cutlery",
+        "shortName": "Flatware & Cutlery",
+        "fullName": "Flatware & Cutlery",
+        "localizedId": "flatware"
+    },
+    {
+        "numId": 1875,
+        "id": "tree-ornaments",
+        "name": "Tree Ornaments",
+        "shortName": "Tree Ornaments",
+        "fullName": "Christmas Ornament",
+        "localizedId": "tree-ornaments"
+    },
+    {
+        "numId": 846,
+        "id": "casual-dining",
+        "name": "Dinner Plates",
+        "shortName": "Dinner Plates",
+        "fullName": "Dinner Plates",
+        "localizedId": "casual-dining"
+    },
+    {
+        "numId": 1933,
+        "id": "dinnerware-bowls",
+        "name": "Bowls",
+        "shortName": "Bowls",
+        "fullName": "Bowls",
+        "localizedId": "dinnerware-bowls"
+    },
+    {
+        "numId": 681,
+        "id": "casseroles-dutch-ovens",
+        "name": "Casserole, Dutch Oven & Baking Dishes",
+        "shortName": "Casserole, Dutch Oven & Baking Dishes",
+        "fullName": "Casseroles & Dutch Ovens",
+        "localizedId": "casseroles-dutch-ovens"
+    },
+    {
+        "numId": 637,
+        "id": "bath-mats",
+        "name": "Bath Rugs & Mats",
+        "shortName": "Bath Rugs & Mats",
+        "fullName": "Bath Rugs & Mats",
+        "localizedId": "bath-mats"
+    },
+    {
+        "numId": 1892,
+        "id": "pendant-lights",
+        "name": "Pendant Lights",
+        "shortName": "Pendant Lights",
+        "fullName": "Pendant Lights",
+        "localizedId": "pendant-lights"
+    },
+    {
+        "numId": 768,
+        "id": "benches",
+        "name": "Entryway Benches",
+        "shortName": "Entryway Benches",
+        "fullName": "Entryway Benches",
+        "localizedId": "benches"
+    },
+    {
+        "numId": 1897,
+        "id": "indoor-ceiling-fans",
+        "name": "Indoor Ceiling Fans",
+        "shortName": "Indoor Ceiling Fans",
+        "fullName": "Indoor Ceiling Fans",
+        "localizedId": "indoor-ceiling-fans"
+    },
+    {
+        "numId": 573,
+        "id": "bedroom-furniture",
+        "name": "Bedroom",
+        "shortName": "Bedroom Furniture",
+        "fullName": "Bedroom",
+        "localizedId": "bedroom-furniture"
+    },
+    {
+        "numId": 882,
+        "id": "accents-baskets-boxes",
+        "name": "Baskets & Boxes",
+        "shortName": "Baskets & Boxes",
+        "fullName": "Baskets & Boxes",
+        "localizedId": "accents-baskets-boxes"
+    },
+    {
+        "numId": 1795,
+        "id": "outdoor-wall-lighting",
+        "name": "Outdoor Wall Lighting",
+        "shortName": "Wall Lighting",
+        "fullName": "Outdoor Wall Lighting",
+        "localizedId": "outdoor-wall-lighting"
+    },
+    {
+        "numId": 743,
+        "id": "wall-lighting",
+        "name": "Wall Lighting",
+        "shortName": "Wall Lighting",
+        "fullName": "Wall Lighting",
+        "localizedId": "wall-lighting"
+    },
+    {
+        "numId": 1924,
+        "id": "butter-dishes",
+        "name": "Butter Dishes & Gravy Boats",
+        "shortName": "Butter Dishes & Gravy Boats",
+        "fullName": "Butter Dishes & Gravy Boats",
+        "localizedId": "butter-dishes"
+    },
+    {
+        "numId": 1821,
+        "id": "bedroom-ottomans-benches",
+        "name": "Bedroom Benches",
+        "shortName": "Bedroom Benches",
+        "fullName": "Bedroom Benches",
+        "localizedId": "bedroom-ottomans-benches"
+    },
+    {
+        "numId": 2215,
+        "id": "duvet-insert",
+        "name": "Duvet Insert",
+        "shortName": "Duvet Insert",
+        "fullName": "Duvet Insert",
+        "localizedId": "duvet-insert"
+    },
+    {
+        "numId": 1834,
+        "id": "duvet-cover",
+        "name": "Duvet Cover",
+        "shortName": "Duvet Cover",
+        "fullName": "Duvet Cover",
+        "localizedId": "duvet-cover"
+    },
+    {
+        "numId": 2196,
+        "id": "livingroom-fireplaces",
+        "name": "Fireplaces",
+        "shortName": "Fireplaces",
+        "fullName": "Fireplaces",
+        "localizedId": "livingroom-fireplaces"
+    },
+    {
+        "numId": 2319,
+        "id": "fall-decorations",
+        "name": "Fall Decorations",
+        "shortName": "Fall Decorations",
+        "fullName": "Halloween",
+        "localizedId": "fall-decorations"
+    },
+    {
+        "numId": 1872,
+        "id": "easter-decor",
+        "name": "Easter",
+        "shortName": "Easter",
+        "fullName": "Easter",
+        "localizedId": "easter-decor"
+    },
+    {
+        "numId": 1785,
+        "id": "outdoor-barstools-bars-buffets",
+        "name": "Barstools, Bars & Buffets",
+        "shortName": "Barstools, Bars & Buffets",
+        "fullName": "Outdoor Barstools, Bars & Buffets",
+        "localizedId": "outdoor-barstools-bars-buffets"
+    },
+    {
+        "numId": 1800,
+        "id": "bath-towel",
+        "name": "Bath Towel",
+        "shortName": "Bath Towel",
+        "fullName": "Bath Towel",
+        "localizedId": "bath-towel"
+    },
+    {
+        "numId": 1801,
+        "id": "towel-bundle",
+        "name": "Towel Bundle",
+        "shortName": "Towel Bundle",
+        "fullName": "Towel Bundle",
+        "localizedId": "towel-bundle"
+    },
+    {
+        "numId": 2207,
+        "id": "home-office-room-dividers",
+        "name": "Room Dividers",
+        "shortName": "Room Dividers",
+        "fullName": "Room Dividers",
+        "localizedId": "home-office-room-dividers"
+    },
+    {
+        "numId": 2148,
+        "id": "storage-benches",
+        "name": "Storage Benches",
+        "shortName": "Storage Benches",
+        "fullName": "Storage Benches",
+        "localizedId": "storage-benches"
+    },
+    {
+        "numId": 1768,
+        "id": "dining-benches-banquettes",
+        "name": "Dining Benches & Banquettes",
+        "shortName": "Dining Benches & Banquettes",
+        "fullName": "Dining Benches & Banquettes",
+        "localizedId": "dining-benches-banquettes"
+    },
+    {
+        "numId": 852,
+        "id": "jugs-pitchers",
+        "name": "Jugs & Pitchers",
+        "shortName": "Jugs & Pitchers",
+        "fullName": "Jugs & Pitchers",
+        "localizedId": "jugs-pitchers"
+    },
+    {
+        "numId": 1895,
+        "id": "sconces",
+        "name": "Sconces",
+        "shortName": "Sconces",
+        "fullName": "Sconces",
+        "localizedId": "sconces"
+    },
+    {
+        "numId": 1885,
+        "id": "frames",
+        "name": "Picture Frames",
+        "shortName": "Frames",
+        "fullName": "Picture Frames",
+        "localizedId": "frames"
+    },
+    {
+        "numId": 781,
+        "id": "vases",
+        "name": "Vases",
+        "shortName": "Vases",
+        "fullName": "Vases",
+        "localizedId": "vases"
+    },
+    {
+        "numId": 568,
+        "id": "nightstands",
+        "name": "Nightstands",
+        "shortName": "Nightstands",
+        "fullName": "Nightstands",
+        "localizedId": "nightstands"
+    },
+    {
+        "numId": 1797,
+        "id": "outdoor-lanterns-lamps",
+        "name": "Lanterns & Lamps",
+        "shortName": "Lanterns & Lamps",
+        "fullName": "Outdoor Lanterns & Lamps",
+        "localizedId": "outdoor-lanterns-lamps"
+    },
+    {
+        "numId": 746,
+        "id": "accent-lighting",
+        "name": "Lighting",
+        "shortName": "Lighting",
+        "fullName": "Lighting",
+        "localizedId": "accent-lighting"
+    },
+    {
+        "numId": 747,
+        "id": "mirrors-floor",
+        "name": "Floor Mirrors",
+        "shortName": "Floor Mirrors",
+        "fullName": "Floor Mirrors",
+        "localizedId": "mirrors-floor"
+    },
+    {
+        "numId": 1773,
+        "id": "home-office-accessories",
+        "name": "Home Office Accessories",
+        "shortName": "Home Office Accessories",
+        "fullName": "Home Office Accessories",
+        "localizedId": "home-office-accessories"
+    },
+    {
+        "numId": 1871,
+        "id": "accent-bowls",
+        "name": "Decorative Bowls",
+        "shortName": "Decorative Bowls",
+        "fullName": "Decorative Bowls",
+        "localizedId": "accent-bowls"
+    },
+    {
+        "numId": 670,
+        "id": "napkins",
+        "name": "Napkins",
+        "shortName": "Napkins",
+        "fullName": "Napkins",
+        "localizedId": "napkins"
+    },
+    {
+        "numId": 750,
+        "id": "artwork",
+        "name": "Artwork",
+        "shortName": "Artwork",
+        "fullName": "Artwork",
+        "localizedId": "artwork"
+    },
+    {
+        "numId": 1818,
+        "id": "bookcases-cabinets",
+        "name": "Bookcases & Cabinets",
+        "shortName": "Bookcases & Cabinets",
+        "fullName": "Bookcases & Cabinets",
+        "localizedId": "bookcases-cabinets"
+    },
+    {
+        "numId": 1881,
+        "id": "accents-throws-blankets",
+        "name": "Throws",
+        "shortName": "Throws",
+        "fullName": "Throws",
+        "localizedId": "accents-throws-blankets"
+    },
+    {
+        "numId": 2305,
+        "id": "waffle-maker",
+        "name": "Waffle Makers",
+        "shortName": "Waffle Makers",
+        "fullName": "Waffle Makers",
+        "localizedId": "waffle-maker"
+    },
+    {
+        "numId": 598,
+        "id": "office-chairs",
+        "name": "Office Chairs",
+        "shortName": "Office Chairs",
+        "fullName": "Office Chairs",
+        "localizedId": "office-chairs"
+    },
+    {
+        "numId": 741,
+        "id": "desk-lamps",
+        "name": "Desk Lamps",
+        "shortName": "Desk Lamps",
+        "fullName": "Desk Lamps",
+        "localizedId": "desk-lamps"
+    },
+    {
+        "numId": 2284,
+        "id": "rugs-hallway",
+        "name": "Hallway Rugs",
+        "shortName": "Hallway Rugs",
+        "fullName": "Hallway Rugs",
+        "localizedId": "rugs-hallway"
+    },
+    {
+        "numId": 726,
+        "id": "dish-towels",
+        "name": "Dish Towels",
+        "shortName": "Dish Towels",
+        "fullName": "Dish Towels",
+        "localizedId": "dish-towels"
+    },
+    {
+        "numId": 771,
+        "id": "umbrella-stands",
+        "name": "Umbrella Stands",
+        "shortName": "Umbrella Stands",
+        "fullName": "Umbrella Stands",
+        "localizedId": "umbrella-stands"
+    },
+    {
+        "numId": 1786,
+        "id": "outdoor-coffee-accent-tables",
+        "name": "Coffee & Accent Tables",
+        "shortName": "Coffee & Accent Tables",
+        "fullName": "Outdoor Coffee & Accent Tables",
+        "localizedId": "outdoor-coffee-accent-tables"
+    },
+    {
+        "numId": 2285,
+        "id": "rugs-round",
+        "name": "Round Rugs",
+        "shortName": "Round Rugs",
+        "fullName": "Round Rugs",
+        "localizedId": "rugs-round"
+    },
+    {
+        "numId": 1932,
+        "id": "dinnerware-sets",
+        "name": "Dinnerware Sets",
+        "shortName": "Dinnerware Sets",
+        "fullName": "Dinnerware Sets",
+        "localizedId": "dinnerware-sets"
+    },
+    {
+        "numId": 589,
+        "id": "sinks-washstands",
+        "name": "Sinks & Washstands",
+        "shortName": "Sinks & Washstands",
+        "fullName": "Sinks & Washstands",
+        "localizedId": "sinks-washstands"
+    },
+    {
+        "numId": 888,
+        "id": "figurines",
+        "name": "Figurines",
+        "shortName": "Figurines",
+        "fullName": "Figurines",
+        "localizedId": "figurines"
+    },
+    {
+        "numId": 1923,
+        "id": "lazy-susan",
+        "name": "Lazy Susan",
+        "shortName": "Lazy Susan",
+        "fullName": "Lazy Susan",
+        "localizedId": "lazy-susan"
+    },
+    {
+        "numId": 742,
+        "id": "lamp-shades",
+        "name": "Lamp Shades",
+        "shortName": "Lamp Shades",
+        "fullName": "Lamp Shades",
+        "localizedId": "lamp-shades"
+    },
+    {
+        "numId": 808,
+        "id": "bed-skirts",
+        "name": "Bed Skirts & Daybed Covers",
+        "shortName": "Bed Skirts & Daybed Covers",
+        "fullName": "Bed Skirts & Daybed Covers",
+        "localizedId": "bed-skirts"
+    },
+    {
+        "numId": 2220,
+        "id": "futon",
+        "name": "Futon",
+        "shortName": "Futon",
+        "fullName": "Futon",
+        "localizedId": "futon"
+    },
+    {
+        "numId": 1868,
+        "id": "outdoor-pillows",
+        "name": "Outdoor Pillows",
+        "shortName": "Outdoor Pillows",
+        "fullName": "Outdoor Pillows",
+        "localizedId": "outdoor-pillows"
+    },
+    {
+        "numId": 850,
+        "id": "cups-mugs",
+        "name": "Coffee Mugs & Tea Cups",
+        "shortName": "Coffee Mugs & Tea Cups",
+        "fullName": "Cups & Mugs",
+        "localizedId": "cups-mugs"
+    },
+    {
+        "numId": 831,
+        "id": "outdoor-chairs",
+        "name": "Chairs",
+        "shortName": "Chairs",
+        "fullName": "Outdoor Chairs",
+        "localizedId": "outdoor-chairs"
+    },
+    {
+        "numId": 2293,
+        "id": "pet-beds",
+        "name": "Pet Beds",
+        "shortName": "Pet Beds",
+        "fullName": "Pet Beds",
+        "localizedId": "pet-beds"
+    },
+    {
+        "numId": 1874,
+        "id": "holiday-trees",
+        "name": "Holiday Trees",
+        "shortName": "Holiday Trees",
+        "fullName": "Christmas Tree",
+        "localizedId": "holiday-trees"
+    },
+    {
+        "numId": 1782,
+        "id": "outdoor-chaises-daybeds",
+        "name": "Chaises & Daybeds",
+        "shortName": "Chaises & Daybeds",
+        "fullName": "Outdoor Chaises & Daybeds",
+        "localizedId": "outdoor-chaises-daybeds"
+    },
+    {
+        "numId": 616,
+        "id": "garden",
+        "name": "Garden Decor",
+        "shortName": "Garden",
+        "fullName": "Garden Decor",
+        "localizedId": "garden"
+    },
+    {
+        "numId": 1824,
+        "id": "bar-carts-bar-furniture",
+        "name": "Bar Carts & Bar Furniture",
+        "shortName": "Bar Carts & Bar Furniture",
+        "fullName": "Bar Carts & Bar Furniture",
+        "localizedId": "bar-carts-bar-furniture"
+    },
+    {
+        "numId": 1931,
+        "id": "drinkware-flutes",
+        "name": "Drinkware Flutes",
+        "shortName": "Champagne Glasses",
+        "fullName": "Drinkware Flutes",
+        "localizedId": "drinkware-flutes"
+    },
+    {
+        "numId": 2310,
+        "id": "spoon-rests-and-trivets",
+        "name": "Spoon Rests & Trivets",
+        "shortName": "Spoon Rests & Trivets",
+        "fullName": "Spoon Rests & Trivets",
+        "localizedId": "spoon-rests-and-trivets"
+    },
+    {
+        "numId": 2298,
+        "id": "pet-health-and-grooming",
+        "name": "Pet Health & Grooming",
+        "shortName": "Pet Health & Grooming",
+        "fullName": "Pet Health & Grooming",
+        "localizedId": "pet-health-and-grooming"
+    },
+    {
+        "numId": 667,
+        "id": "placemats",
+        "name": "Placemats & Chargers",
+        "shortName": "Placemats & Chargers",
+        "fullName": "Placemats & Chargers",
+        "localizedId": "placemats"
+    },
+    {
+        "numId": 866,
+        "id": "trays-platters",
+        "name": "Trays & Platters",
+        "shortName": "Trays & Platters",
+        "fullName": "Trays & Platters",
+        "localizedId": "trays-platters"
+    },
+    {
+        "numId": 2201,
+        "id": "dining-pantry-cabinets",
+        "name": "Pantry Cabinets",
+        "shortName": "Pantry Cabinets",
+        "fullName": "Pantry Cabinets",
+        "localizedId": "dining-pantry-cabinets"
+    },
+    {
+        "numId": 1769,
+        "id": "kitchen-islands-carts",
+        "name": "Kitchen Islands & Carts",
+        "shortName": "Kitchen Islands & Carts",
+        "fullName": "Kitchen Islands & Carts",
+        "localizedId": "kitchen-islands-carts"
+    },
+    {
+        "numId": 1756,
+        "id": "storage-kitchen",
+        "name": "Storage & Modular Kitchen",
+        "shortName": "Kitchen",
+        "fullName": "Storage & Modular Kitchen",
+        "localizedId": "storage-kitchen"
+    },
+    {
+        "numId": 1771,
+        "id": "dining-furniture-collections",
+        "name": "Dining Collections",
+        "shortName": "Dining Collections",
+        "fullName": "Dining Collections",
+        "localizedId": "dining-furniture-collections"
+    },
+    {
+        "numId": 2239,
+        "id": "outdoor-furniture-adirondack-chairs",
+        "name": "Adirondack Chairs",
+        "shortName": "Adirondack Chairs",
+        "fullName": "Adirondack Chairs",
+        "localizedId": "outdoor-furniture-adirondack-chairs"
+    },
+    {
+        "numId": 1884,
+        "id": "poufs",
+        "name": "Poufs",
+        "shortName": "Poufs",
+        "fullName": "Poufs",
+        "localizedId": "poufs"
+    },
+    {
+        "numId": 2252,
+        "id": "fan-accessories",
+        "name": "Fan Accessories",
+        "shortName": "Fan Accessories",
+        "fullName": "Fan Accessories",
+        "localizedId": "fan-accessories"
+    },
+    {
+        "numId": 701,
+        "id": "blenders-juicers",
+        "name": "Blenders & Juicers",
+        "shortName": "Blenders & Juicers",
+        "fullName": "Blenders & Juicers",
+        "localizedId": "blenders-juicers"
+    },
+    {
+        "numId": 881,
+        "id": "kitchen-tools-gadgets",
+        "name": "Kitchen Tools",
+        "shortName": "Tools & Gadgets",
+        "fullName": "Kitchen Tools",
+        "localizedId": "kitchen-tools-gadgets"
+    },
+    {
+        "numId": 1784,
+        "id": "outdoor-dining-furniture-collections",
+        "name": "Outdoor Dining Collections",
+        "shortName": "Dining Collections",
+        "fullName": "Outdoor Dining Collections",
+        "localizedId": "outdoor-dining-furniture-collections"
+    },
+    {
+        "numId": 1762,
+        "id": "livingroom-leather-furniture",
+        "name": "Leather Furniture",
+        "shortName": "Leather Furniture",
+        "fullName": "Leather Furniture",
+        "localizedId": "livingroom-leather-furniture"
+    },
+    {
+        "numId": 1850,
+        "id": "bedding-sets",
+        "name": "Bedding Sets",
+        "shortName": "Bedding Sets",
+        "fullName": "Bedding Sets",
+        "localizedId": "bedding-sets"
+    },
+    {
+        "numId": 715,
+        "id": "tea-kettles",
+        "name": "Tea Kettles",
+        "shortName": "Tea Kettles",
+        "fullName": "Tea Kettles",
+        "localizedId": "tea-kettles"
+    },
+    {
+        "numId": 1928,
+        "id": "pillowcases",
+        "name": "Pillowcases",
+        "shortName": "Pillowcases",
+        "fullName": "Pillowcases",
+        "localizedId": "pillowcases"
+    },
+    {
+        "numId": 731,
+        "id": "wine-storage",
+        "name": "Wine Storage",
+        "shortName": "Wine Storage",
+        "fullName": "Wine Storage",
+        "localizedId": "wine-storage"
+    },
+    {
+        "numId": 748,
+        "id": "mirrors-wall",
+        "name": "Wall Mirrors",
+        "shortName": "Wall Mirrors",
+        "fullName": "Wall Mirrors",
+        "localizedId": "mirrors-wall"
+    },
+    {
+        "numId": 2217,
+        "id": "memory-foam",
+        "name": "Memory Foam",
+        "shortName": "Memory Foam",
+        "fullName": "Memory Foam",
+        "localizedId": "memory-foam"
+    },
+    {
+        "numId": 657,
+        "id": "dinnerware",
+        "name": "Dinnerware",
+        "shortName": "Dinnerware",
+        "fullName": "Dinnerware",
+        "localizedId": "dinnerware"
+    },
+    {
+        "numId": 2347,
+        "id": "laundry",
+        "name": "",
+        "shortName": "Laundry",
+        "fullName": "",
+        "localizedId": "laundry"
+    },
+    {
+        "numId": 2194,
+        "id": "livingroom-futons-and-day-beds",
+        "name": "Futons & Day Beds",
+        "shortName": "Futons & Day Beds",
+        "fullName": "Futons & Day Beds",
+        "localizedId": "livingroom-futons-and-day-beds"
+    },
+    {
+        "numId": 39,
+        "id": "shoulder-bags",
+        "name": "Shoulder Bags",
+        "shortName": "Shoulder",
+        "fullName": "Women's Shoulder Bags",
+        "localizedId": "shoulder-bags"
+    },
+    {
+        "numId": 40,
+        "id": "tote-bags",
+        "name": "Tote Bags",
+        "shortName": "Totes",
+        "fullName": "Women's Tote Bags",
+        "localizedId": "tote-bags"
+    },
+    {
+        "numId": 739,
+        "id": "floor-lamps",
+        "name": "Floor Lamps",
+        "shortName": "Floor Lamps",
+        "fullName": "Floor Lamps",
+        "localizedId": "floor-lamps"
+    },
+    {
+        "numId": 2240,
+        "id": "outdoor-furniture-garden-stools",
+        "name": "Garden Stools",
+        "shortName": "Garden Stools",
+        "fullName": "Garden Stools",
+        "localizedId": "outdoor-furniture-garden-stools"
+    },
+    {
+        "numId": 1819,
+        "id": "livingroom-collections",
+        "name": "Living Room Collections",
+        "shortName": "Living Room Collections",
+        "fullName": "Living Room Collections",
+        "localizedId": "livingroom-collections"
+    },
+    {
+        "numId": 2161,
+        "id": "gameroom-furniture",
+        "name": "Game Room",
+        "shortName": "Game Room Furniture",
+        "fullName": "Game Room",
+        "localizedId": "gameroom-furniture"
+    },
+    {
+        "numId": 2317,
+        "id": "holiday-wall-art",
+        "name": "Holiday Wall Art",
+        "shortName": "Holiday Wall Art",
+        "fullName": "Christmas Wall Art",
+        "localizedId": "holiday-wall-art"
+    },
+    {
+        "numId": 2257,
+        "id": "charger-plates",
+        "name": "Charger Plates",
+        "shortName": "Charger Plates",
+        "fullName": "Charger Plates",
+        "localizedId": "charger-plates"
+    },
+    {
+        "numId": 2302,
+        "id": "salad-and-appetizer-plates",
+        "name": "Salad & Appetizer Plates",
+        "shortName": "Salad & Appetizer Plates",
+        "fullName": "Salad & Appetizer Plates",
+        "localizedId": "salad-and-appetizer-plates"
+    },
+    {
+        "numId": 1945,
+        "id": "fall-decor",
+        "name": "Fall Decor",
+        "shortName": "Fall Decor",
+        "fullName": "Fall Decor",
+        "localizedId": "fall-decor"
+    },
+    {
+        "numId": 1888,
+        "id": "artwork-photography",
+        "name": "Photography",
+        "shortName": "Photography",
+        "fullName": "Photography",
+        "localizedId": "artwork-photography"
+    },
+    {
+        "numId": 1889,
+        "id": "artwork-drawings",
+        "name": "Drawings",
+        "shortName": "Drawings",
+        "fullName": "Drawings",
+        "localizedId": "artwork-drawings"
+    },
+    {
+        "numId": 1810,
+        "id": "bath-soaps-lotions",
+        "name": "Soaps & Lotions",
+        "shortName": "Soaps & Lotions",
+        "fullName": "Soaps & Lotions",
+        "localizedId": "bath-soaps-lotions"
+    },
+    {
+        "numId": 2197,
+        "id": "livingroom-slipcovers",
+        "name": "Slipcovers",
+        "shortName": "Slipcovers",
+        "fullName": "Slipcovers",
+        "localizedId": "livingroom-slipcovers"
+    },
+    {
+        "numId": 1963,
+        "id": "food-beverage",
+        "name": "Food & Beverage",
+        "shortName": "Food & Beverage",
+        "fullName": "Food & Beverage",
+        "localizedId": "food-beverage"
+    },
+    {
+        "numId": 2287,
+        "id": "mats-kitchen",
+        "name": "Kitchen Rugs & Mats",
+        "shortName": "Kitchen Mats",
+        "fullName": "Kitchen Rugs & Mats",
+        "localizedId": "mats-kitchen"
+    },
+    {
+        "numId": 752,
+        "id": "sheers",
+        "name": "Sheers",
+        "shortName": "Sheers",
+        "fullName": "Sheers",
+        "localizedId": "sheers"
+    },
+    {
+        "numId": 2177,
+        "id": "kids-and-baby-furniture-bassinets",
+        "name": "Bassinets",
+        "shortName": "Bassinets",
+        "fullName": "Bassinets",
+        "localizedId": "kids-and-baby-furniture-bassinets"
+    },
+    {
+        "numId": 668,
+        "id": "runners",
+        "name": "Runners",
+        "shortName": "Runners",
+        "fullName": "Runners",
+        "localizedId": "runners"
+    },
+    {
+        "numId": 1886,
+        "id": "pillows-decor",
+        "name": "Pillows & Decor",
+        "shortName": "Pillows & Decor",
+        "fullName": "Pillows & Decor",
+        "localizedId": "pillows-decor"
+    },
+    {
+        "numId": 2214,
+        "id": "pillow-insert",
+        "name": "Pillow Insert",
+        "shortName": "Pillow Insert",
+        "fullName": "Pillow Insert",
+        "localizedId": "pillow-insert"
+    },
+    {
+        "numId": 2199,
+        "id": "bedroom-daybeds",
+        "name": "Daybeds",
+        "shortName": "Daybeds",
+        "fullName": "Daybeds",
+        "localizedId": "bedroom-daybeds"
+    },
+    {
+        "numId": 745,
+        "id": "bathroom-lighting",
+        "name": "Bathroom Lighting",
+        "shortName": "Bathroom Lighting",
+        "fullName": "Bathroom Lighting",
+        "localizedId": "bathroom-lighting"
+    },
+    {
+        "numId": 2288,
+        "id": "rugs-stair-tread",
+        "name": "Stair Tread",
+        "shortName": "Stair Tread",
+        "fullName": "Stair Tread",
+        "localizedId": "rugs-stair-tread"
+    },
+    {
+        "numId": 696,
+        "id": "steak-knives",
+        "name": "Steak Knives",
+        "shortName": "Steak Knives",
+        "fullName": "Steak Knives",
+        "localizedId": "steak-knives"
+    },
+    {
+        "numId": 1796,
+        "id": "outdoor-ceiling-lighting",
+        "name": "Ceiling Lights",
+        "shortName": "Ceiling Lights",
+        "fullName": "Ceiling Lights",
+        "localizedId": "outdoor-ceiling-lighting"
+    },
+    {
+        "numId": 695,
+        "id": "kitchen-knives",
+        "name": "Kitchen Knives",
+        "shortName": "Kitchen Knives",
+        "fullName": "Kitchen Knives",
+        "localizedId": "kitchen-knives"
+    },
+    {
+        "numId": 1783,
+        "id": "outdoor-lounge-chairs-ottomans",
+        "name": "Lounge Chairs & Ottomans",
+        "shortName": "Lounge Chairs & Ottomans",
+        "fullName": "Outdoor Lounge Chairs & Ottomans",
+        "localizedId": "outdoor-lounge-chairs-ottomans"
+    },
+    {
+        "numId": 2237,
+        "id": "outdoor-landscape-lighting",
+        "name": "Landscape Lighting",
+        "shortName": "Landscape Lighting",
+        "fullName": "Landscape Lighting",
+        "localizedId": "outdoor-landscape-lighting"
+    },
+    {
+        "numId": 582,
+        "id": "living-room-furniture",
+        "name": "Living Room",
+        "shortName": "Living Room Furniture",
+        "fullName": "Living Room",
+        "localizedId": "living-room-furniture"
+    },
+    {
+        "numId": 2173,
+        "id": "kids-and-baby-furniture-cribs",
+        "name": "Cribs",
+        "shortName": "Cribs",
+        "fullName": "Cribs",
+        "localizedId": "kids-and-baby-furniture-cribs"
+    },
+    {
+        "numId": 2323,
+        "id": "fall-pillows",
+        "name": "Fall Pillows",
+        "shortName": "Fall Pillows",
+        "fullName": "Halloween Pillows",
+        "localizedId": "fall-pillows"
+    },
+    {
+        "numId": 1753,
+        "id": "storage-cabinets",
+        "name": "Storage Cabinets",
+        "shortName": "Storage Cabinets",
+        "fullName": "Storage Cabinets",
+        "localizedId": "storage-cabinets"
+    },
+    {
+        "numId": 880,
+        "id": "kitchen-storage",
+        "name": "Kitchen Storage & Organization",
+        "shortName": "Kitchen Storage & Organization",
+        "fullName": "Kitchen Storage & Organization",
+        "localizedId": "kitchen-storage"
+    },
+    {
+        "numId": 737,
+        "id": "ceiling-lighting",
+        "name": "Ceiling Lighting",
+        "shortName": "Ceiling Lighting",
+        "fullName": "Ceiling Lighting",
+        "localizedId": "ceiling-lighting"
+    },
+    {
+        "numId": 862,
+        "id": "salt-pepper",
+        "name": "Salt & Pepper Shakers",
+        "shortName": "Salt & Pepper Shakers",
+        "fullName": "Salt & Pepper Shakers",
+        "localizedId": "salt-pepper"
+    },
+    {
+        "numId": 782,
+        "id": "candles-candleholders",
+        "name": "Candles",
+        "shortName": "Candles & Holders",
+        "fullName": "Candles & Holders",
+        "localizedId": "candles-candleholders"
+    },
+    {
+        "numId": 2273,
+        "id": "night-light",
+        "name": "Night Light",
+        "shortName": "Night Light",
+        "fullName": "Night Light",
+        "localizedId": "night-light"
+    },
+    {
+        "numId": 2324,
+        "id": "holiday-dining-entertaining",
+        "name": "Holiday Dining & Entertaining",
+        "shortName": "Holiday Dining & Entertaining",
+        "fullName": "Christmas Table Settings",
+        "localizedId": "holiday-dining-entertaining"
+    },
+    {
+        "numId": 626,
+        "id": "blankets",
+        "name": "Blankets",
+        "shortName": "Blankets",
+        "fullName": "Blankets",
+        "localizedId": "blankets"
+    },
+    {
+        "numId": 648,
+        "id": "bath-accessories",
+        "name": "Bath Accessories",
+        "shortName": "Bath Accessories",
+        "fullName": "Bath Accessories",
+        "localizedId": "bath-accessories"
+    },
+    {
+        "numId": 1787,
+        "id": "outdoor-furniture-covers-care",
+        "name": "Furniture Covers & Care",
+        "shortName": "Furniture Covers & Care",
+        "fullName": "Furniture Covers & Care",
+        "localizedId": "outdoor-furniture-covers-care"
+    },
+    {
+        "numId": 2236,
+        "id": "outdoor-fire-pits",
+        "name": "Fire Pits",
+        "shortName": "Fire Pits",
+        "fullName": "Fire Pits",
+        "localizedId": "outdoor-fire-pits"
+    },
+    {
+        "numId": 868,
+        "id": "tablecloths",
+        "name": "Tablecloths",
+        "shortName": "Tablecloths",
+        "fullName": "Tablecloths",
+        "localizedId": "tablecloths"
+    },
+    {
+        "numId": 2246,
+        "id": "lighting-accessories",
+        "name": "Lighting Accessories",
+        "shortName": "Lighting Accessories",
+        "fullName": "Lighting Accessories",
+        "localizedId": "lighting-accessories"
+    },
+    {
+        "numId": 785,
+        "id": "home-fragrance",
+        "name": "Home Fragrance",
+        "shortName": "Home Fragrance",
+        "fullName": "Home Fragrance",
+        "localizedId": "home-fragrance"
+    },
+    {
+        "numId": 635,
+        "id": "shower-curtains",
+        "name": "Shower Curtains",
+        "shortName": "Shower Curtains",
+        "fullName": "Shower Curtains",
+        "localizedId": "shower-curtains"
+    },
+    {
+        "numId": 1860,
+        "id": "pillow-pillowcases-shams",
+        "name": "Pillowcases & Shams",
+        "shortName": "Pillowcases & Shams",
+        "fullName": "Pillows, Pillowcases & Shams",
+        "localizedId": "pillow-pillowcases-shams"
+    },
+    {
+        "numId": 849,
+        "id": "carafes-decanters",
+        "name": "Carafes & Decanters",
+        "shortName": "Carafes & Decanters",
+        "fullName": "Carafes & Decanters",
+        "localizedId": "carafes-decanters"
+    },
+    {
+        "numId": 870,
+        "id": "toasters-ovens",
+        "name": "Toasters & Toaster Ovens",
+        "shortName": "Toasters & Toaster Ovens",
+        "fullName": "Toasters & Ovens",
+        "localizedId": "toasters-ovens"
+    },
+    {
+        "numId": 1937,
+        "id": "hanukkah-decorations",
+        "name": "Hanukkah Decorations",
+        "shortName": "Hanukkah Decorations",
+        "fullName": "Dreidel",
+        "localizedId": "hanukkah-decorations"
+    },
+    {
+        "numId": 1,
+        "id": "clothes-shoes-and-jewelry",
+        "name": "Clothes and Shoes",
+        "shortName": "All Categories",
+        "fullName": "Clothes, Shoes, & Jewelry",
+        "localizedId": "clothes-shoes-and-jewelry"
+    },
+    {
+        "numId": 832,
+        "id": "outdoor-tables",
+        "name": "Tables",
+        "shortName": "Tables",
+        "fullName": "Outdoor Tables",
+        "localizedId": "outdoor-tables"
+    },
+    {
+        "numId": 2213,
+        "id": "weighted-blankets",
+        "name": "Weighted Blankets",
+        "shortName": "Weighted Blankets",
+        "fullName": "Weighted Blankets",
+        "localizedId": "weighted-blankets"
+    },
+    {
+        "numId": 1811,
+        "id": "countertop-bath-accessories",
+        "name": "Countertop Bath Accessories",
+        "shortName": "Countertop Bath Accessories",
+        "fullName": "Countertop Bath Accessories",
+        "localizedId": "countertop-bath-accessories"
+    },
+    {
+        "numId": 856,
+        "id": "wine-glasses",
+        "name": "Wine Glasses",
+        "shortName": "Wine Glasses",
+        "fullName": "Wine Glasses",
+        "localizedId": "wine-glasses"
+    }
+]

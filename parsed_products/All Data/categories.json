@@ -1,0 +1,44 @@
+[
+    {
+        "numId": 166,
+        "id": "men",
+        "name": "Men's Fashion",
+        "shortName": "Men",
+        "fullName": "Men's Fashion",
+        "localizedIds": {
+            "en-US": "men",
+            "en-CA": "men",
+            "en-AU": "men",
+            "en-GB": "men"
+        },
+        "localizedId": "men"
+    },
+    {
+        "numId": 2,
+        "id": "women",
+        "name": "Women's Fashion",
+        "shortName": "Women",
+        "fullName": "Women's Fashion",
+        "localizedIds": {
+            "en-US": "women",
+            "en-CA": "women",
+            "en-AU": "women",
+            "en-GB": "women"
+        },
+        "localizedId": "women"
+    },
+    {
+        "numId": 806,
+        "id": "living",
+        "name": "Home & Living",
+        "shortName": "Home",
+        "fullName": "Home & Living",
+        "localizedIds": {
+            "en-US": "living",
+            "en-CA": "living",
+            "en-AU": "living",
+            "en-GB": "living"
+        },
+        "localizedId": "living"
+    }
+]
