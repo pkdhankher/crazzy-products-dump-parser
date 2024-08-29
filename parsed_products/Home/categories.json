@@ -1,0 +1,16 @@
+[
+    {
+        "numId": 806,
+        "id": "living",
+        "name": "Home & Living",
+        "shortName": "Home",
+        "fullName": "Home & Living",
+        "localizedIds": {
+            "en-US": "living",
+            "en-CA": "living",
+            "en-AU": "living",
+            "en-GB": "living"
+        },
+        "localizedId": "living"
+    }
+]

@@ -1,0 +1,1090 @@
+[
+    {
+        "numId": 200,
+        "id": "mens-jeans",
+        "name": "Jeans",
+        "shortName": "Jeans",
+        "fullName": "Men's Jeans",
+        "localizedId": "mens-jeans"
+    },
+    {
+        "numId": 1726,
+        "id": "mens-sneakers",
+        "name": "Sneakers & Athletic Shoes",
+        "shortName": "Sneakers & Athletic",
+        "fullName": "Men's Sneakers & Athletic Shoes",
+        "localizedId": "mens-sneakers"
+    },
+    {
+        "numId": 2055,
+        "id": "mens-low-top-sneakers",
+        "name": "Low Top Sneakers",
+        "shortName": "Low Top",
+        "fullName": "Men's Low Top Sneakers",
+        "localizedId": "mens-low-top-sneakers"
+    },
+    {
+        "numId": 221,
+        "id": "mens-boots",
+        "name": "Boots",
+        "shortName": "Boots",
+        "fullName": "Men's Boots",
+        "localizedId": "mens-boots"
+    },
+    {
+        "numId": 2135,
+        "id": "mens-light-jackets",
+        "name": "Jackets",
+        "shortName": "Jackets",
+        "fullName": "Men's Jackets",
+        "localizedId": "mens-light-jackets"
+    },
+    {
+        "numId": 212,
+        "id": "mens-dress-pants",
+        "name": "Dress Pants",
+        "shortName": "Dress",
+        "fullName": "Men's Dress Pants",
+        "localizedId": "mens-dress-pants"
+    },
+    {
+        "numId": 226,
+        "id": "mens-suits",
+        "name": "Suits",
+        "shortName": "Suits",
+        "fullName": "Men's Suits",
+        "localizedId": "mens-suits"
+    },
+    {
+        "numId": 218,
+        "id": "mens-tees-and-tshirts",
+        "name": "T-shirts",
+        "shortName": "Tees",
+        "fullName": "Men's T-shirts",
+        "localizedId": "mens-tees-and-tshirts"
+    },
+    {
+        "numId": 220,
+        "id": "mens-shoes-athletic",
+        "name": "Performance Sneakers",
+        "shortName": "Performance",
+        "fullName": "Men's Performance Sneakers",
+        "localizedId": "mens-shoes-athletic"
+    },
+    {
+        "numId": 177,
+        "id": "mens-athletic",
+        "name": "Activewear",
+        "shortName": "Activewear",
+        "fullName": "Men's Activewear",
+        "localizedId": "mens-athletic"
+    },
+    {
+        "numId": 247,
+        "id": "mens-watches",
+        "name": "Watches",
+        "shortName": "Watches",
+        "fullName": "Men's Watches",
+        "localizedId": "mens-watches"
+    },
+    {
+        "numId": 2058,
+        "id": "mens-flip-flops",
+        "name": "Flip Flop Sandals",
+        "shortName": "Flip Flops",
+        "fullName": "Men's Flip Flop Sandals",
+        "localizedId": "mens-flip-flops"
+    },
+    {
+        "numId": 224,
+        "id": "mens-sandals",
+        "name": "Sandals",
+        "shortName": "Sandals",
+        "fullName": "Men's Sandals",
+        "localizedId": "mens-sandals"
+    },
+    {
+        "numId": 2059,
+        "id": "mens-slides",
+        "name": "Slide Sandals",
+        "shortName": "Slides",
+        "fullName": "Men's Slide Sandals",
+        "localizedId": "mens-slides"
+    },
+    {
+        "numId": 2044,
+        "id": "womens-sneaker-low-top",
+        "name": "Low Top Sneakers",
+        "shortName": "Low Top",
+        "fullName": "Women's Low Top Sneakers",
+        "localizedId": "womens-sneaker-low-top"
+    },
+    {
+        "numId": 216,
+        "id": "mens-shortsleeve-shirts",
+        "name": "Short Sleeve Shirts",
+        "shortName": "Shortsleeve",
+        "fullName": "Men's Short Sleeve Shirts",
+        "localizedId": "mens-shortsleeve-shirts"
+    },
+    {
+        "numId": 241,
+        "id": "mens-boxers",
+        "name": "Boxers",
+        "shortName": "Boxers",
+        "fullName": "Men's Boxers",
+        "localizedId": "mens-boxers"
+    },
+    {
+        "numId": 1207,
+        "id": "mens-sweatshirts",
+        "name": "Sweatshirts & Hoodies",
+        "shortName": "Sweatshirts & Hoodies",
+        "fullName": "Men's Sweatshirts & Hoodies",
+        "localizedId": "mens-sweatshirts"
+    },
+    {
+        "numId": 1724,
+        "id": "womens-sneakers",
+        "name": "Sneakers & Athletic Shoes",
+        "shortName": "Sneakers & Athletic",
+        "fullName": "Women's Sneakers & Athletic Shoes",
+        "localizedId": "womens-sneakers"
+    },
+    {
+        "numId": 245,
+        "id": "mens-cuff-links",
+        "name": "Cuff links",
+        "shortName": "Cuff links",
+        "fullName": "Cuff Links",
+        "localizedId": "mens-cuff-links"
+    },
+    {
+        "numId": 246,
+        "id": "mens-jewelry",
+        "name": "Jewelry",
+        "shortName": "Jewelry",
+        "fullName": "Men's Jewelry",
+        "localizedId": "mens-jewelry"
+    },
+    {
+        "numId": 225,
+        "id": "mens-shorts",
+        "name": "Shorts",
+        "shortName": "Shorts",
+        "fullName": "Men's Shorts",
+        "localizedId": "mens-shorts"
+    },
+    {
+        "numId": 208,
+        "id": "mens-pants",
+        "name": "Pants",
+        "shortName": "Pants",
+        "fullName": "Men's Pants",
+        "localizedId": "mens-pants"
+    },
+    {
+        "numId": 2054,
+        "id": "mens-loafers",
+        "name": "Slip-on Loafers",
+        "shortName": "Loafers",
+        "fullName": "Men's Slip-on Loafers",
+        "localizedId": "mens-loafers"
+    },
+    {
+        "numId": 223,
+        "id": "mens-lace-up-shoes",
+        "name": "Lace-up Shoes",
+        "shortName": "Lace-up",
+        "fullName": "Men's Dress Shoes",
+        "localizedId": "mens-lace-up-shoes"
+    },
+    {
+        "numId": 2057,
+        "id": "mens-slip-on-sneakers",
+        "name": "Slip-on Sneakers",
+        "shortName": "Slip On",
+        "fullName": "Men's Slip-on Sneakers",
+        "localizedId": "mens-slip-on-sneakers"
+    },
+    {
+        "numId": 2056,
+        "id": "mens-high-top-sneakers",
+        "name": "High Top Sneakers",
+        "shortName": "High Top",
+        "fullName": "Men's High Top Sneakers",
+        "localizedId": "mens-high-top-sneakers"
+    },
+    {
+        "numId": 195,
+        "id": "mens-denim-jackets",
+        "name": "Jean Jackets",
+        "shortName": "Denim",
+        "fullName": "Jean Jackets",
+        "localizedId": "mens-denim-jackets"
+    },
+    {
+        "numId": 2130,
+        "id": "mens-jackets-denim",
+        "name": "Denim Jackets",
+        "shortName": "Denim",
+        "fullName": "Men's Denim Jackets",
+        "localizedId": "mens-jackets-denim"
+    },
+    {
+        "numId": 197,
+        "id": "mens-leather-and-suede-coats",
+        "name": "Leather & Suede Jackets",
+        "shortName": "Leather & Suede",
+        "fullName": "Men's Leather & Suede Jackets",
+        "localizedId": "mens-leather-and-suede-coats"
+    },
+    {
+        "numId": 1205,
+        "id": "mens-backpacks",
+        "name": "Backpacks",
+        "shortName": "Backpacks",
+        "fullName": "Men's Backpacks",
+        "localizedId": "mens-backpacks"
+    },
+    {
+        "numId": 217,
+        "id": "mens-polo-shirts",
+        "name": "Polos",
+        "shortName": "Polos",
+        "fullName": "Men's Polos",
+        "localizedId": "mens-polo-shirts"
+    },
+    {
+        "numId": 222,
+        "id": "mens-slip-ons-shoes",
+        "name": "Slip-ons & Loafers",
+        "shortName": "Slip-ons & Loafers",
+        "fullName": "Men's Slip-ons & Loafers",
+        "localizedId": "mens-slip-ons-shoes"
+    },
+    {
+        "numId": 173,
+        "id": "mens-hats",
+        "name": "Hats",
+        "shortName": "Hats",
+        "fullName": "Men's Hats",
+        "localizedId": "mens-hats"
+    },
+    {
+        "numId": 202,
+        "id": "mens-distressed-jeans",
+        "name": "Distressed Jeans",
+        "shortName": "Distressed",
+        "fullName": "Men's Distressed Jeans",
+        "localizedId": "mens-distressed-jeans"
+    },
+    {
+        "numId": 169,
+        "id": "mens-belts",
+        "name": "Belts",
+        "shortName": "Belts",
+        "fullName": "Men's Belts",
+        "localizedId": "mens-belts"
+    },
+    {
+        "numId": 180,
+        "id": "mens-athletic-shirts",
+        "name": "Activewear Shirts",
+        "shortName": "Shirts",
+        "fullName": "Men's Activewear Shirts",
+        "localizedId": "mens-athletic-shirts"
+    },
+    {
+        "numId": 1711,
+        "id": "mens-eyeglasses",
+        "name": "Eyeglasses",
+        "shortName": "Eyeglasses",
+        "fullName": "Men's Eyeglasses",
+        "localizedId": "mens-eyeglasses"
+    },
+    {
+        "numId": 2074,
+        "id": "womens-cross-body-bags",
+        "name": "Crossbody Bags",
+        "shortName": "Cross Body",
+        "fullName": "Women's Crossbody Bags",
+        "localizedId": "womens-cross-body-bags"
+    },
+    {
+        "numId": 2080,
+        "id": "mens-cross-body-bags",
+        "name": "Crossbody Bags",
+        "shortName": "Cross Body",
+        "fullName": "Men's Crossbody Bags",
+        "localizedId": "mens-cross-body-bags"
+    },
+    {
+        "numId": 240,
+        "id": "mens-briefs",
+        "name": "Briefs",
+        "shortName": "Briefs",
+        "fullName": "Men's Briefs",
+        "localizedId": "mens-briefs"
+    },
+    {
+        "numId": 193,
+        "id": "mens-blazers-and-sport-coats",
+        "name": "Sport Coats & Blazers",
+        "shortName": "Sportcoats",
+        "fullName": "Men's Sport Coats & Blazers",
+        "localizedId": "mens-blazers-and-sport-coats"
+    },
+    {
+        "numId": 1439,
+        "id": "mens-half-zip-sweaters",
+        "name": "Half-zip Sweaters",
+        "shortName": "Half-Zip",
+        "fullName": "Men's Half-Zip Sweaters",
+        "localizedId": "mens-half-zip-sweaters"
+    },
+    {
+        "numId": 210,
+        "id": "mens-casual-pants",
+        "name": "Casual Pants",
+        "shortName": "Casual",
+        "fullName": "Men's Casual Pants",
+        "localizedId": "mens-casual-pants"
+    },
+    {
+        "numId": 2123,
+        "id": "mens-puffer-coats",
+        "name": "Down & Puffer Coats",
+        "shortName": "Down & Puffers",
+        "fullName": "Men's Down & Puffer Coats",
+        "localizedId": "mens-puffer-coats"
+    },
+    {
+        "numId": 215,
+        "id": "mens-longsleeve-shirts",
+        "name": "Long Sleeve Shirts",
+        "shortName": "Longsleeve",
+        "fullName": "Men's Long Sleeve Shirts",
+        "localizedId": "mens-longsleeve-shirts"
+    },
+    {
+        "numId": 198,
+        "id": "mens-overcoats-and-trenchcoats",
+        "name": "Raincoats & Trench Coats",
+        "shortName": "Overcoats & Trenchcoats",
+        "fullName": "Men's Raincoats & Trench Coats",
+        "localizedId": "mens-overcoats-and-trenchcoats"
+    },
+    {
+        "numId": 179,
+        "id": "mens-athletic-pants",
+        "name": "Activewear Pants",
+        "shortName": "Pants",
+        "fullName": "Men's Activewear Pants",
+        "localizedId": "mens-athletic-pants"
+    },
+    {
+        "numId": 174,
+        "id": "mens-sunglasses",
+        "name": "Sunglasses",
+        "shortName": "Sunglasses",
+        "fullName": "Men's Sunglasses",
+        "localizedId": "mens-sunglasses"
+    },
+    {
+        "numId": 1202,
+        "id": "mens-tote-bags",
+        "name": "Tote Bags",
+        "shortName": "Totes",
+        "fullName": "Men's Tote Bags",
+        "localizedId": "mens-tote-bags"
+    },
+    {
+        "numId": 1438,
+        "id": "mens-crewneck-sweaters",
+        "name": "Crewneck Sweaters",
+        "shortName": "Crewnecks",
+        "fullName": "Men's Crewneck Sweaters",
+        "localizedId": "mens-crewneck-sweaters"
+    },
+    {
+        "numId": 233,
+        "id": "mens-cashmere-sweaters",
+        "name": "Cashmere Sweaters",
+        "shortName": "Cashmere",
+        "fullName": "Men's Cashmere Sweaters",
+        "localizedId": "mens-cashmere-sweaters"
+    },
+    {
+        "numId": 1201,
+        "id": "mens-messenger-bags",
+        "name": "Messenger Bags",
+        "shortName": "Messenger",
+        "fullName": "Men's Messenger Bags",
+        "localizedId": "mens-messenger-bags"
+    },
+    {
+        "numId": 2131,
+        "id": "mens-bomber-jackets",
+        "name": "Bomber Jackets",
+        "shortName": "Bomber",
+        "fullName": "Men's Bomber Jackets",
+        "localizedId": "mens-bomber-jackets"
+    },
+    {
+        "numId": 2050,
+        "id": "mens-wingtip-shoes",
+        "name": "Lace-up Wingtip Shoes",
+        "shortName": "Wingtip",
+        "fullName": "Men's Lace-up Wingtip Shoes",
+        "localizedId": "mens-wingtip-shoes"
+    },
+    {
+        "numId": 2142,
+        "id": "mens-sleepwear-bottoms",
+        "name": "Bottoms",
+        "shortName": "Bottoms",
+        "fullName": "Men's Bottoms",
+        "localizedId": "mens-sleepwear-bottoms"
+    },
+    {
+        "numId": 194,
+        "id": "mens-outerwear",
+        "name": "Outerwear",
+        "shortName": "Coats",
+        "fullName": "Men's Outerwear",
+        "localizedId": "mens-outerwear"
+    },
+    {
+        "numId": 2047,
+        "id": "mens-lace-up-and-chukka-boots",
+        "name": "Lace-up & Chukka",
+        "shortName": "Lace up & Chukka",
+        "fullName": "Men's Lace-up & Chukka Boots",
+        "localizedId": "mens-lace-up-and-chukka-boots"
+    },
+    {
+        "numId": 2052,
+        "id": "mens-lace-up-boots",
+        "name": "Lace-up Boots",
+        "shortName": "Boots",
+        "fullName": "Men's Lace-up Boots",
+        "localizedId": "mens-lace-up-boots"
+    },
+    {
+        "numId": 2327,
+        "id": "shirts",
+        "name": "Shirts",
+        "shortName": "Shirts",
+        "fullName": "Women's Shirts",
+        "localizedId": "shirts"
+    },
+    {
+        "numId": 148,
+        "id": "tees-and-tshirts",
+        "name": "T-shirts",
+        "shortName": "T-shirts",
+        "fullName": "Women's T-shirts",
+        "localizedId": "tees-and-tshirts"
+    },
+    {
+        "numId": 1694,
+        "id": "mens-slim-jeans",
+        "name": "Slim Jeans",
+        "shortName": "Slim",
+        "fullName": "Men's Slim Jeans",
+        "localizedId": "mens-slim-jeans"
+    },
+    {
+        "numId": 2264,
+        "id": "mens-wide-pants",
+        "name": "Wide-Leg Pants",
+        "shortName": "Wide Leg",
+        "fullName": "Men's Wide-Leg Pants",
+        "localizedId": "mens-wide-pants"
+    },
+    {
+        "numId": 2129,
+        "id": "mens-leather-jackets",
+        "name": "Leather & Faux Leather Jackets",
+        "shortName": "Leather",
+        "fullName": "Men's Leather & Faux Leather Jackets",
+        "localizedId": "mens-leather-jackets"
+    },
+    {
+        "numId": 2128,
+        "id": "mens-jackets-vests",
+        "name": "Vests",
+        "shortName": "Vests",
+        "fullName": "Men's Vests",
+        "localizedId": "mens-jackets-vests"
+    },
+    {
+        "numId": 238,
+        "id": "mens-swimsuits",
+        "name": "Swimwear",
+        "shortName": "Swimwear",
+        "fullName": "Men's Swimwear",
+        "localizedId": "mens-swimsuits"
+    },
+    {
+        "numId": 213,
+        "id": "mens-shirts",
+        "name": "Shirts",
+        "shortName": "Shirts",
+        "fullName": "Men's Shirts",
+        "localizedId": "mens-shirts"
+    },
+    {
+        "numId": 206,
+        "id": "mens-relaxed-jeans",
+        "name": "Relaxed Jeans",
+        "shortName": "Relaxed",
+        "fullName": "Men's Relaxed Jeans",
+        "localizedId": "mens-relaxed-jeans"
+    },
+    {
+        "numId": 214,
+        "id": "mens-dress-shirts",
+        "name": "Dress Shirts",
+        "shortName": "Dress",
+        "fullName": "Men's Dress Shirts",
+        "localizedId": "mens-dress-shirts"
+    },
+    {
+        "numId": 2262,
+        "id": "mens-skinny-slim-pants",
+        "name": "Skinny & Slim Pants",
+        "shortName": "Skinny & Slim",
+        "fullName": "Men's Skinny & Slim Pants",
+        "localizedId": "mens-skinny-slim-pants"
+    },
+    {
+        "numId": 2233,
+        "id": "mens-skinny-jeans",
+        "name": "Skinny Jeans",
+        "shortName": "Skinny",
+        "fullName": "Men's Skinny Jeans",
+        "localizedId": "mens-skinny-jeans"
+    },
+    {
+        "numId": 207,
+        "id": "mens-straight-leg-jeans",
+        "name": "Straight-Leg Jeans",
+        "shortName": "Straight Leg",
+        "fullName": "Men's Straight-Leg Jeans",
+        "localizedId": "mens-straight-leg-jeans"
+    },
+    {
+        "numId": 2048,
+        "id": "mens-chelsea-boots",
+        "name": "Chelsea Boots",
+        "shortName": "Chelsea",
+        "fullName": "Men's Chelsea Boots",
+        "localizedId": "mens-chelsea-boots"
+    },
+    {
+        "numId": 2030,
+        "id": "womens-flip-flops",
+        "name": "Flip Flop Sandals",
+        "shortName": "Flip Flops",
+        "fullName": "Women's Flip Flop Sandals",
+        "localizedId": "womens-flip-flops"
+    },
+    {
+        "numId": 2031,
+        "id": "womens-slides",
+        "name": "Slide Sandals",
+        "shortName": "Slides",
+        "fullName": "Women's Slide Sandals",
+        "localizedId": "womens-slides"
+    },
+    {
+        "numId": 2234,
+        "id": "mens-tapered-jeans",
+        "name": "Tapered Jeans",
+        "shortName": "Tapered",
+        "fullName": "Men's Tapered Jeans",
+        "localizedId": "mens-tapered-jeans"
+    },
+    {
+        "numId": 228,
+        "id": "mens-pajamas",
+        "name": "Pajamas",
+        "shortName": "Pajamas",
+        "fullName": "Men's Pajamas",
+        "localizedId": "mens-pajamas"
+    },
+    {
+        "numId": 199,
+        "id": "mens-wool-coats",
+        "name": "Wool Coats",
+        "shortName": "Wool",
+        "fullName": "Men's Wool Coats",
+        "localizedId": "mens-wool-coats"
+    },
+    {
+        "numId": 1627,
+        "id": "boys-pajamas",
+        "name": "Boys' Pajamas",
+        "shortName": "Pajamas",
+        "fullName": "Boys' Pajamas",
+        "localizedId": "boys-pajamas"
+    },
+    {
+        "numId": 1625,
+        "id": "boys-matching-sets",
+        "name": "Boys' Matching Sets",
+        "shortName": "Matching Sets",
+        "fullName": "Boys' Matching Sets",
+        "localizedId": "boys-matching-sets"
+    },
+    {
+        "numId": 236,
+        "id": "mens-turtleneck-sweaters",
+        "name": "Turtleneck Sweaters",
+        "shortName": "Turtlenecks",
+        "fullName": "Men's Turtleneck Sweaters",
+        "localizedId": "mens-turtleneck-sweaters"
+    },
+    {
+        "numId": 1440,
+        "id": "mens-v-neck-sweaters",
+        "name": "V-Neck Sweaters",
+        "shortName": "V-necks",
+        "fullName": "Men's V-Neck Sweaters",
+        "localizedId": "mens-v-neck-sweaters"
+    },
+    {
+        "numId": 2078,
+        "id": "mens-bag-accessories",
+        "name": "Bag Accessories",
+        "shortName": "Accessories",
+        "fullName": "Men's Bag Accessories",
+        "localizedId": "mens-bag-accessories"
+    },
+    {
+        "numId": 1204,
+        "id": "mens-travel-bags",
+        "name": "Travel Bags",
+        "shortName": "Travel",
+        "fullName": "Men's Travel Bags",
+        "localizedId": "mens-travel-bags"
+    },
+    {
+        "numId": 167,
+        "id": "mens-accessories",
+        "name": "Accessories",
+        "shortName": "Accessories",
+        "fullName": "Men's Accessories",
+        "localizedId": "mens-accessories"
+    },
+    {
+        "numId": 232,
+        "id": "mens-cardigan-sweaters",
+        "name": "Cardigans & Zip Up Sweaters",
+        "shortName": "Cardigans & Zip Ups",
+        "fullName": "Men's Cardigans & Zip Up Sweaters",
+        "localizedId": "mens-cardigan-sweaters"
+    },
+    {
+        "numId": 2261,
+        "id": "mens-straight-pants",
+        "name": "Straight Leg Pants",
+        "shortName": "Straight",
+        "fullName": "Men's Straight Leg Pants",
+        "localizedId": "mens-straight-pants"
+    },
+    {
+        "numId": 182,
+        "id": "mens-athletic-shorts",
+        "name": "Activewear Shorts",
+        "shortName": "Shorts",
+        "fullName": "Men's Activewear Shorts",
+        "localizedId": "mens-athletic-shorts"
+    },
+    {
+        "numId": 211,
+        "id": "mens-chinos-and-khakis",
+        "name": "Chinos & Khakis",
+        "shortName": "Chinos & Khakis",
+        "fullName": "Men's Chinos & Khakis",
+        "localizedId": "mens-chinos-and-khakis"
+    },
+    {
+        "numId": 1713,
+        "id": "mens-tech-accessories",
+        "name": "Tech Accessories",
+        "shortName": "Tech",
+        "fullName": "Tech accessories for men",
+        "localizedId": "mens-tech-accessories"
+    },
+    {
+        "numId": 175,
+        "id": "mens-ties",
+        "name": "Ties",
+        "shortName": "Ties",
+        "fullName": "Men's Ties",
+        "localizedId": "mens-ties"
+    },
+    {
+        "numId": 176,
+        "id": "mens-wallets",
+        "name": "Wallets",
+        "shortName": "Wallets",
+        "fullName": "Men's Wallets",
+        "localizedId": "mens-wallets"
+    },
+    {
+        "numId": 204,
+        "id": "mens-loose-jeans",
+        "name": "Loose Jeans",
+        "shortName": "Loose",
+        "fullName": "Men's Loose Jeans",
+        "localizedId": "mens-loose-jeans"
+    },
+    {
+        "numId": 201,
+        "id": "mens-bootcut-jeans",
+        "name": "Bootcut Jeans",
+        "shortName": "Bootcut",
+        "fullName": "Men's Bootcut Jeans",
+        "localizedId": "mens-bootcut-jeans"
+    },
+    {
+        "numId": 1203,
+        "id": "mens-business-bags",
+        "name": "Briefcases",
+        "shortName": "Briefcases",
+        "fullName": "Men's Briefcases",
+        "localizedId": "mens-business-bags"
+    },
+    {
+        "numId": 242,
+        "id": "mens-socks",
+        "name": "Socks",
+        "shortName": "Socks",
+        "fullName": "Men's Socks",
+        "localizedId": "mens-socks"
+    },
+    {
+        "numId": 1974,
+        "id": "womens-flats-loafers",
+        "name": "Loafers",
+        "shortName": "Loafers",
+        "fullName": "Women's Loafer Flats",
+        "localizedId": "womens-flats-loafers"
+    },
+    {
+        "numId": 2049,
+        "id": "mens-hiking-boots",
+        "name": "Hiking Boots",
+        "shortName": "Hiking",
+        "fullName": "Men's Hiking Boots",
+        "localizedId": "mens-hiking-boots"
+    },
+    {
+        "numId": 1743,
+        "id": "mens-scarves",
+        "name": "Scarves",
+        "shortName": "Scarves",
+        "fullName": "Men's Scarves",
+        "localizedId": "mens-scarves"
+    },
+    {
+        "numId": 219,
+        "id": "mens-shoes",
+        "name": "Shoes",
+        "shortName": "Shoes",
+        "fullName": "Men's Shoes",
+        "localizedId": "mens-shoes"
+    },
+    {
+        "numId": 33,
+        "id": "backpacks",
+        "name": "Backpacks",
+        "shortName": "Backpacks",
+        "fullName": "Women's Backpacks",
+        "localizedId": "backpacks"
+    },
+    {
+        "numId": 2235,
+        "id": "mens-ankle-jeans",
+        "name": "Ankle Jeans",
+        "shortName": "Ankle",
+        "fullName": "Men's Ankle Jeans",
+        "localizedId": "mens-ankle-jeans"
+    },
+    {
+        "numId": 1662,
+        "id": "boys-watches",
+        "name": "Boys' Watches",
+        "shortName": "Watches",
+        "fullName": "Boys' Watches",
+        "localizedId": "boys-watches"
+    },
+    {
+        "numId": 2263,
+        "id": "mens-tapered-pants",
+        "name": "Tapered Pants",
+        "shortName": "Tapered",
+        "fullName": "Men's Tapered Pants",
+        "localizedId": "mens-tapered-pants"
+    },
+    {
+        "numId": 11,
+        "id": "sunglasses",
+        "name": "Sunglasses",
+        "shortName": "Sunglasses",
+        "fullName": "Women's Sunglasses",
+        "localizedId": "sunglasses"
+    },
+    {
+        "numId": 243,
+        "id": "mens-tee-shirts",
+        "name": "Undershirts",
+        "shortName": "Undershirts",
+        "fullName": "Men's Undershirts",
+        "localizedId": "mens-tee-shirts"
+    },
+    {
+        "numId": 230,
+        "id": "mens-slippers",
+        "name": "Slippers",
+        "shortName": "Slippers",
+        "fullName": "Men's Slippers",
+        "localizedId": "mens-slippers"
+    },
+    {
+        "numId": 178,
+        "id": "mens-athletic-jackets",
+        "name": "Activewear Jackets",
+        "shortName": "Jackets",
+        "fullName": "Men's Activewear Jackets",
+        "localizedId": "mens-athletic-jackets"
+    },
+    {
+        "numId": 231,
+        "id": "mens-sweaters",
+        "name": "Sweaters",
+        "shortName": "Sweaters",
+        "fullName": "Men's Sweaters",
+        "localizedId": "mens-sweaters"
+    },
+    {
+        "numId": 170,
+        "id": "mens-fragrances",
+        "name": "Fragrances",
+        "shortName": "Fragrances",
+        "fullName": "Men's Fragrances",
+        "localizedId": "mens-fragrances"
+    },
+    {
+        "numId": 1441,
+        "id": "mens-vests",
+        "name": "Knit Vests",
+        "shortName": "Vests",
+        "fullName": "Knit Vests",
+        "localizedId": "mens-vests"
+    },
+    {
+        "numId": 1210,
+        "id": "leather-jackets",
+        "name": "Leather & Faux Leather Jackets",
+        "shortName": "Leather",
+        "fullName": "Women's Leather & Faux Leather Jackets",
+        "localizedId": "leather-jackets"
+    },
+    {
+        "numId": 1744,
+        "id": "denim-jackets",
+        "name": "Denim Jackets",
+        "shortName": "Denim",
+        "fullName": "Women's Denim Jackets",
+        "localizedId": "denim-jackets"
+    },
+    {
+        "numId": 455,
+        "id": "boys-shoes",
+        "name": "Boys' Shoes",
+        "shortName": "Shoes",
+        "fullName": "Boys' Shoes",
+        "localizedId": "boys-shoes"
+    },
+    {
+        "numId": 78,
+        "id": "womens-outerwear",
+        "name": "Outerwear",
+        "shortName": "Coats",
+        "fullName": "Women's Outerwear",
+        "localizedId": "womens-outerwear"
+    },
+    {
+        "numId": 52,
+        "id": "jackets",
+        "name": "Jackets",
+        "shortName": "Jackets",
+        "fullName": "Women's Jackets",
+        "localizedId": "jackets"
+    },
+    {
+        "numId": 2265,
+        "id": "mens-joggers-sweatpants",
+        "name": "Joggers & Sweatpants",
+        "shortName": "Joggers & Sweatpants",
+        "fullName": "Men's Joggers & Sweatpants",
+        "localizedId": "mens-joggers-sweatpants"
+    },
+    {
+        "numId": 82,
+        "id": "puffer-coats",
+        "name": "Down & Puffer Coats",
+        "shortName": "Down & Puffers",
+        "fullName": "Women's Down & Puffer Coats",
+        "localizedId": "puffer-coats"
+    },
+    {
+        "numId": 2124,
+        "id": "mens-long-coats",
+        "name": "Long Coats",
+        "shortName": "Long",
+        "fullName": "Men's Long Coats",
+        "localizedId": "mens-long-coats"
+    },
+    {
+        "numId": 2121,
+        "id": "mens-parka-coats",
+        "name": "Parkas",
+        "shortName": "Parka",
+        "fullName": "Men's Parkas",
+        "localizedId": "mens-parka-coats"
+    },
+    {
+        "numId": 229,
+        "id": "mens-robes",
+        "name": "Robes",
+        "shortName": "Robes",
+        "fullName": "Men's Robes",
+        "localizedId": "mens-robes"
+    },
+    {
+        "numId": 1742,
+        "id": "mens-gloves",
+        "name": "Gloves",
+        "shortName": "Gloves",
+        "fullName": "Men's Gloves",
+        "localizedId": "mens-gloves"
+    },
+    {
+        "numId": 76,
+        "id": "watches",
+        "name": "Watches",
+        "shortName": "Watches",
+        "fullName": "Women's Watches",
+        "localizedId": "watches"
+    },
+    {
+        "numId": 1230,
+        "id": "mens-sports-bags",
+        "name": "Gym & Sports Bags",
+        "shortName": "Gym & Sports",
+        "fullName": "Men's Gym & Sports Bags",
+        "localizedId": "mens-sports-bags"
+    },
+    {
+        "numId": 2079,
+        "id": "mens-belt-bags",
+        "name": "Belt Bags",
+        "shortName": "Belt",
+        "fullName": "Men's Belt Bags",
+        "localizedId": "mens-belt-bags"
+    },
+    {
+        "numId": 2266,
+        "id": "mens-cropped-pants",
+        "name": "Cropped Pants",
+        "shortName": "Cropped",
+        "fullName": "Men's Cropped Pants",
+        "localizedId": "mens-cropped-pants"
+    },
+    {
+        "numId": 40,
+        "id": "tote-bags",
+        "name": "Tote Bags",
+        "shortName": "Totes",
+        "fullName": "Women's Tote Bags",
+        "localizedId": "tote-bags"
+    },
+    {
+        "numId": 69,
+        "id": "fine-necklaces",
+        "name": "Fine Necklaces",
+        "shortName": "Necklaces",
+        "fullName": "Fine Necklaces",
+        "localizedId": "fine-necklaces"
+    },
+    {
+        "numId": 73,
+        "id": "necklaces",
+        "name": "Necklaces",
+        "shortName": "Necklaces",
+        "fullName": "Necklaces",
+        "localizedId": "necklaces"
+    },
+    {
+        "numId": 12,
+        "id": "wallets",
+        "name": "Wallets & Card Holders",
+        "shortName": "Wallets & Card Holders",
+        "fullName": "Women's Wallets & Card Holders",
+        "localizedId": "wallets"
+    },
+    {
+        "numId": 2069,
+        "id": "womens-bag-accessories",
+        "name": "Bag Straps",
+        "shortName": "Bag Straps",
+        "fullName": "Women's Bag Straps",
+        "localizedId": "womens-bag-accessories"
+    },
+    {
+        "numId": 3,
+        "id": "womens-accessories",
+        "name": "Accessories",
+        "shortName": "Accessories",
+        "fullName": "Women's Accessories",
+        "localizedId": "womens-accessories"
+    },
+    {
+        "numId": 450,
+        "id": "boys-accessories",
+        "name": "Boys' Accessories",
+        "shortName": "Accessories",
+        "fullName": "Boys' Accessories",
+        "localizedId": "boys-accessories"
+    },
+    {
+        "numId": 1704,
+        "id": "womens-eyeglasses",
+        "name": "Eyeglasses",
+        "shortName": "Eyeglasses",
+        "fullName": "Women's Eyeglasses",
+        "localizedId": "womens-eyeglasses"
+    },
+    {
+        "numId": 1190,
+        "id": "sweatshirts",
+        "name": "Sweatshirts & Hoodies",
+        "shortName": "Sweatshirts & Hoodies",
+        "fullName": "Women's Sweatshirts & Hoodies",
+        "localizedId": "sweatshirts"
+    },
+    {
+        "numId": 48,
+        "id": "panties",
+        "name": "Panties",
+        "shortName": "Panties",
+        "fullName": "Women's Panties",
+        "localizedId": "panties"
+    }
+]

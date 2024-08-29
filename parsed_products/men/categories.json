@@ -1,0 +1,16 @@
+[
+    {
+        "numId": 166,
+        "id": "men",
+        "name": "Men's Fashion",
+        "shortName": "Men",
+        "fullName": "Men's Fashion",
+        "localizedIds": {
+            "en-US": "men",
+            "en-CA": "men",
+            "en-AU": "men",
+            "en-GB": "men"
+        },
+        "localizedId": "men"
+    }
+]

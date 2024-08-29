@@ -1,0 +1,1722 @@
+[
+    {
+        "numId": 1814,
+        "id": "sofas-loveseats",
+        "name": "Sofas & Loveseats",
+        "shortName": "Sofas & Loveseats",
+        "fullName": "Sofas & Loveseats",
+        "localizedId": "sofas-loveseats"
+    },
+    {
+        "numId": 1766,
+        "id": "bar-counter-stools",
+        "name": "Bar & Counter Stools",
+        "shortName": "Bar & Counter Stools",
+        "fullName": "Bar & Counter Stools",
+        "localizedId": "bar-counter-stools"
+    },
+    {
+        "numId": 1843,
+        "id": "comforters",
+        "name": "Comforters",
+        "shortName": "Comforters",
+        "fullName": "Comforters",
+        "localizedId": "comforters"
+    },
+    {
+        "numId": 1770,
+        "id": "buffets-sideboards",
+        "name": "Buffets & Sideboards",
+        "shortName": "Buffets & Sideboards",
+        "fullName": "Buffets & Sideboards",
+        "localizedId": "buffets-sideboards"
+    },
+    {
+        "numId": 1232,
+        "id": "travel-duffels-and-totes",
+        "name": "Travel Duffels & Totes",
+        "shortName": "Duffels & Totes",
+        "fullName": "Travel Duffels & Totes",
+        "localizedId": "travel-duffels-and-totes"
+    },
+    {
+        "numId": 1231,
+        "id": "carry-on-luggage",
+        "name": "Carry-on Luggage",
+        "shortName": "Carry-ons",
+        "fullName": "Carry-on Luggage",
+        "localizedId": "carry-on-luggage"
+    },
+    {
+        "numId": 1236,
+        "id": "rolling-luggage",
+        "name": "Rolling Luggage",
+        "shortName": "Rolling Luggage",
+        "fullName": "Rolling Luggage",
+        "localizedId": "rolling-luggage"
+    },
+    {
+        "numId": 806,
+        "id": "living",
+        "name": "Home & Living",
+        "shortName": "Home",
+        "fullName": "Home & Living",
+        "localizedId": "living"
+    },
+    {
+        "numId": 2208,
+        "id": "home-office-laptop-carts-and-stands",
+        "name": "Laptop Carts & Stands",
+        "shortName": "Laptop Carts & Stands",
+        "fullName": "Laptop Carts & Stands",
+        "localizedId": "home-office-laptop-carts-and-stands"
+    },
+    {
+        "numId": 584,
+        "id": "dining-chairs",
+        "name": "Dining Chairs",
+        "shortName": "Dining Chairs",
+        "fullName": "Dining Chairs",
+        "localizedId": "dining-chairs"
+    },
+    {
+        "numId": 576,
+        "id": "livingroom-chairs",
+        "name": "Armchairs & Recliners",
+        "shortName": "Armchairs & Recliners",
+        "fullName": "Armchairs & Recliners",
+        "localizedId": "livingroom-chairs"
+    },
+    {
+        "numId": 2283,
+        "id": "rugs-area",
+        "name": "Area Rugs",
+        "shortName": "Area Rugs",
+        "fullName": "Area Rugs",
+        "localizedId": "rugs-area"
+    },
+    {
+        "numId": 814,
+        "id": "fry-saute-pans",
+        "name": "Fry Pans & Skillets",
+        "shortName": "Fry Pans & Skillets",
+        "fullName": "Fry & Saute Pans",
+        "localizedId": "fry-saute-pans"
+    },
+    {
+        "numId": 617,
+        "id": "outdoor-furniture",
+        "name": "Outdoor Furniture",
+        "shortName": "Furniture",
+        "fullName": "Outdoor Furniture",
+        "localizedId": "outdoor-furniture"
+    },
+    {
+        "numId": 621,
+        "id": "furniture",
+        "name": "Furniture",
+        "shortName": "Furniture",
+        "fullName": "Furniture",
+        "localizedId": "furniture"
+    },
+    {
+        "numId": 1817,
+        "id": "livingroom-ottomans-benches",
+        "name": "Living Room Ottomans",
+        "shortName": "Ottomans",
+        "fullName": "Ottomans",
+        "localizedId": "livingroom-ottomans-benches"
+    },
+    {
+        "numId": 2322,
+        "id": "fall-outdoor-decorations",
+        "name": "Fall Outdoor Decorations",
+        "shortName": "Fall Outdoor Decorations",
+        "fullName": "Halloween Outdoor",
+        "localizedId": "fall-outdoor-decorations"
+    },
+    {
+        "numId": 1939,
+        "id": "winter-decor",
+        "name": "Winter Decor",
+        "shortName": "Winter Decor",
+        "fullName": "Winter Decor",
+        "localizedId": "winter-decor"
+    },
+    {
+        "numId": 583,
+        "id": "dining-tables",
+        "name": "Dining Tables",
+        "shortName": "Dining Tables",
+        "fullName": "Dining Tables",
+        "localizedId": "dining-tables"
+    },
+    {
+        "numId": 2174,
+        "id": "kids-and-baby-furniture-beds",
+        "name": "Kids Beds",
+        "shortName": "Kids Beds",
+        "fullName": "Kids Beds",
+        "localizedId": "kids-and-baby-furniture-beds"
+    },
+    {
+        "numId": 323,
+        "id": "kids-and-baby",
+        "name": "Kids' Nursery, Clothes and Toys",
+        "shortName": "Kids",
+        "fullName": "Kids' Nursery, Clothes and Toys",
+        "localizedId": "kids-and-baby"
+    },
+    {
+        "numId": 2175,
+        "id": "kids-and-baby-furniture-bunk-beds-and-lofts",
+        "name": "Bunk Beds & Lofts",
+        "shortName": "Bunk Beds & Lofts",
+        "fullName": "Bunk Beds & Lofts",
+        "localizedId": "kids-and-baby-furniture-bunk-beds-and-lofts"
+    },
+    {
+        "numId": 1893,
+        "id": "chandeliers",
+        "name": "Chandeliers",
+        "shortName": "Chandeliers",
+        "fullName": "Chandeliers",
+        "localizedId": "chandeliers"
+    },
+    {
+        "numId": 2200,
+        "id": "bedroom-chests",
+        "name": "Chests",
+        "shortName": "Chests",
+        "fullName": "Chests",
+        "localizedId": "bedroom-chests"
+    },
+    {
+        "numId": 603,
+        "id": "home-office-furniture",
+        "name": "Home Office",
+        "shortName": "Home Office Furniture",
+        "fullName": "Home Office",
+        "localizedId": "home-office-furniture"
+    },
+    {
+        "numId": 580,
+        "id": "side-end-tables",
+        "name": "Side & End Tables",
+        "shortName": "Side & End Tables",
+        "fullName": "Side & End Tables",
+        "localizedId": "side-end-tables"
+    },
+    {
+        "numId": 1815,
+        "id": "livingroom-sleeper-sofas",
+        "name": "Sleeper Sofas",
+        "shortName": "Sleeper Sofas",
+        "fullName": "Sleeper Sofas",
+        "localizedId": "livingroom-sleeper-sofas"
+    },
+    {
+        "numId": 2222,
+        "id": "adjustable-bed",
+        "name": "Adjustable Bed",
+        "shortName": "Adjustable Bed",
+        "fullName": "Adjustable Bed",
+        "localizedId": "adjustable-bed"
+    },
+    {
+        "numId": 1864,
+        "id": "indoor-pillows",
+        "name": "Indoor Pillows",
+        "shortName": "Indoor Pillows",
+        "fullName": "Indoor Pillows",
+        "localizedId": "indoor-pillows"
+    },
+    {
+        "numId": 1792,
+        "id": "outdoor-pillows-cushions",
+        "name": "Pillows & Cushions",
+        "shortName": "Pillows & Cushions",
+        "fullName": "Outdoor Pillows & Cushions",
+        "localizedId": "outdoor-pillows-cushions"
+    },
+    {
+        "numId": 2195,
+        "id": "livingroom-chaise-and-lounges",
+        "name": "Chaise & Lounges",
+        "shortName": "Chaise & Lounges",
+        "fullName": "Chaise & Lounges",
+        "localizedId": "livingroom-chaise-and-lounges"
+    },
+    {
+        "numId": 890,
+        "id": "table-lamps",
+        "name": "Table Lamps",
+        "shortName": "Table Lamps",
+        "fullName": "Table Lamps",
+        "localizedId": "table-lamps"
+    },
+    {
+        "numId": 1759,
+        "id": "console-tables",
+        "name": "Entryway Tables",
+        "shortName": "Entryway Tables",
+        "fullName": "Entryway Tables",
+        "localizedId": "console-tables"
+    },
+    {
+        "numId": 1816,
+        "id": "livingroom-console-tables",
+        "name": "Console Tables",
+        "shortName": "Console Tables",
+        "fullName": "Console Tables",
+        "localizedId": "livingroom-console-tables"
+    },
+    {
+        "numId": 1962,
+        "id": "quilts-coverlets",
+        "name": "Quilts & Coverlets",
+        "shortName": "Quilts & Coverlets",
+        "fullName": "Quilts & Coverlets",
+        "localizedId": "quilts-coverlets"
+    },
+    {
+        "numId": 1822,
+        "id": "beds-headboards",
+        "name": "Beds & Headboards",
+        "shortName": "Beds & Headboards",
+        "fullName": "Beds & Headboards",
+        "localizedId": "beds-headboards"
+    },
+    {
+        "numId": 749,
+        "id": "mirrors",
+        "name": "Mirrors",
+        "shortName": "Mirrors",
+        "fullName": "Mirrors",
+        "localizedId": "mirrors"
+    },
+    {
+        "numId": 820,
+        "id": "decorative-pillows",
+        "name": "Decorative Pillows",
+        "shortName": "Decorative Pillows",
+        "fullName": "Decorative Pillows",
+        "localizedId": "decorative-pillows"
+    },
+    {
+        "numId": 622,
+        "id": "sheets",
+        "name": "Sheets",
+        "shortName": "Sheets",
+        "fullName": "Sheets",
+        "localizedId": "sheets"
+    },
+    {
+        "numId": 575,
+        "id": "sectionals",
+        "name": "Sectionals",
+        "shortName": "Sectionals",
+        "fullName": "Sectionals",
+        "localizedId": "sectionals"
+    },
+    {
+        "numId": 1910,
+        "id": "rugs-outdoor",
+        "name": "Outdoor Rugs",
+        "shortName": "Outdoor Rugs",
+        "fullName": "Outdoor Rugs",
+        "localizedId": "rugs-outdoor"
+    },
+    {
+        "numId": 859,
+        "id": "flatware-sets",
+        "name": "Flatware Sets",
+        "shortName": "Flatware Sets",
+        "fullName": "Flatware Sets",
+        "localizedId": "flatware-sets"
+    },
+    {
+        "numId": 597,
+        "id": "desks",
+        "name": "Desks",
+        "shortName": "Desks",
+        "fullName": "Desks",
+        "localizedId": "desks"
+    },
+    {
+        "numId": 2204,
+        "id": "home-office-guest-chairs",
+        "name": "Guest Chairs",
+        "shortName": "Guest Chairs",
+        "fullName": "Guest Chairs",
+        "localizedId": "home-office-guest-chairs"
+    },
+    {
+        "numId": 1927,
+        "id": "bedding-pillows",
+        "name": "Pillows",
+        "shortName": "Pillows",
+        "fullName": "Pillows",
+        "localizedId": "bedding-pillows"
+    },
+    {
+        "numId": 1101,
+        "id": "kids-beds-and-mattresses",
+        "name": "Kids Beds & Mattresses",
+        "shortName": "Beds & Mattresses",
+        "fullName": "Kids Beds & Mattresses",
+        "localizedId": "kids-beds-and-mattresses"
+    },
+    {
+        "numId": 2198,
+        "id": "bedroom-bed-frames",
+        "name": "Bed Frames",
+        "shortName": "Bed Frames",
+        "fullName": "Bed Frames",
+        "localizedId": "bedroom-bed-frames"
+    },
+    {
+        "numId": 579,
+        "id": "coffee-tables",
+        "name": "Coffee Tables",
+        "shortName": "Coffee Tables",
+        "fullName": "Coffee Tables",
+        "localizedId": "coffee-tables"
+    },
+    {
+        "numId": 1774,
+        "id": "outdoor-sofas-sectionals",
+        "name": "Sofas & Sectionals",
+        "shortName": "Sofas & Sectionals",
+        "fullName": "Outdoor Sofas & Sectionals",
+        "localizedId": "outdoor-sofas-sectionals"
+    },
+    {
+        "numId": 805,
+        "id": "accents",
+        "name": "Decor",
+        "shortName": "Decor",
+        "fullName": "Accents",
+        "localizedId": "accents"
+    },
+    {
+        "numId": 751,
+        "id": "panels",
+        "name": "Panels",
+        "shortName": "Panels",
+        "fullName": "Panels",
+        "localizedId": "panels"
+    },
+    {
+        "numId": 2202,
+        "id": "dining-display-cabinets",
+        "name": "Display Cabinets",
+        "shortName": "Display Cabinets",
+        "fullName": "Display Cabinets",
+        "localizedId": "dining-display-cabinets"
+    },
+    {
+        "numId": 2152,
+        "id": "entryway-furniture",
+        "name": "Entryway",
+        "shortName": "Entryway Furniture",
+        "fullName": "Entryway",
+        "localizedId": "entryway-furniture"
+    },
+    {
+        "numId": 1755,
+        "id": "storage-entryway",
+        "name": "Entryway",
+        "shortName": "Entryway",
+        "fullName": "Entryway",
+        "localizedId": "storage-entryway"
+    },
+    {
+        "numId": 1235,
+        "id": "luggage-sets",
+        "name": "Luggage Sets",
+        "shortName": "Luggage Sets",
+        "fullName": "Luggage Sets",
+        "localizedId": "luggage-sets"
+    },
+    {
+        "numId": 1760,
+        "id": "livingroom-tv-stands-media",
+        "name": "TV Stands & Media",
+        "shortName": "TV Stands & Media",
+        "fullName": "TV Stands & Media",
+        "localizedId": "livingroom-tv-stands-media"
+    },
+    {
+        "numId": 1820,
+        "id": "bedroom-dressers-armoires",
+        "name": "Dressers & Armoires",
+        "shortName": "Dressers & Armoires",
+        "fullName": "Dressers & Armoires",
+        "localizedId": "bedroom-dressers-armoires"
+    },
+    {
+        "numId": 2227,
+        "id": "foundations",
+        "name": "Foundations",
+        "shortName": "Foundations",
+        "fullName": "Foundations",
+        "localizedId": "foundations"
+    },
+    {
+        "numId": 1754,
+        "id": "storage-bookcases-shelves",
+        "name": "Bookcases & Shelves",
+        "shortName": "Bookcases & Shelves",
+        "fullName": "Bookcases & Shelves",
+        "localizedId": "storage-bookcases-shelves"
+    },
+    {
+        "numId": 1894,
+        "id": "flush-mount-lighting",
+        "name": "Flush Mount Lighting",
+        "shortName": "Flush Mount Lighting",
+        "fullName": "Flush Mount Lighting",
+        "localizedId": "flush-mount-lighting"
+    },
+    {
+        "numId": 872,
+        "id": "bakeware-sets",
+        "name": "Bakeware Sets",
+        "shortName": "Bakeware Sets",
+        "fullName": "Bakeware Sets",
+        "localizedId": "bakeware-sets"
+    },
+    {
+        "numId": 2308,
+        "id": "countertop-storage",
+        "name": "Countertop Storage",
+        "shortName": "Countertop Storage",
+        "fullName": "Countertop Storage",
+        "localizedId": "countertop-storage"
+    },
+    {
+        "numId": 855,
+        "id": "tumblers-water-glasses",
+        "name": "Tumblers",
+        "shortName": "Tumblers",
+        "fullName": "Tumblers",
+        "localizedId": "tumblers-water-glasses"
+    },
+    {
+        "numId": 759,
+        "id": "rug-pads",
+        "name": "Rug Pads",
+        "shortName": "Rug Pads",
+        "fullName": "Rug Pads",
+        "localizedId": "rug-pads"
+    },
+    {
+        "numId": 2151,
+        "id": "shoe-storage",
+        "name": "Shoe Storage",
+        "shortName": "Shoe Storage",
+        "fullName": "Shoe Storage",
+        "localizedId": "shoe-storage"
+    },
+    {
+        "numId": 674,
+        "id": "cookware-sets",
+        "name": "Cookware Sets",
+        "shortName": "Cookware Sets",
+        "fullName": "Cookware Sets",
+        "localizedId": "cookware-sets"
+    },
+    {
+        "numId": 817,
+        "id": "knife-sets",
+        "name": "Knife Sets",
+        "shortName": "Knife Sets",
+        "fullName": "Knife Sets",
+        "localizedId": "knife-sets"
+    },
+    {
+        "numId": 878,
+        "id": "storage-containers",
+        "name": "Food Storage Containers",
+        "shortName": "Food Storage Containers",
+        "fullName": "Food Storage Containers",
+        "localizedId": "storage-containers"
+    },
+    {
+        "numId": 713,
+        "id": "coffee-makers",
+        "name": "Coffee Machines",
+        "shortName": "Coffee Machines",
+        "fullName": "Coffee Machines",
+        "localizedId": "coffee-makers"
+    },
+    {
+        "numId": 2294,
+        "id": "pet-bowls-and-feeders",
+        "name": "Pet Bowls & Feeders",
+        "shortName": "Pet Bowls & Feeders",
+        "fullName": "Pet Bowls & Feeders",
+        "localizedId": "pet-bowls-and-feeders"
+    },
+    {
+        "numId": 783,
+        "id": "clocks",
+        "name": "Clocks",
+        "shortName": "Clocks",
+        "fullName": "Clocks",
+        "localizedId": "clocks"
+    },
+    {
+        "numId": 666,
+        "id": "flatware",
+        "name": "Flatware & Cutlery",
+        "shortName": "Flatware & Cutlery",
+        "fullName": "Flatware & Cutlery",
+        "localizedId": "flatware"
+    },
+    {
+        "numId": 1875,
+        "id": "tree-ornaments",
+        "name": "Tree Ornaments",
+        "shortName": "Tree Ornaments",
+        "fullName": "Christmas Ornament",
+        "localizedId": "tree-ornaments"
+    },
+    {
+        "numId": 846,
+        "id": "casual-dining",
+        "name": "Dinner Plates",
+        "shortName": "Dinner Plates",
+        "fullName": "Dinner Plates",
+        "localizedId": "casual-dining"
+    },
+    {
+        "numId": 1933,
+        "id": "dinnerware-bowls",
+        "name": "Bowls",
+        "shortName": "Bowls",
+        "fullName": "Bowls",
+        "localizedId": "dinnerware-bowls"
+    },
+    {
+        "numId": 681,
+        "id": "casseroles-dutch-ovens",
+        "name": "Casserole, Dutch Oven & Baking Dishes",
+        "shortName": "Casserole, Dutch Oven & Baking Dishes",
+        "fullName": "Casseroles & Dutch Ovens",
+        "localizedId": "casseroles-dutch-ovens"
+    },
+    {
+        "numId": 637,
+        "id": "bath-mats",
+        "name": "Bath Rugs & Mats",
+        "shortName": "Bath Rugs & Mats",
+        "fullName": "Bath Rugs & Mats",
+        "localizedId": "bath-mats"
+    },
+    {
+        "numId": 1892,
+        "id": "pendant-lights",
+        "name": "Pendant Lights",
+        "shortName": "Pendant Lights",
+        "fullName": "Pendant Lights",
+        "localizedId": "pendant-lights"
+    },
+    {
+        "numId": 768,
+        "id": "benches",
+        "name": "Entryway Benches",
+        "shortName": "Entryway Benches",
+        "fullName": "Entryway Benches",
+        "localizedId": "benches"
+    },
+    {
+        "numId": 1897,
+        "id": "indoor-ceiling-fans",
+        "name": "Indoor Ceiling Fans",
+        "shortName": "Indoor Ceiling Fans",
+        "fullName": "Indoor Ceiling Fans",
+        "localizedId": "indoor-ceiling-fans"
+    },
+    {
+        "numId": 573,
+        "id": "bedroom-furniture",
+        "name": "Bedroom",
+        "shortName": "Bedroom Furniture",
+        "fullName": "Bedroom",
+        "localizedId": "bedroom-furniture"
+    },
+    {
+        "numId": 882,
+        "id": "accents-baskets-boxes",
+        "name": "Baskets & Boxes",
+        "shortName": "Baskets & Boxes",
+        "fullName": "Baskets & Boxes",
+        "localizedId": "accents-baskets-boxes"
+    },
+    {
+        "numId": 1795,
+        "id": "outdoor-wall-lighting",
+        "name": "Outdoor Wall Lighting",
+        "shortName": "Wall Lighting",
+        "fullName": "Outdoor Wall Lighting",
+        "localizedId": "outdoor-wall-lighting"
+    },
+    {
+        "numId": 743,
+        "id": "wall-lighting",
+        "name": "Wall Lighting",
+        "shortName": "Wall Lighting",
+        "fullName": "Wall Lighting",
+        "localizedId": "wall-lighting"
+    },
+    {
+        "numId": 1924,
+        "id": "butter-dishes",
+        "name": "Butter Dishes & Gravy Boats",
+        "shortName": "Butter Dishes & Gravy Boats",
+        "fullName": "Butter Dishes & Gravy Boats",
+        "localizedId": "butter-dishes"
+    },
+    {
+        "numId": 1821,
+        "id": "bedroom-ottomans-benches",
+        "name": "Bedroom Benches",
+        "shortName": "Bedroom Benches",
+        "fullName": "Bedroom Benches",
+        "localizedId": "bedroom-ottomans-benches"
+    },
+    {
+        "numId": 2215,
+        "id": "duvet-insert",
+        "name": "Duvet Insert",
+        "shortName": "Duvet Insert",
+        "fullName": "Duvet Insert",
+        "localizedId": "duvet-insert"
+    },
+    {
+        "numId": 1834,
+        "id": "duvet-cover",
+        "name": "Duvet Cover",
+        "shortName": "Duvet Cover",
+        "fullName": "Duvet Cover",
+        "localizedId": "duvet-cover"
+    },
+    {
+        "numId": 2196,
+        "id": "livingroom-fireplaces",
+        "name": "Fireplaces",
+        "shortName": "Fireplaces",
+        "fullName": "Fireplaces",
+        "localizedId": "livingroom-fireplaces"
+    },
+    {
+        "numId": 2319,
+        "id": "fall-decorations",
+        "name": "Fall Decorations",
+        "shortName": "Fall Decorations",
+        "fullName": "Halloween",
+        "localizedId": "fall-decorations"
+    },
+    {
+        "numId": 1872,
+        "id": "easter-decor",
+        "name": "Easter",
+        "shortName": "Easter",
+        "fullName": "Easter",
+        "localizedId": "easter-decor"
+    },
+    {
+        "numId": 1785,
+        "id": "outdoor-barstools-bars-buffets",
+        "name": "Barstools, Bars & Buffets",
+        "shortName": "Barstools, Bars & Buffets",
+        "fullName": "Outdoor Barstools, Bars & Buffets",
+        "localizedId": "outdoor-barstools-bars-buffets"
+    },
+    {
+        "numId": 1800,
+        "id": "bath-towel",
+        "name": "Bath Towel",
+        "shortName": "Bath Towel",
+        "fullName": "Bath Towel",
+        "localizedId": "bath-towel"
+    },
+    {
+        "numId": 1801,
+        "id": "towel-bundle",
+        "name": "Towel Bundle",
+        "shortName": "Towel Bundle",
+        "fullName": "Towel Bundle",
+        "localizedId": "towel-bundle"
+    },
+    {
+        "numId": 2207,
+        "id": "home-office-room-dividers",
+        "name": "Room Dividers",
+        "shortName": "Room Dividers",
+        "fullName": "Room Dividers",
+        "localizedId": "home-office-room-dividers"
+    },
+    {
+        "numId": 2148,
+        "id": "storage-benches",
+        "name": "Storage Benches",
+        "shortName": "Storage Benches",
+        "fullName": "Storage Benches",
+        "localizedId": "storage-benches"
+    },
+    {
+        "numId": 1768,
+        "id": "dining-benches-banquettes",
+        "name": "Dining Benches & Banquettes",
+        "shortName": "Dining Benches & Banquettes",
+        "fullName": "Dining Benches & Banquettes",
+        "localizedId": "dining-benches-banquettes"
+    },
+    {
+        "numId": 852,
+        "id": "jugs-pitchers",
+        "name": "Jugs & Pitchers",
+        "shortName": "Jugs & Pitchers",
+        "fullName": "Jugs & Pitchers",
+        "localizedId": "jugs-pitchers"
+    },
+    {
+        "numId": 1895,
+        "id": "sconces",
+        "name": "Sconces",
+        "shortName": "Sconces",
+        "fullName": "Sconces",
+        "localizedId": "sconces"
+    },
+    {
+        "numId": 1885,
+        "id": "frames",
+        "name": "Picture Frames",
+        "shortName": "Frames",
+        "fullName": "Picture Frames",
+        "localizedId": "frames"
+    },
+    {
+        "numId": 781,
+        "id": "vases",
+        "name": "Vases",
+        "shortName": "Vases",
+        "fullName": "Vases",
+        "localizedId": "vases"
+    },
+    {
+        "numId": 568,
+        "id": "nightstands",
+        "name": "Nightstands",
+        "shortName": "Nightstands",
+        "fullName": "Nightstands",
+        "localizedId": "nightstands"
+    },
+    {
+        "numId": 1797,
+        "id": "outdoor-lanterns-lamps",
+        "name": "Lanterns & Lamps",
+        "shortName": "Lanterns & Lamps",
+        "fullName": "Outdoor Lanterns & Lamps",
+        "localizedId": "outdoor-lanterns-lamps"
+    },
+    {
+        "numId": 746,
+        "id": "accent-lighting",
+        "name": "Lighting",
+        "shortName": "Lighting",
+        "fullName": "Lighting",
+        "localizedId": "accent-lighting"
+    },
+    {
+        "numId": 747,
+        "id": "mirrors-floor",
+        "name": "Floor Mirrors",
+        "shortName": "Floor Mirrors",
+        "fullName": "Floor Mirrors",
+        "localizedId": "mirrors-floor"
+    },
+    {
+        "numId": 1773,
+        "id": "home-office-accessories",
+        "name": "Home Office Accessories",
+        "shortName": "Home Office Accessories",
+        "fullName": "Home Office Accessories",
+        "localizedId": "home-office-accessories"
+    },
+    {
+        "numId": 1871,
+        "id": "accent-bowls",
+        "name": "Decorative Bowls",
+        "shortName": "Decorative Bowls",
+        "fullName": "Decorative Bowls",
+        "localizedId": "accent-bowls"
+    },
+    {
+        "numId": 670,
+        "id": "napkins",
+        "name": "Napkins",
+        "shortName": "Napkins",
+        "fullName": "Napkins",
+        "localizedId": "napkins"
+    },
+    {
+        "numId": 750,
+        "id": "artwork",
+        "name": "Artwork",
+        "shortName": "Artwork",
+        "fullName": "Artwork",
+        "localizedId": "artwork"
+    },
+    {
+        "numId": 1818,
+        "id": "bookcases-cabinets",
+        "name": "Bookcases & Cabinets",
+        "shortName": "Bookcases & Cabinets",
+        "fullName": "Bookcases & Cabinets",
+        "localizedId": "bookcases-cabinets"
+    },
+    {
+        "numId": 1881,
+        "id": "accents-throws-blankets",
+        "name": "Throws",
+        "shortName": "Throws",
+        "fullName": "Throws",
+        "localizedId": "accents-throws-blankets"
+    },
+    {
+        "numId": 2305,
+        "id": "waffle-maker",
+        "name": "Waffle Makers",
+        "shortName": "Waffle Makers",
+        "fullName": "Waffle Makers",
+        "localizedId": "waffle-maker"
+    },
+    {
+        "numId": 598,
+        "id": "office-chairs",
+        "name": "Office Chairs",
+        "shortName": "Office Chairs",
+        "fullName": "Office Chairs",
+        "localizedId": "office-chairs"
+    },
+    {
+        "numId": 741,
+        "id": "desk-lamps",
+        "name": "Desk Lamps",
+        "shortName": "Desk Lamps",
+        "fullName": "Desk Lamps",
+        "localizedId": "desk-lamps"
+    },
+    {
+        "numId": 2284,
+        "id": "rugs-hallway",
+        "name": "Hallway Rugs",
+        "shortName": "Hallway Rugs",
+        "fullName": "Hallway Rugs",
+        "localizedId": "rugs-hallway"
+    },
+    {
+        "numId": 726,
+        "id": "dish-towels",
+        "name": "Dish Towels",
+        "shortName": "Dish Towels",
+        "fullName": "Dish Towels",
+        "localizedId": "dish-towels"
+    },
+    {
+        "numId": 771,
+        "id": "umbrella-stands",
+        "name": "Umbrella Stands",
+        "shortName": "Umbrella Stands",
+        "fullName": "Umbrella Stands",
+        "localizedId": "umbrella-stands"
+    },
+    {
+        "numId": 1786,
+        "id": "outdoor-coffee-accent-tables",
+        "name": "Coffee & Accent Tables",
+        "shortName": "Coffee & Accent Tables",
+        "fullName": "Outdoor Coffee & Accent Tables",
+        "localizedId": "outdoor-coffee-accent-tables"
+    },
+    {
+        "numId": 2285,
+        "id": "rugs-round",
+        "name": "Round Rugs",
+        "shortName": "Round Rugs",
+        "fullName": "Round Rugs",
+        "localizedId": "rugs-round"
+    },
+    {
+        "numId": 1932,
+        "id": "dinnerware-sets",
+        "name": "Dinnerware Sets",
+        "shortName": "Dinnerware Sets",
+        "fullName": "Dinnerware Sets",
+        "localizedId": "dinnerware-sets"
+    },
+    {
+        "numId": 589,
+        "id": "sinks-washstands",
+        "name": "Sinks & Washstands",
+        "shortName": "Sinks & Washstands",
+        "fullName": "Sinks & Washstands",
+        "localizedId": "sinks-washstands"
+    },
+    {
+        "numId": 888,
+        "id": "figurines",
+        "name": "Figurines",
+        "shortName": "Figurines",
+        "fullName": "Figurines",
+        "localizedId": "figurines"
+    },
+    {
+        "numId": 1923,
+        "id": "lazy-susan",
+        "name": "Lazy Susan",
+        "shortName": "Lazy Susan",
+        "fullName": "Lazy Susan",
+        "localizedId": "lazy-susan"
+    },
+    {
+        "numId": 742,
+        "id": "lamp-shades",
+        "name": "Lamp Shades",
+        "shortName": "Lamp Shades",
+        "fullName": "Lamp Shades",
+        "localizedId": "lamp-shades"
+    },
+    {
+        "numId": 808,
+        "id": "bed-skirts",
+        "name": "Bed Skirts & Daybed Covers",
+        "shortName": "Bed Skirts & Daybed Covers",
+        "fullName": "Bed Skirts & Daybed Covers",
+        "localizedId": "bed-skirts"
+    },
+    {
+        "numId": 2220,
+        "id": "futon",
+        "name": "Futon",
+        "shortName": "Futon",
+        "fullName": "Futon",
+        "localizedId": "futon"
+    },
+    {
+        "numId": 1868,
+        "id": "outdoor-pillows",
+        "name": "Outdoor Pillows",
+        "shortName": "Outdoor Pillows",
+        "fullName": "Outdoor Pillows",
+        "localizedId": "outdoor-pillows"
+    },
+    {
+        "numId": 850,
+        "id": "cups-mugs",
+        "name": "Coffee Mugs & Tea Cups",
+        "shortName": "Coffee Mugs & Tea Cups",
+        "fullName": "Cups & Mugs",
+        "localizedId": "cups-mugs"
+    },
+    {
+        "numId": 831,
+        "id": "outdoor-chairs",
+        "name": "Chairs",
+        "shortName": "Chairs",
+        "fullName": "Outdoor Chairs",
+        "localizedId": "outdoor-chairs"
+    },
+    {
+        "numId": 2293,
+        "id": "pet-beds",
+        "name": "Pet Beds",
+        "shortName": "Pet Beds",
+        "fullName": "Pet Beds",
+        "localizedId": "pet-beds"
+    },
+    {
+        "numId": 1874,
+        "id": "holiday-trees",
+        "name": "Holiday Trees",
+        "shortName": "Holiday Trees",
+        "fullName": "Christmas Tree",
+        "localizedId": "holiday-trees"
+    },
+    {
+        "numId": 1782,
+        "id": "outdoor-chaises-daybeds",
+        "name": "Chaises & Daybeds",
+        "shortName": "Chaises & Daybeds",
+        "fullName": "Outdoor Chaises & Daybeds",
+        "localizedId": "outdoor-chaises-daybeds"
+    },
+    {
+        "numId": 616,
+        "id": "garden",
+        "name": "Garden Decor",
+        "shortName": "Garden",
+        "fullName": "Garden Decor",
+        "localizedId": "garden"
+    },
+    {
+        "numId": 1824,
+        "id": "bar-carts-bar-furniture",
+        "name": "Bar Carts & Bar Furniture",
+        "shortName": "Bar Carts & Bar Furniture",
+        "fullName": "Bar Carts & Bar Furniture",
+        "localizedId": "bar-carts-bar-furniture"
+    },
+    {
+        "numId": 1931,
+        "id": "drinkware-flutes",
+        "name": "Drinkware Flutes",
+        "shortName": "Champagne Glasses",
+        "fullName": "Drinkware Flutes",
+        "localizedId": "drinkware-flutes"
+    },
+    {
+        "numId": 2310,
+        "id": "spoon-rests-and-trivets",
+        "name": "Spoon Rests & Trivets",
+        "shortName": "Spoon Rests & Trivets",
+        "fullName": "Spoon Rests & Trivets",
+        "localizedId": "spoon-rests-and-trivets"
+    },
+    {
+        "numId": 2298,
+        "id": "pet-health-and-grooming",
+        "name": "Pet Health & Grooming",
+        "shortName": "Pet Health & Grooming",
+        "fullName": "Pet Health & Grooming",
+        "localizedId": "pet-health-and-grooming"
+    },
+    {
+        "numId": 667,
+        "id": "placemats",
+        "name": "Placemats & Chargers",
+        "shortName": "Placemats & Chargers",
+        "fullName": "Placemats & Chargers",
+        "localizedId": "placemats"
+    },
+    {
+        "numId": 866,
+        "id": "trays-platters",
+        "name": "Trays & Platters",
+        "shortName": "Trays & Platters",
+        "fullName": "Trays & Platters",
+        "localizedId": "trays-platters"
+    },
+    {
+        "numId": 2201,
+        "id": "dining-pantry-cabinets",
+        "name": "Pantry Cabinets",
+        "shortName": "Pantry Cabinets",
+        "fullName": "Pantry Cabinets",
+        "localizedId": "dining-pantry-cabinets"
+    },
+    {
+        "numId": 1769,
+        "id": "kitchen-islands-carts",
+        "name": "Kitchen Islands & Carts",
+        "shortName": "Kitchen Islands & Carts",
+        "fullName": "Kitchen Islands & Carts",
+        "localizedId": "kitchen-islands-carts"
+    },
+    {
+        "numId": 1756,
+        "id": "storage-kitchen",
+        "name": "Storage & Modular Kitchen",
+        "shortName": "Kitchen",
+        "fullName": "Storage & Modular Kitchen",
+        "localizedId": "storage-kitchen"
+    },
+    {
+        "numId": 1771,
+        "id": "dining-furniture-collections",
+        "name": "Dining Collections",
+        "shortName": "Dining Collections",
+        "fullName": "Dining Collections",
+        "localizedId": "dining-furniture-collections"
+    },
+    {
+        "numId": 2239,
+        "id": "outdoor-furniture-adirondack-chairs",
+        "name": "Adirondack Chairs",
+        "shortName": "Adirondack Chairs",
+        "fullName": "Adirondack Chairs",
+        "localizedId": "outdoor-furniture-adirondack-chairs"
+    },
+    {
+        "numId": 1884,
+        "id": "poufs",
+        "name": "Poufs",
+        "shortName": "Poufs",
+        "fullName": "Poufs",
+        "localizedId": "poufs"
+    },
+    {
+        "numId": 2252,
+        "id": "fan-accessories",
+        "name": "Fan Accessories",
+        "shortName": "Fan Accessories",
+        "fullName": "Fan Accessories",
+        "localizedId": "fan-accessories"
+    },
+    {
+        "numId": 701,
+        "id": "blenders-juicers",
+        "name": "Blenders & Juicers",
+        "shortName": "Blenders & Juicers",
+        "fullName": "Blenders & Juicers",
+        "localizedId": "blenders-juicers"
+    },
+    {
+        "numId": 881,
+        "id": "kitchen-tools-gadgets",
+        "name": "Kitchen Tools",
+        "shortName": "Tools & Gadgets",
+        "fullName": "Kitchen Tools",
+        "localizedId": "kitchen-tools-gadgets"
+    },
+    {
+        "numId": 1784,
+        "id": "outdoor-dining-furniture-collections",
+        "name": "Outdoor Dining Collections",
+        "shortName": "Dining Collections",
+        "fullName": "Outdoor Dining Collections",
+        "localizedId": "outdoor-dining-furniture-collections"
+    },
+    {
+        "numId": 1762,
+        "id": "livingroom-leather-furniture",
+        "name": "Leather Furniture",
+        "shortName": "Leather Furniture",
+        "fullName": "Leather Furniture",
+        "localizedId": "livingroom-leather-furniture"
+    },
+    {
+        "numId": 1850,
+        "id": "bedding-sets",
+        "name": "Bedding Sets",
+        "shortName": "Bedding Sets",
+        "fullName": "Bedding Sets",
+        "localizedId": "bedding-sets"
+    },
+    {
+        "numId": 715,
+        "id": "tea-kettles",
+        "name": "Tea Kettles",
+        "shortName": "Tea Kettles",
+        "fullName": "Tea Kettles",
+        "localizedId": "tea-kettles"
+    },
+    {
+        "numId": 1928,
+        "id": "pillowcases",
+        "name": "Pillowcases",
+        "shortName": "Pillowcases",
+        "fullName": "Pillowcases",
+        "localizedId": "pillowcases"
+    },
+    {
+        "numId": 731,
+        "id": "wine-storage",
+        "name": "Wine Storage",
+        "shortName": "Wine Storage",
+        "fullName": "Wine Storage",
+        "localizedId": "wine-storage"
+    },
+    {
+        "numId": 748,
+        "id": "mirrors-wall",
+        "name": "Wall Mirrors",
+        "shortName": "Wall Mirrors",
+        "fullName": "Wall Mirrors",
+        "localizedId": "mirrors-wall"
+    },
+    {
+        "numId": 2217,
+        "id": "memory-foam",
+        "name": "Memory Foam",
+        "shortName": "Memory Foam",
+        "fullName": "Memory Foam",
+        "localizedId": "memory-foam"
+    },
+    {
+        "numId": 657,
+        "id": "dinnerware",
+        "name": "Dinnerware",
+        "shortName": "Dinnerware",
+        "fullName": "Dinnerware",
+        "localizedId": "dinnerware"
+    },
+    {
+        "numId": 2347,
+        "id": "laundry",
+        "name": "",
+        "shortName": "Laundry",
+        "fullName": "",
+        "localizedId": "laundry"
+    },
+    {
+        "numId": 2194,
+        "id": "livingroom-futons-and-day-beds",
+        "name": "Futons & Day Beds",
+        "shortName": "Futons & Day Beds",
+        "fullName": "Futons & Day Beds",
+        "localizedId": "livingroom-futons-and-day-beds"
+    },
+    {
+        "numId": 39,
+        "id": "shoulder-bags",
+        "name": "Shoulder Bags",
+        "shortName": "Shoulder",
+        "fullName": "Women's Shoulder Bags",
+        "localizedId": "shoulder-bags"
+    },
+    {
+        "numId": 40,
+        "id": "tote-bags",
+        "name": "Tote Bags",
+        "shortName": "Totes",
+        "fullName": "Women's Tote Bags",
+        "localizedId": "tote-bags"
+    },
+    {
+        "numId": 739,
+        "id": "floor-lamps",
+        "name": "Floor Lamps",
+        "shortName": "Floor Lamps",
+        "fullName": "Floor Lamps",
+        "localizedId": "floor-lamps"
+    },
+    {
+        "numId": 2240,
+        "id": "outdoor-furniture-garden-stools",
+        "name": "Garden Stools",
+        "shortName": "Garden Stools",
+        "fullName": "Garden Stools",
+        "localizedId": "outdoor-furniture-garden-stools"
+    },
+    {
+        "numId": 1819,
+        "id": "livingroom-collections",
+        "name": "Living Room Collections",
+        "shortName": "Living Room Collections",
+        "fullName": "Living Room Collections",
+        "localizedId": "livingroom-collections"
+    },
+    {
+        "numId": 2161,
+        "id": "gameroom-furniture",
+        "name": "Game Room",
+        "shortName": "Game Room Furniture",
+        "fullName": "Game Room",
+        "localizedId": "gameroom-furniture"
+    },
+    {
+        "numId": 2317,
+        "id": "holiday-wall-art",
+        "name": "Holiday Wall Art",
+        "shortName": "Holiday Wall Art",
+        "fullName": "Christmas Wall Art",
+        "localizedId": "holiday-wall-art"
+    },
+    {
+        "numId": 2257,
+        "id": "charger-plates",
+        "name": "Charger Plates",
+        "shortName": "Charger Plates",
+        "fullName": "Charger Plates",
+        "localizedId": "charger-plates"
+    },
+    {
+        "numId": 2302,
+        "id": "salad-and-appetizer-plates",
+        "name": "Salad & Appetizer Plates",
+        "shortName": "Salad & Appetizer Plates",
+        "fullName": "Salad & Appetizer Plates",
+        "localizedId": "salad-and-appetizer-plates"
+    },
+    {
+        "numId": 1945,
+        "id": "fall-decor",
+        "name": "Fall Decor",
+        "shortName": "Fall Decor",
+        "fullName": "Fall Decor",
+        "localizedId": "fall-decor"
+    },
+    {
+        "numId": 1888,
+        "id": "artwork-photography",
+        "name": "Photography",
+        "shortName": "Photography",
+        "fullName": "Photography",
+        "localizedId": "artwork-photography"
+    },
+    {
+        "numId": 1889,
+        "id": "artwork-drawings",
+        "name": "Drawings",
+        "shortName": "Drawings",
+        "fullName": "Drawings",
+        "localizedId": "artwork-drawings"
+    },
+    {
+        "numId": 1810,
+        "id": "bath-soaps-lotions",
+        "name": "Soaps & Lotions",
+        "shortName": "Soaps & Lotions",
+        "fullName": "Soaps & Lotions",
+        "localizedId": "bath-soaps-lotions"
+    },
+    {
+        "numId": 2197,
+        "id": "livingroom-slipcovers",
+        "name": "Slipcovers",
+        "shortName": "Slipcovers",
+        "fullName": "Slipcovers",
+        "localizedId": "livingroom-slipcovers"
+    },
+    {
+        "numId": 1963,
+        "id": "food-beverage",
+        "name": "Food & Beverage",
+        "shortName": "Food & Beverage",
+        "fullName": "Food & Beverage",
+        "localizedId": "food-beverage"
+    },
+    {
+        "numId": 2287,
+        "id": "mats-kitchen",
+        "name": "Kitchen Rugs & Mats",
+        "shortName": "Kitchen Mats",
+        "fullName": "Kitchen Rugs & Mats",
+        "localizedId": "mats-kitchen"
+    },
+    {
+        "numId": 752,
+        "id": "sheers",
+        "name": "Sheers",
+        "shortName": "Sheers",
+        "fullName": "Sheers",
+        "localizedId": "sheers"
+    },
+    {
+        "numId": 2177,
+        "id": "kids-and-baby-furniture-bassinets",
+        "name": "Bassinets",
+        "shortName": "Bassinets",
+        "fullName": "Bassinets",
+        "localizedId": "kids-and-baby-furniture-bassinets"
+    },
+    {
+        "numId": 668,
+        "id": "runners",
+        "name": "Runners",
+        "shortName": "Runners",
+        "fullName": "Runners",
+        "localizedId": "runners"
+    },
+    {
+        "numId": 1886,
+        "id": "pillows-decor",
+        "name": "Pillows & Decor",
+        "shortName": "Pillows & Decor",
+        "fullName": "Pillows & Decor",
+        "localizedId": "pillows-decor"
+    },
+    {
+        "numId": 2214,
+        "id": "pillow-insert",
+        "name": "Pillow Insert",
+        "shortName": "Pillow Insert",
+        "fullName": "Pillow Insert",
+        "localizedId": "pillow-insert"
+    },
+    {
+        "numId": 2199,
+        "id": "bedroom-daybeds",
+        "name": "Daybeds",
+        "shortName": "Daybeds",
+        "fullName": "Daybeds",
+        "localizedId": "bedroom-daybeds"
+    },
+    {
+        "numId": 745,
+        "id": "bathroom-lighting",
+        "name": "Bathroom Lighting",
+        "shortName": "Bathroom Lighting",
+        "fullName": "Bathroom Lighting",
+        "localizedId": "bathroom-lighting"
+    },
+    {
+        "numId": 2288,
+        "id": "rugs-stair-tread",
+        "name": "Stair Tread",
+        "shortName": "Stair Tread",
+        "fullName": "Stair Tread",
+        "localizedId": "rugs-stair-tread"
+    },
+    {
+        "numId": 696,
+        "id": "steak-knives",
+        "name": "Steak Knives",
+        "shortName": "Steak Knives",
+        "fullName": "Steak Knives",
+        "localizedId": "steak-knives"
+    },
+    {
+        "numId": 1796,
+        "id": "outdoor-ceiling-lighting",
+        "name": "Ceiling Lights",
+        "shortName": "Ceiling Lights",
+        "fullName": "Ceiling Lights",
+        "localizedId": "outdoor-ceiling-lighting"
+    },
+    {
+        "numId": 695,
+        "id": "kitchen-knives",
+        "name": "Kitchen Knives",
+        "shortName": "Kitchen Knives",
+        "fullName": "Kitchen Knives",
+        "localizedId": "kitchen-knives"
+    },
+    {
+        "numId": 1783,
+        "id": "outdoor-lounge-chairs-ottomans",
+        "name": "Lounge Chairs & Ottomans",
+        "shortName": "Lounge Chairs & Ottomans",
+        "fullName": "Outdoor Lounge Chairs & Ottomans",
+        "localizedId": "outdoor-lounge-chairs-ottomans"
+    },
+    {
+        "numId": 2237,
+        "id": "outdoor-landscape-lighting",
+        "name": "Landscape Lighting",
+        "shortName": "Landscape Lighting",
+        "fullName": "Landscape Lighting",
+        "localizedId": "outdoor-landscape-lighting"
+    },
+    {
+        "numId": 582,
+        "id": "living-room-furniture",
+        "name": "Living Room",
+        "shortName": "Living Room Furniture",
+        "fullName": "Living Room",
+        "localizedId": "living-room-furniture"
+    },
+    {
+        "numId": 2173,
+        "id": "kids-and-baby-furniture-cribs",
+        "name": "Cribs",
+        "shortName": "Cribs",
+        "fullName": "Cribs",
+        "localizedId": "kids-and-baby-furniture-cribs"
+    },
+    {
+        "numId": 2323,
+        "id": "fall-pillows",
+        "name": "Fall Pillows",
+        "shortName": "Fall Pillows",
+        "fullName": "Halloween Pillows",
+        "localizedId": "fall-pillows"
+    },
+    {
+        "numId": 1753,
+        "id": "storage-cabinets",
+        "name": "Storage Cabinets",
+        "shortName": "Storage Cabinets",
+        "fullName": "Storage Cabinets",
+        "localizedId": "storage-cabinets"
+    },
+    {
+        "numId": 880,
+        "id": "kitchen-storage",
+        "name": "Kitchen Storage & Organization",
+        "shortName": "Kitchen Storage & Organization",
+        "fullName": "Kitchen Storage & Organization",
+        "localizedId": "kitchen-storage"
+    },
+    {
+        "numId": 737,
+        "id": "ceiling-lighting",
+        "name": "Ceiling Lighting",
+        "shortName": "Ceiling Lighting",
+        "fullName": "Ceiling Lighting",
+        "localizedId": "ceiling-lighting"
+    },
+    {
+        "numId": 862,
+        "id": "salt-pepper",
+        "name": "Salt & Pepper Shakers",
+        "shortName": "Salt & Pepper Shakers",
+        "fullName": "Salt & Pepper Shakers",
+        "localizedId": "salt-pepper"
+    },
+    {
+        "numId": 782,
+        "id": "candles-candleholders",
+        "name": "Candles",
+        "shortName": "Candles & Holders",
+        "fullName": "Candles & Holders",
+        "localizedId": "candles-candleholders"
+    },
+    {
+        "numId": 2273,
+        "id": "night-light",
+        "name": "Night Light",
+        "shortName": "Night Light",
+        "fullName": "Night Light",
+        "localizedId": "night-light"
+    },
+    {
+        "numId": 2324,
+        "id": "holiday-dining-entertaining",
+        "name": "Holiday Dining & Entertaining",
+        "shortName": "Holiday Dining & Entertaining",
+        "fullName": "Christmas Table Settings",
+        "localizedId": "holiday-dining-entertaining"
+    },
+    {
+        "numId": 626,
+        "id": "blankets",
+        "name": "Blankets",
+        "shortName": "Blankets",
+        "fullName": "Blankets",
+        "localizedId": "blankets"
+    },
+    {
+        "numId": 648,
+        "id": "bath-accessories",
+        "name": "Bath Accessories",
+        "shortName": "Bath Accessories",
+        "fullName": "Bath Accessories",
+        "localizedId": "bath-accessories"
+    },
+    {
+        "numId": 1787,
+        "id": "outdoor-furniture-covers-care",
+        "name": "Furniture Covers & Care",
+        "shortName": "Furniture Covers & Care",
+        "fullName": "Furniture Covers & Care",
+        "localizedId": "outdoor-furniture-covers-care"
+    },
+    {
+        "numId": 2236,
+        "id": "outdoor-fire-pits",
+        "name": "Fire Pits",
+        "shortName": "Fire Pits",
+        "fullName": "Fire Pits",
+        "localizedId": "outdoor-fire-pits"
+    },
+    {
+        "numId": 868,
+        "id": "tablecloths",
+        "name": "Tablecloths",
+        "shortName": "Tablecloths",
+        "fullName": "Tablecloths",
+        "localizedId": "tablecloths"
+    },
+    {
+        "numId": 2246,
+        "id": "lighting-accessories",
+        "name": "Lighting Accessories",
+        "shortName": "Lighting Accessories",
+        "fullName": "Lighting Accessories",
+        "localizedId": "lighting-accessories"
+    },
+    {
+        "numId": 785,
+        "id": "home-fragrance",
+        "name": "Home Fragrance",
+        "shortName": "Home Fragrance",
+        "fullName": "Home Fragrance",
+        "localizedId": "home-fragrance"
+    },
+    {
+        "numId": 635,
+        "id": "shower-curtains",
+        "name": "Shower Curtains",
+        "shortName": "Shower Curtains",
+        "fullName": "Shower Curtains",
+        "localizedId": "shower-curtains"
+    },
+    {
+        "numId": 1860,
+        "id": "pillow-pillowcases-shams",
+        "name": "Pillowcases & Shams",
+        "shortName": "Pillowcases & Shams",
+        "fullName": "Pillows, Pillowcases & Shams",
+        "localizedId": "pillow-pillowcases-shams"
+    },
+    {
+        "numId": 849,
+        "id": "carafes-decanters",
+        "name": "Carafes & Decanters",
+        "shortName": "Carafes & Decanters",
+        "fullName": "Carafes & Decanters",
+        "localizedId": "carafes-decanters"
+    },
+    {
+        "numId": 870,
+        "id": "toasters-ovens",
+        "name": "Toasters & Toaster Ovens",
+        "shortName": "Toasters & Toaster Ovens",
+        "fullName": "Toasters & Ovens",
+        "localizedId": "toasters-ovens"
+    },
+    {
+        "numId": 1937,
+        "id": "hanukkah-decorations",
+        "name": "Hanukkah Decorations",
+        "shortName": "Hanukkah Decorations",
+        "fullName": "Dreidel",
+        "localizedId": "hanukkah-decorations"
+    },
+    {
+        "numId": 1,
+        "id": "clothes-shoes-and-jewelry",
+        "name": "Clothes and Shoes",
+        "shortName": "All Categories",
+        "fullName": "Clothes, Shoes, & Jewelry",
+        "localizedId": "clothes-shoes-and-jewelry"
+    },
+    {
+        "numId": 832,
+        "id": "outdoor-tables",
+        "name": "Tables",
+        "shortName": "Tables",
+        "fullName": "Outdoor Tables",
+        "localizedId": "outdoor-tables"
+    },
+    {
+        "numId": 2213,
+        "id": "weighted-blankets",
+        "name": "Weighted Blankets",
+        "shortName": "Weighted Blankets",
+        "fullName": "Weighted Blankets",
+        "localizedId": "weighted-blankets"
+    },
+    {
+        "numId": 1811,
+        "id": "countertop-bath-accessories",
+        "name": "Countertop Bath Accessories",
+        "shortName": "Countertop Bath Accessories",
+        "fullName": "Countertop Bath Accessories",
+        "localizedId": "countertop-bath-accessories"
+    },
+    {
+        "numId": 856,
+        "id": "wine-glasses",
+        "name": "Wine Glasses",
+        "shortName": "Wine Glasses",
+        "fullName": "Wine Glasses",
+        "localizedId": "wine-glasses"
+    }
+]

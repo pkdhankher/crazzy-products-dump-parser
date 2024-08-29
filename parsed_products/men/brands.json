@@ -1,0 +1,5572 @@
+[
+    {
+        "id": "844",
+        "name": "Bottega Veneta",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Bottega-Veneta-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Bottega-Veneta-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Bottega-Veneta-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Bottega-Veneta-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Bottega-Veneta-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Bottega-Veneta-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "bottega-veneta",
+        "legacyUrlIdentifier": "Bottega-Veneta"
+    },
+    {
+        "id": "689",
+        "name": "Alexander McQueen",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Alexander-McQueen-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Alexander-McQueen-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Alexander-McQueen-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Alexander-McQueen-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Alexander-McQueen-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Alexander-McQueen-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "alexander-mcqueen",
+        "legacyUrlIdentifier": "Alexander-McQueen"
+    },
+    {
+        "id": "774",
+        "name": "Balenciaga",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Balenciaga-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Balenciaga-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Balenciaga-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Balenciaga-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Balenciaga-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Balenciaga-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "balenciaga",
+        "legacyUrlIdentifier": "Balenciaga"
+    },
+    {
+        "id": "3979",
+        "name": "Rick Owens",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Rick-Owens-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Rick-Owens-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Rick-Owens-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Rick-Owens-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Rick-Owens-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Rick-Owens-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "rick-owens",
+        "legacyUrlIdentifier": "Rick-Owens"
+    },
+    {
+        "id": "462",
+        "name": "Polo Ralph Lauren",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Polo-Ralph-Lauren-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Polo-Ralph-Lauren-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Polo-Ralph-Lauren-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Polo-Ralph-Lauren-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Polo-Ralph-Lauren-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Polo-Ralph-Lauren-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "polo-ralph-lauren",
+        "legacyUrlIdentifier": "Polo-Ralph-Lauren"
+    },
+    {
+        "id": "1227",
+        "name": "Givenchy",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Givenchy-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Givenchy-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Givenchy-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Givenchy-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Givenchy-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Givenchy-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "givenchy",
+        "legacyUrlIdentifier": "Givenchy"
+    },
+    {
+        "id": "36247",
+        "name": "vuori",
+        "urlIdentifier": "vuori",
+        "legacyUrlIdentifier": "vuori"
+    },
+    {
+        "id": "48148",
+        "name": "ASOS DESIGN",
+        "urlIdentifier": "asos-design",
+        "legacyUrlIdentifier": "ASOS-DESIGN"
+    },
+    {
+        "id": "2199",
+        "name": "Versace",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Versace-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Versace-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Versace-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Versace-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Versace-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Versace-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "versace",
+        "legacyUrlIdentifier": "Versace"
+    },
+    {
+        "id": "422",
+        "name": "Nike",
+        "urlIdentifier": "nike",
+        "legacyUrlIdentifier": "Nike"
+    },
+    {
+        "id": "33201",
+        "name": "Jordan",
+        "urlIdentifier": "jordan",
+        "legacyUrlIdentifier": "Jordan"
+    },
+    {
+        "id": "1242",
+        "name": "Gucci",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Gucci-default@2x.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Gucci-default@2x.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Gucci-default@2x.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Gucci-default@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Gucci-default@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Gucci-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "gucci",
+        "legacyUrlIdentifier": "Gucci"
+    },
+    {
+        "id": "3592",
+        "name": "Golden Goose",
+        "urlIdentifier": "golden-goose",
+        "legacyUrlIdentifier": "Golden-Goose"
+    },
+    {
+        "id": "516",
+        "name": "Seiko",
+        "urlIdentifier": "seiko",
+        "legacyUrlIdentifier": "Seiko"
+    },
+    {
+        "id": "552",
+        "name": "Steve Madden",
+        "urlIdentifier": "steve-madden",
+        "legacyUrlIdentifier": "Steve-Madden"
+    },
+    {
+        "id": "34098",
+        "name": "Amiri",
+        "urlIdentifier": "amiri",
+        "legacyUrlIdentifier": "Amiri"
+    },
+    {
+        "id": "3150",
+        "name": "Onitsuka Tiger by Asics",
+        "urlIdentifier": "onitsuka-tiger-by-asics",
+        "legacyUrlIdentifier": "Onitsuka-Tiger-by-Asics"
+    },
+    {
+        "id": "43853",
+        "name": "Comme des Gar\u00e7ons Homme",
+        "urlIdentifier": "comme-des-garcons-homme",
+        "legacyUrlIdentifier": "Comme-des-Garcons-Homme"
+    },
+    {
+        "id": "2210",
+        "name": "Vince",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Vince-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Vince-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Vince-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Vince-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Vince-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Vince-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "vince",
+        "legacyUrlIdentifier": "Vince"
+    },
+    {
+        "id": "649",
+        "name": "2xist",
+        "urlIdentifier": "2xist",
+        "legacyUrlIdentifier": "2xist"
+    },
+    {
+        "id": "345",
+        "name": "Levi's",
+        "urlIdentifier": "levis",
+        "legacyUrlIdentifier": "Levis"
+    },
+    {
+        "id": "332",
+        "name": "Lacoste",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Lacoste-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Lacoste-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Lacoste-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Lacoste-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Lacoste-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Lacoste-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "lacoste",
+        "legacyUrlIdentifier": "Lacoste"
+    },
+    {
+        "id": "12724",
+        "name": "Stone Island",
+        "urlIdentifier": "stone-island",
+        "legacyUrlIdentifier": "Stone-Island"
+    },
+    {
+        "id": "46532",
+        "name": "Maison Mihara Yasuhiro",
+        "urlIdentifier": "maison-mihara-yasuhiro",
+        "legacyUrlIdentifier": "Maison-Mihara-Yasuhiro"
+    },
+    {
+        "id": "18079",
+        "name": "Veja",
+        "urlIdentifier": "veja",
+        "legacyUrlIdentifier": "Veja"
+    },
+    {
+        "id": "15352",
+        "name": "Mercanti Fiorentini",
+        "urlIdentifier": "mercanti-fiorentini",
+        "legacyUrlIdentifier": "Mercanti-Fiorentini"
+    },
+    {
+        "id": "31864",
+        "name": "Maison Margiela",
+        "urlIdentifier": "maison-margiela",
+        "legacyUrlIdentifier": "Maison-Margiela"
+    },
+    {
+        "id": "48161",
+        "name": "Massimo Dutti",
+        "urlIdentifier": "massimo-dutti",
+        "legacyUrlIdentifier": "Massimo-Dutti"
+    },
+    {
+        "id": "7796",
+        "name": "Loewe",
+        "urlIdentifier": "loewe",
+        "legacyUrlIdentifier": "Loewe"
+    },
+    {
+        "id": "19525",
+        "name": "Essentials",
+        "urlIdentifier": "essentials",
+        "legacyUrlIdentifier": "Essentials"
+    },
+    {
+        "id": "25337",
+        "name": "Thom Browne",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Thom-Browne-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Thom-Browne-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Thom-Browne-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Thom-Browne-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Thom-Browne-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Thom-Browne-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "thom-browne",
+        "legacyUrlIdentifier": "Thom-Browne"
+    },
+    {
+        "id": "1139",
+        "name": "Ermenegildo Zegna",
+        "urlIdentifier": "ermenegildo-zegna",
+        "legacyUrlIdentifier": "Ermenegildo-Zegna"
+    },
+    {
+        "id": "7430",
+        "name": "Common Projects",
+        "urlIdentifier": "common-projects",
+        "legacyUrlIdentifier": "Common-Projects"
+    },
+    {
+        "id": "2676",
+        "name": "Dries Van Noten",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Dries-Van-Noten-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Dries-Van-Noten-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Dries-Van-Noten-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Dries-Van-Noten-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Dries-Van-Noten-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Dries-Van-Noten-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "dries-van-noten",
+        "legacyUrlIdentifier": "Dries-Van-Noten"
+    },
+    {
+        "id": "142",
+        "name": "Cole Haan",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Cole-Haan-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Cole-Haan-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Cole-Haan-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Cole-Haan-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Cole-Haan-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Cole-Haan-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "cole-haan",
+        "legacyUrlIdentifier": "Cole-Haan"
+    },
+    {
+        "id": "12367",
+        "name": "Giorgio Brato",
+        "urlIdentifier": "giorgio-brato",
+        "legacyUrlIdentifier": "Giorgio-Brato"
+    },
+    {
+        "id": "468",
+        "name": "Puma",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Puma-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Puma-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Puma-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Puma-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Puma-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Puma-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "puma",
+        "legacyUrlIdentifier": "Puma"
+    },
+    {
+        "id": "33049",
+        "name": "Palm Angels",
+        "urlIdentifier": "palm-angels",
+        "legacyUrlIdentifier": "Palm-Angels"
+    },
+    {
+        "id": "2130",
+        "name": "Tom Ford",
+        "urlIdentifier": "tom-ford",
+        "legacyUrlIdentifier": "Tom-Ford"
+    },
+    {
+        "id": "2781",
+        "name": "Brooks",
+        "urlIdentifier": "brooks",
+        "legacyUrlIdentifier": "Brooks"
+    },
+    {
+        "id": "1624",
+        "name": "Marni",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Marni-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Marni-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Marni-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Marni-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Marni-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Marni-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "marni",
+        "legacyUrlIdentifier": "Marni"
+    },
+    {
+        "id": "15806",
+        "name": "Cerruti",
+        "urlIdentifier": "cerruti",
+        "legacyUrlIdentifier": "Cerruti"
+    },
+    {
+        "id": "812",
+        "name": "Birkenstock",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Birkenstock-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Birkenstock-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Birkenstock-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Birkenstock-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Birkenstock-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Birkenstock-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "birkenstock",
+        "legacyUrlIdentifier": "Birkenstock"
+    },
+    {
+        "id": "32789",
+        "name": "MM6 MAISON MARGIELA",
+        "urlIdentifier": "mm6-maison-margiela",
+        "legacyUrlIdentifier": "MM6-MAISON-MARGIELA"
+    },
+    {
+        "id": "2188",
+        "name": "Valentino",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Valentino-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Valentino-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Valentino-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Valentino-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Valentino-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Valentino-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "valentino",
+        "legacyUrlIdentifier": "Valentino"
+    },
+    {
+        "id": "1847",
+        "name": "Prada",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Prada-default@2x.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Prada-default@2x.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Prada-default@2x.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Prada-default@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Prada-default@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Prada-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "prada",
+        "legacyUrlIdentifier": "Prada"
+    },
+    {
+        "id": "1948",
+        "name": "Ferragamo",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Salvatore-Ferragamo-default@2x.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Salvatore-Ferragamo-default@2x.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Salvatore-Ferragamo-default@2x.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Salvatore-Ferragamo-default@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Salvatore-Ferragamo-default@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Salvatore-Ferragamo-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "salvatore-ferragamo",
+        "legacyUrlIdentifier": "Ferragamo"
+    },
+    {
+        "id": "957",
+        "name": "Christian Dior",
+        "urlIdentifier": "christian-dior",
+        "legacyUrlIdentifier": "Christian-Dior"
+    },
+    {
+        "id": "14",
+        "name": "adidas",
+        "urlIdentifier": "adidas",
+        "legacyUrlIdentifier": "adidas"
+    },
+    {
+        "id": "12196",
+        "name": "Brian Dales",
+        "urlIdentifier": "brian-dales",
+        "legacyUrlIdentifier": "Brian-Dales"
+    },
+    {
+        "id": "45861",
+        "name": "Double RL",
+        "urlIdentifier": "double-rl",
+        "legacyUrlIdentifier": "Double-RL"
+    },
+    {
+        "id": "48182",
+        "name": "Coach Outlet",
+        "urlIdentifier": "coach-outlet",
+        "legacyUrlIdentifier": "Coach-Outlet"
+    },
+    {
+        "id": "1556",
+        "name": "Loro Piana",
+        "urlIdentifier": "loro-piana",
+        "legacyUrlIdentifier": "Loro-Piana"
+    },
+    {
+        "id": "12297",
+        "name": "Drkshdw",
+        "urlIdentifier": "drkshdw",
+        "legacyUrlIdentifier": "Drkshdw"
+    },
+    {
+        "id": "144",
+        "name": "Converse",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Converse-default@2x.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Converse-default@2x.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Converse-default@2x.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Converse-default@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Converse-default@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Converse-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "converse",
+        "legacyUrlIdentifier": "Converse"
+    },
+    {
+        "id": "19694",
+        "name": "G-Shock",
+        "urlIdentifier": "g-shock",
+        "legacyUrlIdentifier": "G-Shock"
+    },
+    {
+        "id": "103",
+        "name": "Calvin Klein",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Calvin-Klein-default@2x.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Calvin-Klein-default@2x.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Calvin-Klein-default@2x.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Calvin-Klein-default@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Calvin-Klein-default@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Calvin-Klein-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "calvin-klein",
+        "legacyUrlIdentifier": "Calvin-Klein"
+    },
+    {
+        "id": "913",
+        "name": "Cartier",
+        "urlIdentifier": "cartier",
+        "legacyUrlIdentifier": "Cartier"
+    },
+    {
+        "id": "870",
+        "name": "Burberry",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Burberry-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Burberry-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Burberry-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Burberry-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Burberry-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Burberry-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "burberry",
+        "legacyUrlIdentifier": "Burberry"
+    },
+    {
+        "id": "267",
+        "name": "HUGO BOSS",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/HUGO-BOSS-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/HUGO-BOSS-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/HUGO-BOSS-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/HUGO-BOSS-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/HUGO-BOSS-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/HUGO-BOSS-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "hugo-boss",
+        "legacyUrlIdentifier": "HUGO-BOSS"
+    },
+    {
+        "id": "31792",
+        "name": "Bar III",
+        "urlIdentifier": "bar-iii",
+        "legacyUrlIdentifier": "Bar-III"
+    },
+    {
+        "id": "1595",
+        "name": "Magnanni",
+        "urlIdentifier": "magnanni",
+        "legacyUrlIdentifier": "Magnanni"
+    },
+    {
+        "id": "2129",
+        "name": "Tod's",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Tods-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Tods-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Tods-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Tods-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Tods-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Tods-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "tods",
+        "legacyUrlIdentifier": "Tods"
+    },
+    {
+        "id": "1590",
+        "name": "Mackage",
+        "urlIdentifier": "mackage",
+        "legacyUrlIdentifier": "Mackage"
+    },
+    {
+        "id": "35400",
+        "name": "Nike x Off-White",
+        "urlIdentifier": "nike-x-off-white",
+        "legacyUrlIdentifier": "Nike-x-Off-White"
+    },
+    {
+        "id": "585",
+        "name": "Tommy Hilfiger",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Tommy-Hilfiger-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Tommy-Hilfiger-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Tommy-Hilfiger-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Tommy-Hilfiger-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Tommy-Hilfiger-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Tommy-Hilfiger-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "tommy-hilfiger",
+        "legacyUrlIdentifier": "Tommy-Hilfiger"
+    },
+    {
+        "id": "8296",
+        "name": "Brunello Cucinelli",
+        "urlIdentifier": "brunello-cucinelli",
+        "legacyUrlIdentifier": "Brunello-Cucinelli"
+    },
+    {
+        "id": "18530",
+        "name": "Club Monaco",
+        "urlIdentifier": "club-monaco",
+        "legacyUrlIdentifier": "Club-Monaco"
+    },
+    {
+        "id": "1171",
+        "name": "Fendi",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Fendi-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Fendi-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Fendi-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Fendi-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Fendi-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Fendi-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "fendi",
+        "legacyUrlIdentifier": "Fendi"
+    },
+    {
+        "id": "35655",
+        "name": "MONCLER GRENOBLE",
+        "urlIdentifier": "moncler-grenoble",
+        "legacyUrlIdentifier": "MONCLER-GRENOBLE"
+    },
+    {
+        "id": "180",
+        "name": "Dr. Martens",
+        "urlIdentifier": "dr-martens",
+        "legacyUrlIdentifier": "Dr.-Martens"
+    },
+    {
+        "id": "30163",
+        "name": "Saint Laurent",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Saint-Laurent-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Saint-Laurent-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Saint-Laurent-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Saint-Laurent-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Saint-Laurent-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Saint-Laurent-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "saint-laurent",
+        "legacyUrlIdentifier": "Saint-Laurent"
+    },
+    {
+        "id": "34376",
+        "name": "Rhude",
+        "urlIdentifier": "rhude",
+        "legacyUrlIdentifier": "Rhude"
+    },
+    {
+        "id": "28131",
+        "name": "Belvedere",
+        "urlIdentifier": "belvedere",
+        "legacyUrlIdentifier": "Belvedere"
+    },
+    {
+        "id": "32679",
+        "name": "Off-White",
+        "urlIdentifier": "off-white",
+        "legacyUrlIdentifier": "Off-White"
+    },
+    {
+        "id": "43763",
+        "name": "Who Decides War",
+        "urlIdentifier": "who-decides-war",
+        "legacyUrlIdentifier": "Who-Decides-War"
+    },
+    {
+        "id": "2723",
+        "name": "Asics",
+        "urlIdentifier": "asics",
+        "legacyUrlIdentifier": "Asics"
+    },
+    {
+        "id": "230",
+        "name": "Frye",
+        "urlIdentifier": "frye",
+        "legacyUrlIdentifier": "Frye"
+    },
+    {
+        "id": "33063",
+        "name": "Rag & Bone",
+        "urlIdentifier": "rag-bone",
+        "legacyUrlIdentifier": "Rag-and-Bone"
+    },
+    {
+        "id": "47036",
+        "name": "Dr\u00f4le De Monsieur",
+        "urlIdentifier": "drole-de-monsieur",
+        "legacyUrlIdentifier": "Drole-De-Monsieur"
+    },
+    {
+        "id": "21179",
+        "name": "Courreges",
+        "urlIdentifier": "courreges",
+        "legacyUrlIdentifier": "Courreges"
+    },
+    {
+        "id": "616",
+        "name": "Vince Camuto",
+        "urlIdentifier": "vince-camuto",
+        "legacyUrlIdentifier": "Vince-Camuto"
+    },
+    {
+        "id": "1076",
+        "name": "Dolce & Gabbana",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Dolce-and-Gabbana-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Dolce-and-Gabbana-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Dolce-and-Gabbana-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Dolce-and-Gabbana-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Dolce-and-Gabbana-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Dolce-and-Gabbana-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "dolce-gabbana",
+        "legacyUrlIdentifier": "Dolce-and-Gabbana"
+    },
+    {
+        "id": "1962",
+        "name": "Santorelli",
+        "urlIdentifier": "santorelli",
+        "legacyUrlIdentifier": "Santorelli"
+    },
+    {
+        "id": "30846",
+        "name": "Acne Studios",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Acne-Studios-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Acne-Studios-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Acne-Studios-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Acne-Studios-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Acne-Studios-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Acne-Studios-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "acne-studios",
+        "legacyUrlIdentifier": "Acne-Studios"
+    },
+    {
+        "id": "1225",
+        "name": "Giorgio Armani",
+        "urlIdentifier": "giorgio-armani",
+        "legacyUrlIdentifier": "Giorgio-Armani"
+    },
+    {
+        "id": "7988",
+        "name": "Sonneti",
+        "urlIdentifier": "sonneti",
+        "legacyUrlIdentifier": "Sonneti"
+    },
+    {
+        "id": "35390",
+        "name": "Cariuma",
+        "urlIdentifier": "cariuma",
+        "legacyUrlIdentifier": "Cariuma"
+    },
+    {
+        "id": "2446",
+        "name": "Gap",
+        "urlIdentifier": "gap",
+        "legacyUrlIdentifier": "Gap"
+    },
+    {
+        "id": "29798",
+        "name": "J.Crew Factory",
+        "urlIdentifier": "j-crew-factory",
+        "legacyUrlIdentifier": "J.Crew-Factory"
+    },
+    {
+        "id": "533",
+        "name": "Skechers",
+        "urlIdentifier": "skechers",
+        "legacyUrlIdentifier": "Skechers"
+    },
+    {
+        "id": "46683",
+        "name": "PENINSULA SWIMWEAR",
+        "urlIdentifier": "peninsula-swimwear",
+        "legacyUrlIdentifier": "PENINSULA-SWIMWEAR"
+    },
+    {
+        "id": "584",
+        "name": "Tommy Bahama",
+        "urlIdentifier": "tommy-bahama",
+        "legacyUrlIdentifier": "Tommy-Bahama"
+    },
+    {
+        "id": "1244",
+        "name": "GUESS",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/GUESS-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/GUESS-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/GUESS-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/GUESS-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/GUESS-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/GUESS-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "guess",
+        "legacyUrlIdentifier": "GUESS"
+    },
+    {
+        "id": "1873",
+        "name": "Ralph Lauren",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Ralph-Lauren-default@2x.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Ralph-Lauren-default@2x.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Ralph-Lauren-default@2x.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Ralph-Lauren-default@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Ralph-Lauren-default@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Ralph-Lauren-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "ralph-lauren",
+        "legacyUrlIdentifier": "Ralph-Lauren"
+    },
+    {
+        "id": "12164",
+        "name": "Barena",
+        "urlIdentifier": "barena",
+        "legacyUrlIdentifier": "Barena"
+    },
+    {
+        "id": "31435",
+        "name": "Comme des Gar\u00e7ons Homme Plus",
+        "urlIdentifier": "comme-des-garcons-homme-plus-31435",
+        "legacyUrlIdentifier": "Comme-des-Garcons-Homme-Plus"
+    },
+    {
+        "id": "36217",
+        "name": "Tom Wood",
+        "urlIdentifier": "tom-wood",
+        "legacyUrlIdentifier": "Tom-Wood"
+    },
+    {
+        "id": "32989",
+        "name": "Fear Of God",
+        "urlIdentifier": "fear-of-god",
+        "legacyUrlIdentifier": "Fear-Of-God"
+    },
+    {
+        "id": "2295",
+        "name": "B\u00f8rn",
+        "urlIdentifier": "born",
+        "legacyUrlIdentifier": "Born"
+    },
+    {
+        "id": "3012",
+        "name": "Khombu",
+        "urlIdentifier": "khombu",
+        "legacyUrlIdentifier": "Khombu"
+    },
+    {
+        "id": "156",
+        "name": "DKNY",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/DKNY-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/DKNY-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/DKNY-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/DKNY-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/DKNY-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/DKNY-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "dkny",
+        "legacyUrlIdentifier": "DKNY"
+    },
+    {
+        "id": "3239",
+        "name": "Salomon",
+        "urlIdentifier": "salomon",
+        "legacyUrlIdentifier": "Salomon"
+    },
+    {
+        "id": "1132",
+        "name": "Emporio Armani",
+        "urlIdentifier": "emporio-armani",
+        "legacyUrlIdentifier": "Emporio-Armani"
+    },
+    {
+        "id": "32280",
+        "name": "Jacquemus",
+        "urlIdentifier": "jacquemus",
+        "legacyUrlIdentifier": "Jacquemus"
+    },
+    {
+        "id": "891",
+        "name": "Canali",
+        "urlIdentifier": "canali",
+        "legacyUrlIdentifier": "Canali"
+    },
+    {
+        "id": "1091",
+        "name": "DSQUARED2",
+        "urlIdentifier": "dsquared2",
+        "legacyUrlIdentifier": "DSQUARED2"
+    },
+    {
+        "id": "30897",
+        "name": "Enfants Riches Deprimes",
+        "urlIdentifier": "enfants-riches-deprimes",
+        "legacyUrlIdentifier": "Enfants-Riches-Deprimes"
+    },
+    {
+        "id": "23724",
+        "name": "J.W.Anderson",
+        "urlIdentifier": "j-w-anderson",
+        "legacyUrlIdentifier": "J.W.Anderson"
+    },
+    {
+        "id": "21378",
+        "name": "Paraboot",
+        "urlIdentifier": "paraboot",
+        "legacyUrlIdentifier": "Paraboot"
+    },
+    {
+        "id": "14064",
+        "name": "Balmain",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Balmain-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Balmain-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Balmain-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Balmain-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Balmain-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Balmain-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "balmain",
+        "legacyUrlIdentifier": "Balmain"
+    },
+    {
+        "id": "273",
+        "name": "INC International Concepts",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/INC-International-Concepts-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/INC-International-Concepts-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/INC-International-Concepts-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/INC-International-Concepts-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/INC-International-Concepts-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/INC-International-Concepts-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "inc-international-concepts",
+        "legacyUrlIdentifier": "INC-International-Concepts"
+    },
+    {
+        "id": "46651",
+        "name": "ON Running",
+        "urlIdentifier": "on-running",
+        "legacyUrlIdentifier": "ON-Running"
+    },
+    {
+        "id": "6778",
+        "name": "Invicta",
+        "urlIdentifier": "invicta",
+        "legacyUrlIdentifier": "Invicta"
+    },
+    {
+        "id": "35656",
+        "name": "MONCLER GENIUS",
+        "urlIdentifier": "moncler-genius",
+        "legacyUrlIdentifier": "MONCLER-GENIUS"
+    },
+    {
+        "id": "510",
+        "name": "Saucony",
+        "urlIdentifier": "saucony",
+        "legacyUrlIdentifier": "Saucony"
+    },
+    {
+        "id": "2683",
+        "name": "Banana Republic",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Banana-Republic-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Banana-Republic-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Banana-Republic-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Banana-Republic-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Banana-Republic-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Banana-Republic-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "banana-republic",
+        "legacyUrlIdentifier": "Banana-Republic"
+    },
+    {
+        "id": "2329",
+        "name": "Vans",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Vans-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Vans-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Vans-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Vans-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Vans-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Vans-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "vans",
+        "legacyUrlIdentifier": "Vans"
+    },
+    {
+        "id": "2126",
+        "name": "To Boot",
+        "urlIdentifier": "to-boot",
+        "legacyUrlIdentifier": "To-Boot"
+    },
+    {
+        "id": "36079",
+        "name": "OppoSuits",
+        "urlIdentifier": "opposuits",
+        "legacyUrlIdentifier": "OppoSuits"
+    },
+    {
+        "id": "34528",
+        "name": "Feng Chen Wang",
+        "urlIdentifier": "feng-chen-wang",
+        "legacyUrlIdentifier": "Feng-Chen-Wang"
+    },
+    {
+        "id": "1651",
+        "name": "Mephisto",
+        "urlIdentifier": "mephisto",
+        "legacyUrlIdentifier": "Mephisto"
+    },
+    {
+        "id": "17981",
+        "name": "Sun 68",
+        "urlIdentifier": "sun-68",
+        "legacyUrlIdentifier": "Sun-68"
+    },
+    {
+        "id": "578",
+        "name": "The North Face",
+        "urlIdentifier": "the-north-face",
+        "legacyUrlIdentifier": "The-North-Face"
+    },
+    {
+        "id": "3376",
+        "name": "Wolverine",
+        "urlIdentifier": "wolverine",
+        "legacyUrlIdentifier": "Wolverine"
+    },
+    {
+        "id": "130",
+        "name": "Citizen",
+        "urlIdentifier": "citizen",
+        "legacyUrlIdentifier": "Citizen"
+    },
+    {
+        "id": "44631",
+        "name": "EA7 Emporio Armani",
+        "urlIdentifier": "ea7-emporio-armani",
+        "legacyUrlIdentifier": "EA7-Emporio-Armani"
+    },
+    {
+        "id": "43849",
+        "name": "Casablanca",
+        "urlIdentifier": "casablanca",
+        "legacyUrlIdentifier": "Casablanca"
+    },
+    {
+        "id": "172",
+        "name": "Diesel",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Diesel-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Diesel-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Diesel-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Diesel-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Diesel-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Diesel-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "diesel",
+        "legacyUrlIdentifier": "Diesel"
+    },
+    {
+        "id": "418",
+        "name": "New Balance",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/New-Balance-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/New-Balance-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/New-Balance-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/New-Balance-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/New-Balance-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/New-Balance-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "new-balance",
+        "legacyUrlIdentifier": "New-Balance"
+    },
+    {
+        "id": "45854",
+        "name": "Versace Jeans Couture",
+        "urlIdentifier": "versace-jeans-couture",
+        "legacyUrlIdentifier": "Versace-Jeans-Couture"
+    },
+    {
+        "id": "47373",
+        "name": "Valentino Garavani",
+        "urlIdentifier": "valentino-garavani",
+        "legacyUrlIdentifier": "Valentino-Garavani"
+    },
+    {
+        "id": "45779",
+        "name": "Purple Brand",
+        "urlIdentifier": "purple-brand",
+        "legacyUrlIdentifier": "Purple-Brand"
+    },
+    {
+        "id": "959",
+        "name": "Christian Louboutin",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Christian-Louboutin-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Christian-Louboutin-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Christian-Louboutin-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Christian-Louboutin-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Christian-Louboutin-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Christian-Louboutin-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "christian-louboutin",
+        "legacyUrlIdentifier": "Christian-Louboutin"
+    },
+    {
+        "id": "2311",
+        "name": "Louis Vuitton",
+        "urlIdentifier": "louis-vuitton",
+        "legacyUrlIdentifier": "Louis-Vuitton"
+    },
+    {
+        "id": "45928",
+        "name": "GALLERY DEPT.",
+        "urlIdentifier": "gallery-dept",
+        "legacyUrlIdentifier": "GALLERY-DEPT."
+    },
+    {
+        "id": "284",
+        "name": "J.Crew",
+        "urlIdentifier": "j-crew",
+        "legacyUrlIdentifier": "J.Crew"
+    },
+    {
+        "id": "1487",
+        "name": "Lanvin",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Lanvin-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Lanvin-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Lanvin-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Lanvin-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Lanvin-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Lanvin-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "lanvin",
+        "legacyUrlIdentifier": "Lanvin"
+    },
+    {
+        "id": "34812",
+        "name": "Twisted Tailor",
+        "urlIdentifier": "twisted-tailor",
+        "legacyUrlIdentifier": "Twisted-Tailor"
+    },
+    {
+        "id": "29045",
+        "name": "Paul & Shark",
+        "urlIdentifier": "paul-shark",
+        "legacyUrlIdentifier": "Paul-and-Shark"
+    },
+    {
+        "id": "31988",
+        "name": "MAISON KITSUN\u00c9",
+        "urlIdentifier": "maison-kitsune",
+        "legacyUrlIdentifier": "MAISON-KITSUNE"
+    },
+    {
+        "id": "701",
+        "name": "Allen Edmonds",
+        "urlIdentifier": "allen-edmonds",
+        "legacyUrlIdentifier": "Allen-Edmonds"
+    },
+    {
+        "id": "1430",
+        "name": "Karl Lagerfeld Paris",
+        "urlIdentifier": "karl-lagerfeld",
+        "legacyUrlIdentifier": "Karl-Lagerfeld-Paris"
+    },
+    {
+        "id": "138",
+        "name": "Club Room",
+        "urlIdentifier": "club-room",
+        "legacyUrlIdentifier": "Club-Room"
+    },
+    {
+        "id": "15479",
+        "name": "Jack Victor",
+        "urlIdentifier": "jack-victor",
+        "legacyUrlIdentifier": "Jack-Victor"
+    },
+    {
+        "id": "8182",
+        "name": "Junya Watanabe",
+        "urlIdentifier": "junya-watanabe",
+        "legacyUrlIdentifier": "Junya-Watanabe"
+    },
+    {
+        "id": "14235",
+        "name": "Found",
+        "urlIdentifier": "found",
+        "legacyUrlIdentifier": "Found"
+    },
+    {
+        "id": "35424",
+        "name": "Hoka One One",
+        "urlIdentifier": "hoka-one-one",
+        "legacyUrlIdentifier": "Hoka-One-One"
+    },
+    {
+        "id": "35911",
+        "name": "Homme Pliss\u00e9 Issey Miyake",
+        "urlIdentifier": "homme-plisse-issey-miyake",
+        "legacyUrlIdentifier": "Homme-Plisse-Issey-Miyake"
+    },
+    {
+        "id": "3733",
+        "name": "Vivienne Westwood",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Vivienne-Westwood-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Vivienne-Westwood-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Vivienne-Westwood-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Vivienne-Westwood-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Vivienne-Westwood-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Vivienne-Westwood-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "vivienne-westwood",
+        "legacyUrlIdentifier": "Vivienne-Westwood"
+    },
+    {
+        "id": "2498",
+        "name": "Kenzo",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Kenzo-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Kenzo-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Kenzo-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Kenzo-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Kenzo-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Kenzo-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "kenzo",
+        "legacyUrlIdentifier": "Kenzo"
+    },
+    {
+        "id": "32931",
+        "name": "Adieu",
+        "urlIdentifier": "adieu",
+        "legacyUrlIdentifier": "Adieu"
+    },
+    {
+        "id": "30810",
+        "name": "H&M",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/HandM-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/HandM-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/HandM-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/HandM-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/HandM-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/HandM-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "h-m",
+        "legacyUrlIdentifier": "HandM"
+    },
+    {
+        "id": "34271",
+        "name": "John Elliott",
+        "urlIdentifier": "john-elliott",
+        "legacyUrlIdentifier": "John-Elliott"
+    },
+    {
+        "id": "36061",
+        "name": "Nike SB",
+        "urlIdentifier": "nike-sb",
+        "legacyUrlIdentifier": "Nike-SB"
+    },
+    {
+        "id": "32925",
+        "name": "Vetements",
+        "urlIdentifier": "vetements",
+        "legacyUrlIdentifier": "Vetements"
+    },
+    {
+        "id": "34418",
+        "name": "American Stitch",
+        "urlIdentifier": "american-stitch",
+        "legacyUrlIdentifier": "American-Stitch"
+    },
+    {
+        "id": "1883",
+        "name": "Ray-Ban",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Ray-Ban-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Ray-Ban-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Ray-Ban-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Ray-Ban-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Ray-Ban-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Ray-Ban-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "ray-ban",
+        "legacyUrlIdentifier": "Ray-Ban"
+    },
+    {
+        "id": "415",
+        "name": "Nautica",
+        "urlIdentifier": "nautica",
+        "legacyUrlIdentifier": "Nautica"
+    },
+    {
+        "id": "427",
+        "name": "Nordstrom",
+        "urlIdentifier": "nordstrom",
+        "legacyUrlIdentifier": "Nordstrom"
+    },
+    {
+        "id": "1795",
+        "name": "Paul Smith",
+        "urlIdentifier": "paul-smith",
+        "legacyUrlIdentifier": "Paul-Smith"
+    },
+    {
+        "id": "12534",
+        "name": "Mars\u00e8ll",
+        "urlIdentifier": "marsell",
+        "legacyUrlIdentifier": "Marsell"
+    },
+    {
+        "id": "48188",
+        "name": "Quince",
+        "urlIdentifier": "quince",
+        "legacyUrlIdentifier": "Quince"
+    },
+    {
+        "id": "45630",
+        "name": "AMI Paris",
+        "urlIdentifier": "ami-paris",
+        "legacyUrlIdentifier": "AMI-Paris"
+    },
+    {
+        "id": "321",
+        "name": "Kenneth Cole",
+        "urlIdentifier": "kenneth-cole",
+        "legacyUrlIdentifier": "Kenneth-Cole"
+    },
+    {
+        "id": "36077",
+        "name": "On",
+        "urlIdentifier": "on",
+        "legacyUrlIdentifier": "On"
+    },
+    {
+        "id": "268",
+        "name": "Hush Puppies",
+        "urlIdentifier": "hush-puppies",
+        "legacyUrlIdentifier": "Hush-Puppies"
+    },
+    {
+        "id": "32041",
+        "name": "Alo Yoga",
+        "urlIdentifier": "alo-yoga",
+        "legacyUrlIdentifier": "Alo-Yoga"
+    },
+    {
+        "id": "48032",
+        "name": "Moussy Vintage",
+        "urlIdentifier": "moussy-vintage",
+        "legacyUrlIdentifier": "Moussy-Vintage"
+    },
+    {
+        "id": "36209",
+        "name": "Thomas & Vine",
+        "urlIdentifier": "thomas-vine",
+        "legacyUrlIdentifier": "Thomas-and-Vine"
+    },
+    {
+        "id": "582",
+        "name": "Timberland",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Timberland-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Timberland-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Timberland-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Timberland-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Timberland-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Timberland-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "timberland",
+        "legacyUrlIdentifier": "Timberland"
+    },
+    {
+        "id": "2659",
+        "name": "Billabong",
+        "urlIdentifier": "billabong",
+        "legacyUrlIdentifier": "Billabong"
+    },
+    {
+        "id": "580",
+        "name": "Theory",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Theory-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Theory-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Theory-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Theory-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Theory-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Theory-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "theory",
+        "legacyUrlIdentifier": "Theory"
+    },
+    {
+        "id": "1254",
+        "name": "Hanro",
+        "urlIdentifier": "hanro",
+        "legacyUrlIdentifier": "Hanro"
+    },
+    {
+        "id": "2811",
+        "name": "Cobian",
+        "urlIdentifier": "cobian",
+        "legacyUrlIdentifier": "Cobian"
+    },
+    {
+        "id": "35772",
+        "name": "Bode",
+        "urlIdentifier": "bode",
+        "legacyUrlIdentifier": "Bode"
+    },
+    {
+        "id": "2098",
+        "name": "Ted Baker",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Ted-Baker-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Ted-Baker-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Ted-Baker-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Ted-Baker-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Ted-Baker-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Ted-Baker-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "ted-baker",
+        "legacyUrlIdentifier": "Ted-Baker"
+    },
+    {
+        "id": "1011",
+        "name": "Crocs",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Crocs-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Crocs-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Crocs-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Crocs-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Crocs-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Crocs-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "crocs",
+        "legacyUrlIdentifier": "Crocs"
+    },
+    {
+        "id": "1683",
+        "name": "Moncler",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Moncler-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Moncler-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Moncler-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Moncler-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Moncler-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Moncler-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "moncler",
+        "legacyUrlIdentifier": "Moncler"
+    },
+    {
+        "id": "44910",
+        "name": "Melin",
+        "urlIdentifier": "melin",
+        "legacyUrlIdentifier": "Melin"
+    },
+    {
+        "id": "34351",
+        "name": "Marine Serre",
+        "urlIdentifier": "marine-serre",
+        "legacyUrlIdentifier": "Marine-Serre"
+    },
+    {
+        "id": "14087",
+        "name": "Reiss",
+        "urlIdentifier": "reiss",
+        "legacyUrlIdentifier": "Reiss"
+    },
+    {
+        "id": "36524",
+        "name": "Represent",
+        "urlIdentifier": "represent",
+        "legacyUrlIdentifier": "Represent"
+    },
+    {
+        "id": "777",
+        "name": "Bally",
+        "urlIdentifier": "bally",
+        "legacyUrlIdentifier": "Bally"
+    },
+    {
+        "id": "3436",
+        "name": "Ferrari",
+        "urlIdentifier": "ferrari",
+        "legacyUrlIdentifier": "Ferrari"
+    },
+    {
+        "id": "33879",
+        "name": "ICECREAM",
+        "urlIdentifier": "icecream",
+        "legacyUrlIdentifier": "ICECREAM"
+    },
+    {
+        "id": "12668",
+        "name": "Ralph Lauren Purple Label",
+        "urlIdentifier": "ralph-lauren-purple-label",
+        "legacyUrlIdentifier": "Ralph-Lauren-Purple-Label"
+    },
+    {
+        "id": "366",
+        "name": "Lucky Brand",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Lucky-Brand-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Lucky-Brand-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Lucky-Brand-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Lucky-Brand-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Lucky-Brand-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Lucky-Brand-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "lucky-brand",
+        "legacyUrlIdentifier": "Lucky-Brand"
+    },
+    {
+        "id": "34654",
+        "name": "Marc Joseph New York",
+        "urlIdentifier": "marc-joseph-new-york",
+        "legacyUrlIdentifier": "Marc-Joseph-New-York"
+    },
+    {
+        "id": "34916",
+        "name": "KAPITAL",
+        "urlIdentifier": "kapital",
+        "legacyUrlIdentifier": "KAPITAL"
+    },
+    {
+        "id": "931",
+        "name": "Celine",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Celine-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Celine-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Celine-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Celine-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Celine-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Celine-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "celine",
+        "legacyUrlIdentifier": "Celine"
+    },
+    {
+        "id": "6",
+        "name": "AG Jeans",
+        "urlIdentifier": "ag-jeans",
+        "legacyUrlIdentifier": "AG-Jeans"
+    },
+    {
+        "id": "34640",
+        "name": "Needles",
+        "urlIdentifier": "needles",
+        "legacyUrlIdentifier": "Needles"
+    },
+    {
+        "id": "17656",
+        "name": "Report Collection",
+        "urlIdentifier": "report-collection",
+        "legacyUrlIdentifier": "Report-Collection"
+    },
+    {
+        "id": "45244",
+        "name": "Balmain Eyewear",
+        "urlIdentifier": "balmain-eyewear",
+        "legacyUrlIdentifier": "Balmain-Eyewear"
+    },
+    {
+        "id": "28721",
+        "name": "The Kooples",
+        "urlIdentifier": "the-kooples",
+        "legacyUrlIdentifier": "The-Kooples"
+    },
+    {
+        "id": "20",
+        "name": "Alfani",
+        "urlIdentifier": "alfani",
+        "legacyUrlIdentifier": "Alfani"
+    },
+    {
+        "id": "21236",
+        "name": "Madewell",
+        "urlIdentifier": "madewell",
+        "legacyUrlIdentifier": "Madewell"
+    },
+    {
+        "id": "20382",
+        "name": "Doucal's",
+        "urlIdentifier": "doucals",
+        "legacyUrlIdentifier": "Doucals"
+    },
+    {
+        "id": "25923",
+        "name": "Yuketen",
+        "urlIdentifier": "yuketen",
+        "legacyUrlIdentifier": "Yuketen"
+    },
+    {
+        "id": "391",
+        "name": "Michael Kors",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Michael-Kors-default@2x.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Michael-Kors-default@2x.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Michael-Kors-default@2x.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Michael-Kors-default@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Michael-Kors-default@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Michael-Kors-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "michael-kors",
+        "legacyUrlIdentifier": "Michael-Kors"
+    },
+    {
+        "id": "1961",
+        "name": "Santoni",
+        "urlIdentifier": "santoni",
+        "legacyUrlIdentifier": "Santoni"
+    },
+    {
+        "id": "933",
+        "name": "Cesare Paciotti",
+        "urlIdentifier": "cesare-paciotti",
+        "legacyUrlIdentifier": "Cesare-Paciotti"
+    },
+    {
+        "id": "22683",
+        "name": "G.H. Bass",
+        "urlIdentifier": "g-h-bass",
+        "legacyUrlIdentifier": "G.H.-Bass"
+    },
+    {
+        "id": "35661",
+        "name": "ANDERSSON BELL",
+        "urlIdentifier": "andersson-bell",
+        "legacyUrlIdentifier": "ANDERSSON-BELL"
+    },
+    {
+        "id": "34195",
+        "name": "Bershka",
+        "urlIdentifier": "bershka",
+        "legacyUrlIdentifier": "Bershka"
+    },
+    {
+        "id": "43829",
+        "name": "Versace Underwear",
+        "urlIdentifier": "versace-underwear",
+        "legacyUrlIdentifier": "Versace-Underwear"
+    },
+    {
+        "id": "47928",
+        "name": "Celine Homme",
+        "urlIdentifier": "celine-homme",
+        "legacyUrlIdentifier": "Celine-Homme"
+    },
+    {
+        "id": "19934",
+        "name": "MASTERPIECE",
+        "urlIdentifier": "masterpiece",
+        "legacyUrlIdentifier": "MASTERPIECE"
+    },
+    {
+        "id": "7610",
+        "name": "Duchamp",
+        "urlIdentifier": "duchamp",
+        "legacyUrlIdentifier": "Duchamp"
+    },
+    {
+        "id": "1390",
+        "name": "Johnston & Murphy",
+        "urlIdentifier": "johnston-murphy",
+        "legacyUrlIdentifier": "Johnston-and-Murphy"
+    },
+    {
+        "id": "36333",
+        "name": "Abound",
+        "urlIdentifier": "abound",
+        "legacyUrlIdentifier": "Abound"
+    },
+    {
+        "id": "15315",
+        "name": "Crown Vintage",
+        "urlIdentifier": "crown-vintage",
+        "legacyUrlIdentifier": "Crown-Vintage"
+    },
+    {
+        "id": "21363",
+        "name": "Julius",
+        "urlIdentifier": "julius",
+        "legacyUrlIdentifier": "Julius"
+    },
+    {
+        "id": "32380",
+        "name": "Mix No. 6",
+        "urlIdentifier": "mix-no-6",
+        "legacyUrlIdentifier": "Mix-No.-6"
+    },
+    {
+        "id": "32809",
+        "name": "Purple Label",
+        "urlIdentifier": "purple-label",
+        "legacyUrlIdentifier": "Purple-Label"
+    },
+    {
+        "id": "31838",
+        "name": "'47",
+        "urlIdentifier": "47",
+        "legacyUrlIdentifier": "47"
+    },
+    {
+        "id": "36375",
+        "name": "Mr P.",
+        "urlIdentifier": "mr-p",
+        "legacyUrlIdentifier": "Mr-P."
+    },
+    {
+        "id": "2313",
+        "name": "Obey",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Obey-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Obey-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Obey-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Obey-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Obey-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Obey-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "obey",
+        "legacyUrlIdentifier": "Obey"
+    },
+    {
+        "id": "1385",
+        "name": "John Varvatos",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/John-Varvatos-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/John-Varvatos-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/John-Varvatos-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/John-Varvatos-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/John-Varvatos-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/John-Varvatos-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "john-varvatos",
+        "legacyUrlIdentifier": "John-Varvatos"
+    },
+    {
+        "id": "34862",
+        "name": "GIOVANNI CONTI",
+        "urlIdentifier": "giovanni-conti",
+        "legacyUrlIdentifier": "GIOVANNI-CONTI"
+    },
+    {
+        "id": "1688",
+        "name": "Moschino",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Moschino-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Moschino-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Moschino-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Moschino-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Moschino-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Moschino-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "moschino",
+        "legacyUrlIdentifier": "Moschino"
+    },
+    {
+        "id": "43752",
+        "name": "AGOLDE",
+        "urlIdentifier": "agolde",
+        "legacyUrlIdentifier": "AGOLDE"
+    },
+    {
+        "id": "43863",
+        "name": "Doublet",
+        "urlIdentifier": "doublet",
+        "legacyUrlIdentifier": "Doublet"
+    },
+    {
+        "id": "8265",
+        "name": "Y-3",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Y-3-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Y-3-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Y-3-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Y-3-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Y-3-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Y-3-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "y-3",
+        "legacyUrlIdentifier": "Y-3"
+    },
+    {
+        "id": "36039",
+        "name": "Monfr\u00e8re",
+        "urlIdentifier": "monfrere",
+        "legacyUrlIdentifier": "Monfrere"
+    },
+    {
+        "id": "1146",
+        "name": "Etro",
+        "urlIdentifier": "etro",
+        "legacyUrlIdentifier": "Etro"
+    },
+    {
+        "id": "2911",
+        "name": "Florsheim",
+        "urlIdentifier": "florsheim",
+        "legacyUrlIdentifier": "Florsheim"
+    },
+    {
+        "id": "31247",
+        "name": "Onia",
+        "urlIdentifier": "onia",
+        "legacyUrlIdentifier": "Onia"
+    },
+    {
+        "id": "92",
+        "name": "Buffalo David Bitton",
+        "urlIdentifier": "buffalo-david-bitton",
+        "legacyUrlIdentifier": "Buffalo-David-Bitton"
+    },
+    {
+        "id": "21801",
+        "name": "Philipp Plein",
+        "urlIdentifier": "philipp-plein",
+        "legacyUrlIdentifier": "Philipp-Plein"
+    },
+    {
+        "id": "7471",
+        "name": "Zanerobe",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Zanerobe-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Zanerobe-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Zanerobe-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Zanerobe-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Zanerobe-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Zanerobe-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "zanerobe",
+        "legacyUrlIdentifier": "Zanerobe"
+    },
+    {
+        "id": "12953",
+        "name": "Topman",
+        "urlIdentifier": "topman",
+        "legacyUrlIdentifier": "Topman"
+    },
+    {
+        "id": "47863",
+        "name": "Comme des Gar\u00e7ons PLAY",
+        "urlIdentifier": "comme-des-garcons-play",
+        "legacyUrlIdentifier": "Comme-des-Garcons-PLAY"
+    },
+    {
+        "id": "7549",
+        "name": "Canada Goose",
+        "urlIdentifier": "canada-goose",
+        "legacyUrlIdentifier": "Canada-Goose"
+    },
+    {
+        "id": "2084",
+        "name": "Tailorbyrd",
+        "urlIdentifier": "tailorbyrd",
+        "legacyUrlIdentifier": "Tailorbyrd"
+    },
+    {
+        "id": "2331",
+        "name": "Armani Exchange",
+        "urlIdentifier": "armani-exchange",
+        "legacyUrlIdentifier": "Armani-Exchange"
+    },
+    {
+        "id": "35193",
+        "name": "Jerusalem Sandals",
+        "urlIdentifier": "jerusalem-sandals",
+        "legacyUrlIdentifier": "Jerusalem-Sandals"
+    },
+    {
+        "id": "32577",
+        "name": "Visvim",
+        "urlIdentifier": "visvim",
+        "legacyUrlIdentifier": "Visvim"
+    },
+    {
+        "id": "34520",
+        "name": "Snow Peak",
+        "urlIdentifier": "snow-peak",
+        "legacyUrlIdentifier": "Snow-Peak"
+    },
+    {
+        "id": "514",
+        "name": "Sean John",
+        "urlIdentifier": "sean-john",
+        "legacyUrlIdentifier": "Sean-John"
+    },
+    {
+        "id": "23720",
+        "name": "Izzue",
+        "urlIdentifier": "izzue",
+        "legacyUrlIdentifier": "Izzue"
+    },
+    {
+        "id": "7478",
+        "name": "AllSaints",
+        "urlIdentifier": "allsaints",
+        "legacyUrlIdentifier": "AllSaints"
+    },
+    {
+        "id": "23029",
+        "name": "Paul Stuart",
+        "urlIdentifier": "paul-stuart",
+        "legacyUrlIdentifier": "Paul-Stuart"
+    },
+    {
+        "id": "307",
+        "name": "Joseph Abboud",
+        "urlIdentifier": "joseph-abboud",
+        "legacyUrlIdentifier": "Joseph-Abboud"
+    },
+    {
+        "id": "28201",
+        "name": "Cult of Individuality",
+        "urlIdentifier": "cult-of-individuality",
+        "legacyUrlIdentifier": "Cult-of-Individuality"
+    },
+    {
+        "id": "33686",
+        "name": "A-Cold-Wall*",
+        "urlIdentifier": "a-cold-wall",
+        "legacyUrlIdentifier": "A-Cold-Wall"
+    },
+    {
+        "id": "34314",
+        "name": "Heron Preston",
+        "urlIdentifier": "heron-preston",
+        "legacyUrlIdentifier": "Heron-Preston"
+    },
+    {
+        "id": "862",
+        "name": "Bruno Magli",
+        "urlIdentifier": "bruno-magli",
+        "legacyUrlIdentifier": "Bruno-Magli"
+    },
+    {
+        "id": "35536",
+        "name": "Coach 1941",
+        "urlIdentifier": "coach-1941",
+        "legacyUrlIdentifier": "Coach-1941"
+    },
+    {
+        "id": "2211",
+        "name": "Vineyard Vines",
+        "urlIdentifier": "vineyard-vines",
+        "legacyUrlIdentifier": "Vineyard-Vines"
+    },
+    {
+        "id": "21775",
+        "name": "Church's",
+        "urlIdentifier": "churchs",
+        "legacyUrlIdentifier": "Churchs"
+    },
+    {
+        "id": "615",
+        "name": "Victorinox",
+        "urlIdentifier": "victorinox",
+        "legacyUrlIdentifier": "Victorinox"
+    },
+    {
+        "id": "5382",
+        "name": "Eton",
+        "urlIdentifier": "eton",
+        "legacyUrlIdentifier": "Eton"
+    },
+    {
+        "id": "34884",
+        "name": "90 Degree By Reflex",
+        "urlIdentifier": "90-degree-by-reflex",
+        "legacyUrlIdentifier": "90-Degree-By-Reflex"
+    },
+    {
+        "id": "18362",
+        "name": "Billionaire Boys Club",
+        "urlIdentifier": "billionaire-boys-club",
+        "legacyUrlIdentifier": "Billionaire-Boys-Club"
+    },
+    {
+        "id": "3517",
+        "name": "A.P.C.",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/A.P.C.-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/A.P.C.-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/A.P.C.-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/A.P.C.-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/A.P.C.-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/A.P.C.-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "a-p-c",
+        "legacyUrlIdentifier": "A.P.C."
+    },
+    {
+        "id": "2184",
+        "name": "Under Armour",
+        "urlIdentifier": "under-armour",
+        "legacyUrlIdentifier": "Under-Armour"
+    },
+    {
+        "id": "28328",
+        "name": "Josmo",
+        "urlIdentifier": "josmo",
+        "legacyUrlIdentifier": "Josmo"
+    },
+    {
+        "id": "35955",
+        "name": "KIKO KOSTADINOV",
+        "urlIdentifier": "kiko-kostadinov",
+        "legacyUrlIdentifier": "KIKO-KOSTADINOV"
+    },
+    {
+        "id": "34583",
+        "name": "14th & Union",
+        "urlIdentifier": "14th-union",
+        "legacyUrlIdentifier": "14th-and-Union"
+    },
+    {
+        "id": "12545",
+        "name": "MC2 Saint Barth",
+        "urlIdentifier": "mc2-saint-barth",
+        "legacyUrlIdentifier": "MC2-Saint-Barth"
+    },
+    {
+        "id": "8026",
+        "name": "Tissot",
+        "urlIdentifier": "tissot",
+        "legacyUrlIdentifier": "Tissot"
+    },
+    {
+        "id": "32477",
+        "name": "Rodd & Gunn",
+        "urlIdentifier": "rodd-gunn",
+        "legacyUrlIdentifier": "Rodd-and-Gunn"
+    },
+    {
+        "id": "34755",
+        "name": "Martin Dingman",
+        "urlIdentifier": "martin-dingman",
+        "legacyUrlIdentifier": "Martin-Dingman"
+    },
+    {
+        "id": "19611",
+        "name": "Star Wars",
+        "urlIdentifier": "star-wars",
+        "legacyUrlIdentifier": "Star-Wars"
+    },
+    {
+        "id": "1226",
+        "name": "Giuseppe Zanotti",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Giuseppe-Zanotti-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Giuseppe-Zanotti-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Giuseppe-Zanotti-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Giuseppe-Zanotti-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Giuseppe-Zanotti-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Giuseppe-Zanotti-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "giuseppe-zanotti",
+        "legacyUrlIdentifier": "Giuseppe-Zanotti"
+    },
+    {
+        "id": "4089",
+        "name": "Aldo",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Aldo-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Aldo-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Aldo-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Aldo-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Aldo-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Aldo-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "aldo",
+        "legacyUrlIdentifier": "Aldo"
+    },
+    {
+        "id": "36227",
+        "name": "Troubadour",
+        "urlIdentifier": "troubadour",
+        "legacyUrlIdentifier": "Troubadour"
+    },
+    {
+        "id": "44260",
+        "name": "Elevon",
+        "urlIdentifier": "elevon",
+        "legacyUrlIdentifier": "Elevon"
+    },
+    {
+        "id": "175",
+        "name": "Donald J Pliner",
+        "urlIdentifier": "donald-j-pliner",
+        "legacyUrlIdentifier": "Donald-J-Pliner"
+    },
+    {
+        "id": "3471",
+        "name": "Old Navy",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Old-Navy-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Old-Navy-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Old-Navy-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Old-Navy-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Old-Navy-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Old-Navy-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "old-navy",
+        "legacyUrlIdentifier": "Old-Navy"
+    },
+    {
+        "id": "2342",
+        "name": "Aeropostale",
+        "urlIdentifier": "aeropostale",
+        "legacyUrlIdentifier": "Aeropostale"
+    },
+    {
+        "id": "482",
+        "name": "Reebok",
+        "urlIdentifier": "reebok",
+        "legacyUrlIdentifier": "Reebok"
+    },
+    {
+        "id": "8361",
+        "name": "Locman",
+        "urlIdentifier": "locman",
+        "legacyUrlIdentifier": "Locman"
+    },
+    {
+        "id": "20714",
+        "name": "Avirex",
+        "urlIdentifier": "avirex",
+        "legacyUrlIdentifier": "Avirex"
+    },
+    {
+        "id": "2107",
+        "name": "Teva",
+        "urlIdentifier": "teva",
+        "legacyUrlIdentifier": "Teva"
+    },
+    {
+        "id": "82",
+        "name": "Blondo",
+        "urlIdentifier": "blondo",
+        "legacyUrlIdentifier": "Blondo"
+    },
+    {
+        "id": "7736",
+        "name": "John Smedley",
+        "urlIdentifier": "john-smedley",
+        "legacyUrlIdentifier": "John-Smedley"
+    },
+    {
+        "id": "33014",
+        "name": "Le Gramme",
+        "urlIdentifier": "le-gramme",
+        "legacyUrlIdentifier": "Le-Gramme"
+    },
+    {
+        "id": "2868",
+        "name": "Durango",
+        "urlIdentifier": "durango",
+        "legacyUrlIdentifier": "Durango"
+    },
+    {
+        "id": "26201",
+        "name": "Smartwool",
+        "urlIdentifier": "smartwool",
+        "legacyUrlIdentifier": "Smartwool"
+    },
+    {
+        "id": "22804",
+        "name": "Schott NYC",
+        "urlIdentifier": "schott-nyc",
+        "legacyUrlIdentifier": "Schott-NYC"
+    },
+    {
+        "id": "21805",
+        "name": "Reign",
+        "urlIdentifier": "reign",
+        "legacyUrlIdentifier": "Reign"
+    },
+    {
+        "id": "2673",
+        "name": "Osiris",
+        "urlIdentifier": "osiris",
+        "legacyUrlIdentifier": "Osiris"
+    },
+    {
+        "id": "32320",
+        "name": "Lemaire",
+        "urlIdentifier": "lemaire",
+        "legacyUrlIdentifier": "Lemaire"
+    },
+    {
+        "id": "44417",
+        "name": "Sun + Stone",
+        "urlIdentifier": "sun-stone",
+        "legacyUrlIdentifier": "Sun-Stone"
+    },
+    {
+        "id": "34124",
+        "name": "Harris Wharf London",
+        "urlIdentifier": "harris-wharf-london",
+        "legacyUrlIdentifier": "Harris-Wharf-London"
+    },
+    {
+        "id": "31808",
+        "name": "Simone Rocha",
+        "urlIdentifier": "simone-rocha",
+        "legacyUrlIdentifier": "Simone-Rocha"
+    },
+    {
+        "id": "779",
+        "name": "Barba",
+        "urlIdentifier": "barba",
+        "legacyUrlIdentifier": "Barba"
+    },
+    {
+        "id": "2258",
+        "name": "Yohji Yamamoto",
+        "urlIdentifier": "yohji-yamamoto",
+        "legacyUrlIdentifier": "Yohji-Yamamoto"
+    },
+    {
+        "id": "46367",
+        "name": "Henderson Baracco",
+        "urlIdentifier": "henderson-baracco",
+        "legacyUrlIdentifier": "Henderson-Baracco"
+    },
+    {
+        "id": "1166",
+        "name": "Fay",
+        "urlIdentifier": "fay",
+        "legacyUrlIdentifier": "Fay"
+    },
+    {
+        "id": "30953",
+        "name": "Todd Snyder",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Todd-Snyder-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Todd-Snyder-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Todd-Snyder-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Todd-Snyder-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Todd-Snyder-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Todd-Snyder-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "todd-snyder",
+        "legacyUrlIdentifier": "Todd-Snyder"
+    },
+    {
+        "id": "3377",
+        "name": "Woolrich",
+        "urlIdentifier": "woolrich",
+        "legacyUrlIdentifier": "Woolrich"
+    },
+    {
+        "id": "36452",
+        "name": "Scarosso",
+        "urlIdentifier": "scarosso",
+        "legacyUrlIdentifier": "Scarosso"
+    },
+    {
+        "id": "21920",
+        "name": "Arc'teryx",
+        "urlIdentifier": "arcteryx",
+        "legacyUrlIdentifier": "Arcteryx"
+    },
+    {
+        "id": "2669",
+        "name": "JanSport",
+        "urlIdentifier": "jansport",
+        "legacyUrlIdentifier": "JanSport"
+    },
+    {
+        "id": "25914",
+        "name": "Velva Sheen",
+        "urlIdentifier": "velva-sheen",
+        "legacyUrlIdentifier": "Velva-Sheen"
+    },
+    {
+        "id": "31806",
+        "name": "Rolex",
+        "urlIdentifier": "rolex",
+        "legacyUrlIdentifier": "Rolex"
+    },
+    {
+        "id": "30941",
+        "name": "Ami",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Ami-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Ami-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Ami-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Ami-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Ami-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Ami-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "ami",
+        "legacyUrlIdentifier": "Ami"
+    },
+    {
+        "id": "48183",
+        "name": "Gap Factory",
+        "urlIdentifier": "gap-factory",
+        "legacyUrlIdentifier": "Gap-Factory"
+    },
+    {
+        "id": "43869",
+        "name": "Innerraum",
+        "urlIdentifier": "innerraum",
+        "legacyUrlIdentifier": "Innerraum"
+    },
+    {
+        "id": "949",
+        "name": "Charvet",
+        "urlIdentifier": "charvet",
+        "legacyUrlIdentifier": "Charvet"
+    },
+    {
+        "id": "44001",
+        "name": "LE 17 SEPTEMBRE",
+        "urlIdentifier": "le-17-septembre",
+        "legacyUrlIdentifier": "LE-17-SEPTEMBRE"
+    },
+    {
+        "id": "12210",
+        "name": "C.P. Company",
+        "urlIdentifier": "c-p-company",
+        "legacyUrlIdentifier": "C.P.-Company"
+    },
+    {
+        "id": "5715",
+        "name": "Timex",
+        "urlIdentifier": "timex",
+        "legacyUrlIdentifier": "Timex"
+    },
+    {
+        "id": "1452",
+        "name": "Kiton",
+        "urlIdentifier": "kiton",
+        "legacyUrlIdentifier": "Kiton"
+    },
+    {
+        "id": "35940",
+        "name": "johnnie-O",
+        "urlIdentifier": "johnnie-o",
+        "legacyUrlIdentifier": "johnnie-O"
+    },
+    {
+        "id": "7767",
+        "name": "Kurt Geiger",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Kurt-Geiger-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Kurt-Geiger-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Kurt-Geiger-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Kurt-Geiger-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Kurt-Geiger-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Kurt-Geiger-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "kurt-geiger",
+        "legacyUrlIdentifier": "Kurt-Geiger"
+    },
+    {
+        "id": "47203",
+        "name": "Oofos",
+        "urlIdentifier": "oofos",
+        "legacyUrlIdentifier": "Oofos"
+    },
+    {
+        "id": "8408",
+        "name": "Peter Millar",
+        "urlIdentifier": "peter-millar",
+        "legacyUrlIdentifier": "Peter-Millar"
+    },
+    {
+        "id": "21381",
+        "name": "Psycho Bunny",
+        "urlIdentifier": "psycho-bunny",
+        "legacyUrlIdentifier": "Psycho-Bunny"
+    },
+    {
+        "id": "222",
+        "name": "Fossil",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Fossil-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Fossil-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Fossil-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Fossil-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Fossil-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Fossil-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "fossil",
+        "legacyUrlIdentifier": "Fossil"
+    },
+    {
+        "id": "3618",
+        "name": "Ksubi",
+        "urlIdentifier": "ksubi",
+        "legacyUrlIdentifier": "Ksubi"
+    },
+    {
+        "id": "15387",
+        "name": "Vittorio Russo",
+        "urlIdentifier": "vittorio-russo",
+        "legacyUrlIdentifier": "Vittorio-Russo"
+    },
+    {
+        "id": "7521",
+        "name": "Belstaff",
+        "urlIdentifier": "belstaff",
+        "legacyUrlIdentifier": "Belstaff"
+    },
+    {
+        "id": "3297",
+        "name": "Stefano Ricci",
+        "urlIdentifier": "stefano-ricci",
+        "legacyUrlIdentifier": "Stefano-Ricci"
+    },
+    {
+        "id": "34844",
+        "name": "Paisley & Gray",
+        "urlIdentifier": "paisley-gray",
+        "legacyUrlIdentifier": "Paisley-and-Gray"
+    },
+    {
+        "id": "44990",
+        "name": "Sprayground",
+        "urlIdentifier": "sprayground",
+        "legacyUrlIdentifier": "Sprayground"
+    },
+    {
+        "id": "45367",
+        "name": "Sporty & Rich",
+        "urlIdentifier": "sporty-rich",
+        "legacyUrlIdentifier": "Sporty-and-Rich"
+    },
+    {
+        "id": "34266",
+        "name": "COS",
+        "urlIdentifier": "cos",
+        "legacyUrlIdentifier": "COS"
+    },
+    {
+        "id": "45375",
+        "name": "This Is Never That",
+        "urlIdentifier": "this-is-never-that",
+        "legacyUrlIdentifier": "This-Is-Never-That"
+    },
+    {
+        "id": "47494",
+        "name": "RICK OWENS X CHAMPION",
+        "urlIdentifier": "rick-owens-x-champion",
+        "legacyUrlIdentifier": "RICK-OWENS-X-CHAMPION"
+    },
+    {
+        "id": "33198",
+        "name": "Frame",
+        "urlIdentifier": "frame",
+        "legacyUrlIdentifier": "Frame"
+    },
+    {
+        "id": "1767",
+        "name": "Original Penguin",
+        "urlIdentifier": "original-penguin",
+        "legacyUrlIdentifier": "Original-Penguin"
+    },
+    {
+        "id": "17984",
+        "name": "Tagliatore",
+        "urlIdentifier": "tagliatore",
+        "legacyUrlIdentifier": "Tagliatore"
+    },
+    {
+        "id": "136",
+        "name": "Clarks",
+        "urlIdentifier": "clarks",
+        "legacyUrlIdentifier": "Clarks"
+    },
+    {
+        "id": "290",
+        "name": "James Perse",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/James-Perse-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/James-Perse-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/James-Perse-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/James-Perse-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/James-Perse-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/James-Perse-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "james-perse",
+        "legacyUrlIdentifier": "James-Perse"
+    },
+    {
+        "id": "46963",
+        "name": "Willy Chavarria",
+        "urlIdentifier": "willy-chavarria",
+        "legacyUrlIdentifier": "Willy-Chavarria"
+    },
+    {
+        "id": "47129",
+        "name": "Duke + Dexter",
+        "urlIdentifier": "duke-dexter",
+        "legacyUrlIdentifier": "Duke-Dexter"
+    },
+    {
+        "id": "29353",
+        "name": "Lululemon",
+        "urlIdentifier": "lululemon",
+        "legacyUrlIdentifier": "Lululemon"
+    },
+    {
+        "id": "34160",
+        "name": "Ganni",
+        "urlIdentifier": "ganni",
+        "legacyUrlIdentifier": "Ganni"
+    },
+    {
+        "id": "1191",
+        "name": "Fred Perry",
+        "urlIdentifier": "fred-perry",
+        "legacyUrlIdentifier": "Fred-Perry"
+    },
+    {
+        "id": "45412",
+        "name": "ERL",
+        "urlIdentifier": "erl",
+        "legacyUrlIdentifier": "ERL"
+    },
+    {
+        "id": "32349",
+        "name": "Majestic International",
+        "urlIdentifier": "majestic-international",
+        "legacyUrlIdentifier": "Majestic-International"
+    },
+    {
+        "id": "47230",
+        "name": "Renowned",
+        "urlIdentifier": "renowned",
+        "legacyUrlIdentifier": "Renowned"
+    },
+    {
+        "id": "1289",
+        "name": "Hudson",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Hudson-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Hudson-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Hudson-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Hudson-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Hudson-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Hudson-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "hudson",
+        "legacyUrlIdentifier": "Hudson"
+    },
+    {
+        "id": "997",
+        "name": "Corneliani",
+        "urlIdentifier": "corneliani",
+        "legacyUrlIdentifier": "Corneliani"
+    },
+    {
+        "id": "33177",
+        "name": "M&S Collection",
+        "urlIdentifier": "m-s-collection",
+        "legacyUrlIdentifier": "MandS-Collection"
+    },
+    {
+        "id": "8393",
+        "name": "Noah",
+        "urlIdentifier": "noah",
+        "legacyUrlIdentifier": "Noah"
+    },
+    {
+        "id": "47681",
+        "name": "YUME YUME",
+        "urlIdentifier": "yume-yume",
+        "legacyUrlIdentifier": "YUME-YUME"
+    },
+    {
+        "id": "4817",
+        "name": "FitFlop",
+        "urlIdentifier": "fitflop",
+        "legacyUrlIdentifier": "FitFlop"
+    },
+    {
+        "id": "31774",
+        "name": "N.Peal",
+        "urlIdentifier": "n-peal",
+        "legacyUrlIdentifier": "N.Peal"
+    },
+    {
+        "id": "31437",
+        "name": "Comme des Gar\u00e7ons Shirt",
+        "urlIdentifier": "comme-des-garcons-shirt-31437",
+        "legacyUrlIdentifier": "Comme-des-Garcons-Shirt"
+    },
+    {
+        "id": "36205",
+        "name": "The Office of Angela Scott",
+        "urlIdentifier": "the-office-of-angela-scott",
+        "legacyUrlIdentifier": "The-Office-of-Angela-Scott"
+    },
+    {
+        "id": "1372",
+        "name": "Jil Sander",
+        "urlIdentifier": "jil-sander",
+        "legacyUrlIdentifier": "Jil-Sander"
+    },
+    {
+        "id": "2873",
+        "name": "Eastland",
+        "urlIdentifier": "eastland",
+        "legacyUrlIdentifier": "Eastland"
+    },
+    {
+        "id": "1133",
+        "name": "English Laundry",
+        "urlIdentifier": "english-laundry",
+        "legacyUrlIdentifier": "English-Laundry"
+    },
+    {
+        "id": "1896",
+        "name": "Reef",
+        "urlIdentifier": "reef",
+        "legacyUrlIdentifier": "Reef"
+    },
+    {
+        "id": "20402",
+        "name": "Herno",
+        "urlIdentifier": "herno",
+        "legacyUrlIdentifier": "Herno"
+    },
+    {
+        "id": "1775",
+        "name": "Paige",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Paige-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Paige-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Paige-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Paige-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Paige-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Paige-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "paige",
+        "legacyUrlIdentifier": "Paige"
+    },
+    {
+        "id": "34392",
+        "name": "MAISON FORTE",
+        "urlIdentifier": "maison-forte",
+        "legacyUrlIdentifier": "MAISON-FORTE"
+    },
+    {
+        "id": "28491",
+        "name": "Russell Athletic",
+        "urlIdentifier": "russell-athletic",
+        "legacyUrlIdentifier": "Russell-Athletic"
+    },
+    {
+        "id": "17688",
+        "name": "Sandro",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Sandro-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Sandro-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Sandro-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Sandro-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Sandro-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Sandro-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "sandro",
+        "legacyUrlIdentifier": "Sandro"
+    },
+    {
+        "id": "1416",
+        "name": "Just Cavalli",
+        "urlIdentifier": "just-cavalli",
+        "legacyUrlIdentifier": "Just-Cavalli"
+    },
+    {
+        "id": "8167",
+        "name": "Henrik Vibskov",
+        "urlIdentifier": "henrik-vibskov",
+        "legacyUrlIdentifier": "Henrik-Vibskov"
+    },
+    {
+        "id": "35441",
+        "name": "Thule",
+        "urlIdentifier": "thule",
+        "legacyUrlIdentifier": "Thule"
+    },
+    {
+        "id": "1018",
+        "name": "Cutter & Buck",
+        "urlIdentifier": "cutter-buck",
+        "legacyUrlIdentifier": "Cutter-and-Buck"
+    },
+    {
+        "id": "34053",
+        "name": "Martine Rose",
+        "urlIdentifier": "martine-rose",
+        "legacyUrlIdentifier": "Martine-Rose"
+    },
+    {
+        "id": "34343",
+        "name": "Alanui",
+        "urlIdentifier": "alanui",
+        "legacyUrlIdentifier": "Alanui"
+    },
+    {
+        "id": "1673",
+        "name": "Missoni",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Missoni-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Missoni-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Missoni-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Missoni-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Missoni-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Missoni-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "missoni",
+        "legacyUrlIdentifier": "Missoni"
+    },
+    {
+        "id": "15449",
+        "name": "Roberto Collina",
+        "urlIdentifier": "roberto-collina",
+        "legacyUrlIdentifier": "Roberto-Collina"
+    },
+    {
+        "id": "7879",
+        "name": "Officine Creative",
+        "urlIdentifier": "officine-creative",
+        "legacyUrlIdentifier": "Officine-Creative"
+    },
+    {
+        "id": "1279",
+        "name": "Hogan",
+        "urlIdentifier": "hogan",
+        "legacyUrlIdentifier": "Hogan"
+    },
+    {
+        "id": "34743",
+        "name": "Inis Me\u00e1in",
+        "urlIdentifier": "inis-meain",
+        "legacyUrlIdentifier": "Inis-Meain"
+    },
+    {
+        "id": "46699",
+        "name": "Pleasures",
+        "urlIdentifier": "pleasures",
+        "legacyUrlIdentifier": "Pleasures"
+    },
+    {
+        "id": "25132",
+        "name": "MSGM",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/MSGM-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/MSGM-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/MSGM-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/MSGM-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/MSGM-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/MSGM-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "msgm",
+        "legacyUrlIdentifier": "MSGM"
+    },
+    {
+        "id": "18520",
+        "name": "Isabel Marant",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Isabel-Marant-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Isabel-Marant-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Isabel-Marant-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Isabel-Marant-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Isabel-Marant-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Isabel-Marant-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "isabel-marant",
+        "legacyUrlIdentifier": "Isabel-Marant"
+    },
+    {
+        "id": "434",
+        "name": "Oakley",
+        "urlIdentifier": "oakley",
+        "legacyUrlIdentifier": "Oakley"
+    },
+    {
+        "id": "21185",
+        "name": "Descente",
+        "urlIdentifier": "descente",
+        "legacyUrlIdentifier": "Descente"
+    },
+    {
+        "id": "28",
+        "name": "Andrew Marc",
+        "urlIdentifier": "andrew-marc",
+        "legacyUrlIdentifier": "Andrew-Marc"
+    },
+    {
+        "id": "30942",
+        "name": "Billy Reid",
+        "urlIdentifier": "billy-reid",
+        "legacyUrlIdentifier": "Billy-Reid"
+    },
+    {
+        "id": "44455",
+        "name": "Vance Co.",
+        "urlIdentifier": "vance-co",
+        "legacyUrlIdentifier": "Vance-Co."
+    },
+    {
+        "id": "3892",
+        "name": "Jos. A. Bank",
+        "urlIdentifier": "jos-a-bank",
+        "legacyUrlIdentifier": "Jos.-A.-Bank"
+    },
+    {
+        "id": "3284",
+        "name": "Sorel",
+        "urlIdentifier": "sorel",
+        "legacyUrlIdentifier": "Sorel"
+    },
+    {
+        "id": "1274",
+        "name": "Hermes",
+        "urlIdentifier": "hermes",
+        "legacyUrlIdentifier": "Hermes"
+    },
+    {
+        "id": "14083",
+        "name": "Massimo Alba",
+        "urlIdentifier": "massimo-alba",
+        "legacyUrlIdentifier": "Massimo-Alba"
+    },
+    {
+        "id": "31832",
+        "name": "Rains",
+        "urlIdentifier": "rains",
+        "legacyUrlIdentifier": "Rains"
+    },
+    {
+        "id": "45426",
+        "name": "Vir\u00f3n",
+        "urlIdentifier": "viron",
+        "legacyUrlIdentifier": "Viron"
+    },
+    {
+        "id": "34801",
+        "name": "Axel Arigato",
+        "urlIdentifier": "axel-arigato",
+        "legacyUrlIdentifier": "Axel-Arigato"
+    },
+    {
+        "id": "19767",
+        "name": "A Bathing Ape",
+        "urlIdentifier": "a-bathing-ape",
+        "legacyUrlIdentifier": "A-Bathing-Ape"
+    },
+    {
+        "id": "3697",
+        "name": "Sacai",
+        "urlIdentifier": "sacai",
+        "legacyUrlIdentifier": "Sacai"
+    },
+    {
+        "id": "3295",
+        "name": "Stacy Adams",
+        "urlIdentifier": "stacy-adams",
+        "legacyUrlIdentifier": "Stacy-Adams"
+    },
+    {
+        "id": "12656",
+        "name": "Premiata",
+        "urlIdentifier": "premiata",
+        "legacyUrlIdentifier": "Premiata"
+    },
+    {
+        "id": "12756",
+        "name": "Tombolini",
+        "urlIdentifier": "tombolini",
+        "legacyUrlIdentifier": "Tombolini"
+    },
+    {
+        "id": "35797",
+        "name": "Carhartt Work In Progress",
+        "urlIdentifier": "carhartt-work-in-progress",
+        "legacyUrlIdentifier": "Carhartt-Work-In-Progress"
+    },
+    {
+        "id": "3359",
+        "name": "Vilebrequin",
+        "urlIdentifier": "vilebrequin",
+        "legacyUrlIdentifier": "Vilebrequin"
+    },
+    {
+        "id": "34543",
+        "name": "Charles Jeffrey Loverboy",
+        "urlIdentifier": "charles-jeffrey-loverboy",
+        "legacyUrlIdentifier": "Charles-Jeffrey-Loverboy"
+    },
+    {
+        "id": "890",
+        "name": "Camper",
+        "urlIdentifier": "camper",
+        "legacyUrlIdentifier": "Camper"
+    },
+    {
+        "id": "338",
+        "name": "Lauren Ralph Lauren",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Lauren-Ralph-Lauren-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Lauren-Ralph-Lauren-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Lauren-Ralph-Lauren-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Lauren-Ralph-Lauren-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Lauren-Ralph-Lauren-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Lauren-Ralph-Lauren-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "lauren-ralph-lauren",
+        "legacyUrlIdentifier": "Lauren-Ralph-Lauren"
+    },
+    {
+        "id": "33807",
+        "name": "Suicoke",
+        "urlIdentifier": "suicoke",
+        "legacyUrlIdentifier": "Suicoke"
+    },
+    {
+        "id": "12483",
+        "name": "Lardini",
+        "urlIdentifier": "lardini",
+        "legacyUrlIdentifier": "Lardini"
+    },
+    {
+        "id": "2160",
+        "name": "True Religion",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/True-Religion-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/True-Religion-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/True-Religion-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/True-Religion-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/True-Religion-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/True-Religion-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "true-religion",
+        "legacyUrlIdentifier": "True-Religion"
+    },
+    {
+        "id": "7718",
+        "name": "Jack and Jones",
+        "urlIdentifier": "jack-and-jones",
+        "legacyUrlIdentifier": "Jack-and-Jones"
+    },
+    {
+        "id": "6287",
+        "name": "Patagonia",
+        "urlIdentifier": "patagonia",
+        "legacyUrlIdentifier": "Patagonia"
+    },
+    {
+        "id": "1902",
+        "name": "Replay",
+        "urlIdentifier": "replay",
+        "legacyUrlIdentifier": "Replay"
+    },
+    {
+        "id": "45405",
+        "name": "BAPE",
+        "urlIdentifier": "bape",
+        "legacyUrlIdentifier": "BAPE"
+    },
+    {
+        "id": "43988",
+        "name": "KING & TUCKFIELD",
+        "urlIdentifier": "king-tuckfield",
+        "legacyUrlIdentifier": "KING-and-TUCKFIELD"
+    },
+    {
+        "id": "2843",
+        "name": "Deer Stags",
+        "urlIdentifier": "deer-stags",
+        "legacyUrlIdentifier": "Deer-Stags"
+    },
+    {
+        "id": "25876",
+        "name": "Our Legacy",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Our-Legacy-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Our-Legacy-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Our-Legacy-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Our-Legacy-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Our-Legacy-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Our-Legacy-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "our-legacy",
+        "legacyUrlIdentifier": "Our-Legacy"
+    },
+    {
+        "id": "47850",
+        "name": "Gucci Eyewear",
+        "urlIdentifier": "gucci-eyewear",
+        "legacyUrlIdentifier": "Gucci-Eyewear"
+    },
+    {
+        "id": "227",
+        "name": "French Connection",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/French-Connection-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/French-Connection-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/French-Connection-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/French-Connection-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/French-Connection-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/French-Connection-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "french-connection",
+        "legacyUrlIdentifier": "French-Connection"
+    },
+    {
+        "id": "23598",
+        "name": "Zella",
+        "urlIdentifier": "zella",
+        "legacyUrlIdentifier": "Zella"
+    },
+    {
+        "id": "911",
+        "name": "Carrera",
+        "urlIdentifier": "carrera",
+        "legacyUrlIdentifier": "Carrera"
+    },
+    {
+        "id": "2805",
+        "name": "Class Roberto Cavalli",
+        "urlIdentifier": "class-roberto-cavalli",
+        "legacyUrlIdentifier": "Class-Roberto-Cavalli"
+    },
+    {
+        "id": "46104",
+        "name": "Bontoni",
+        "urlIdentifier": "bontoni",
+        "legacyUrlIdentifier": "Bontoni"
+    },
+    {
+        "id": "32105",
+        "name": "Altra",
+        "urlIdentifier": "altra",
+        "legacyUrlIdentifier": "Altra"
+    },
+    {
+        "id": "31870",
+        "name": "ONLY & SONS",
+        "urlIdentifier": "only-sons",
+        "legacyUrlIdentifier": "ONLY-and-SONS"
+    },
+    {
+        "id": "32996",
+        "name": "H By Hudson",
+        "urlIdentifier": "h-by-hudson",
+        "legacyUrlIdentifier": "H-By-Hudson"
+    },
+    {
+        "id": "34979",
+        "name": "Carne Bollente",
+        "urlIdentifier": "carne-bollente",
+        "legacyUrlIdentifier": "Carne-Bollente"
+    },
+    {
+        "id": "32184",
+        "name": "Dune London",
+        "urlIdentifier": "dune-london",
+        "legacyUrlIdentifier": "Dune-London"
+    },
+    {
+        "id": "35145",
+        "name": "Petite Plume",
+        "urlIdentifier": "petite-plume",
+        "legacyUrlIdentifier": "Petite-Plume"
+    },
+    {
+        "id": "295",
+        "name": "Jockey",
+        "urlIdentifier": "jockey",
+        "legacyUrlIdentifier": "Jockey"
+    },
+    {
+        "id": "1916",
+        "name": "Robert Graham",
+        "urlIdentifier": "robert-graham",
+        "legacyUrlIdentifier": "Robert-Graham"
+    },
+    {
+        "id": "2765",
+        "name": "Bogs",
+        "urlIdentifier": "bogs",
+        "legacyUrlIdentifier": "Bogs"
+    },
+    {
+        "id": "2840",
+        "name": "DC",
+        "urlIdentifier": "dc",
+        "legacyUrlIdentifier": "DC"
+    },
+    {
+        "id": "2635",
+        "name": "UGG",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/UGG-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/UGG-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/UGG-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/UGG-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/UGG-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/UGG-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "ugg",
+        "legacyUrlIdentifier": "UGG"
+    },
+    {
+        "id": "46524",
+        "name": "MAD Paris",
+        "urlIdentifier": "mad-paris",
+        "legacyUrlIdentifier": "MAD-Paris"
+    },
+    {
+        "id": "45972",
+        "name": "Rick Owens X Veja",
+        "urlIdentifier": "rick-owens-x-veja",
+        "legacyUrlIdentifier": "Rick-Owens-X-Veja"
+    },
+    {
+        "id": "44924",
+        "name": "OAS",
+        "urlIdentifier": "oas",
+        "legacyUrlIdentifier": "OAS"
+    },
+    {
+        "id": "146",
+        "name": "Cosabella",
+        "urlIdentifier": "cosabella",
+        "legacyUrlIdentifier": "Cosabella"
+    },
+    {
+        "id": "45228",
+        "name": "AAPE BY *A BATHING APE\u00ae",
+        "urlIdentifier": "aape-by-a-bathing-ape",
+        "legacyUrlIdentifier": "AAPE-BY-A-BATHING-APE"
+    },
+    {
+        "id": "47861",
+        "name": "Tom Ford Eyewear",
+        "urlIdentifier": "tom-ford-eyewear",
+        "legacyUrlIdentifier": "Tom-Ford-Eyewear"
+    },
+    {
+        "id": "31859",
+        "name": "Isaia",
+        "urlIdentifier": "isaia",
+        "legacyUrlIdentifier": "Isaia"
+    },
+    {
+        "id": "35918",
+        "name": "Hydro Flask",
+        "urlIdentifier": "hydro-flask",
+        "legacyUrlIdentifier": "Hydro-Flask"
+    },
+    {
+        "id": "35392",
+        "name": "Naadam",
+        "urlIdentifier": "naadam",
+        "legacyUrlIdentifier": "Naadam"
+    },
+    {
+        "id": "32949",
+        "name": "Boris Bidjan Saberi",
+        "urlIdentifier": "boris-bidjan-saberi",
+        "legacyUrlIdentifier": "Boris-Bidjan-Saberi"
+    },
+    {
+        "id": "31626",
+        "name": "ATM Anthony Thomas Melillo",
+        "urlIdentifier": "atm-anthony-thomas-melillo",
+        "legacyUrlIdentifier": "ATM-Anthony-Thomas-Melillo"
+    },
+    {
+        "id": "31",
+        "name": "Anne Klein",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Anne-Klein-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Anne-Klein-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Anne-Klein-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Anne-Klein-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Anne-Klein-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Anne-Klein-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "anne-klein",
+        "legacyUrlIdentifier": "Anne-Klein"
+    },
+    {
+        "id": "31043",
+        "name": "Daniel Wellington",
+        "urlIdentifier": "daniel-wellington",
+        "legacyUrlIdentifier": "Daniel-Wellington"
+    },
+    {
+        "id": "322",
+        "name": "Kenneth Cole Reaction",
+        "urlIdentifier": "kenneth-cole-reaction",
+        "legacyUrlIdentifier": "Kenneth-Cole-Reaction"
+    },
+    {
+        "id": "505",
+        "name": "Samsonite",
+        "urlIdentifier": "samsonite",
+        "legacyUrlIdentifier": "Samsonite"
+    },
+    {
+        "id": "2575",
+        "name": "Pringle",
+        "urlIdentifier": "pringle",
+        "legacyUrlIdentifier": "Pringle"
+    },
+    {
+        "id": "544",
+        "name": "Sperry",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Sperry-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Sperry-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Sperry-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Sperry-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Sperry-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Sperry-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "sperry",
+        "legacyUrlIdentifier": "Sperry"
+    },
+    {
+        "id": "2280",
+        "name": "Columbia",
+        "urlIdentifier": "columbia",
+        "legacyUrlIdentifier": "Columbia"
+    },
+    {
+        "id": "7515",
+        "name": "Barbour",
+        "urlIdentifier": "barbour",
+        "legacyUrlIdentifier": "Barbour"
+    },
+    {
+        "id": "35291",
+        "name": "Samuel Hubbard",
+        "urlIdentifier": "samuel-hubbard",
+        "legacyUrlIdentifier": "Samuel-Hubbard"
+    },
+    {
+        "id": "22498",
+        "name": "Gran Sasso",
+        "urlIdentifier": "gran-sasso",
+        "legacyUrlIdentifier": "Gran-Sasso"
+    },
+    {
+        "id": "1943",
+        "name": "Saks Fifth Avenue",
+        "urlIdentifier": "saks-fifth-avenue",
+        "legacyUrlIdentifier": "Saks-Fifth-Avenue"
+    },
+    {
+        "id": "733",
+        "name": "Antonio Maurizi",
+        "urlIdentifier": "antonio-maurizi",
+        "legacyUrlIdentifier": "Antonio-Maurizi"
+    },
+    {
+        "id": "36560",
+        "name": "Hoodrich",
+        "urlIdentifier": "hoodrich",
+        "legacyUrlIdentifier": "Hoodrich"
+    },
+    {
+        "id": "3214",
+        "name": "Red Wing Shoes",
+        "urlIdentifier": "red-wing-shoes",
+        "legacyUrlIdentifier": "Red-Wing-Shoes"
+    },
+    {
+        "id": "45883",
+        "name": "Adidas x Craig Green",
+        "urlIdentifier": "adidas-x-craig-green",
+        "legacyUrlIdentifier": "Adidas-x-Craig-Green"
+    },
+    {
+        "id": "8260",
+        "name": "Undercover",
+        "urlIdentifier": "undercover",
+        "legacyUrlIdentifier": "Undercover"
+    },
+    {
+        "id": "32939",
+        "name": "Ami Alexandre Mattiussi",
+        "urlIdentifier": "ami-alexandre-mattiussi",
+        "legacyUrlIdentifier": "Ami-Alexandre-Mattiussi"
+    },
+    {
+        "id": "2791",
+        "name": "Carhartt",
+        "urlIdentifier": "carhartt",
+        "legacyUrlIdentifier": "Carhartt"
+    },
+    {
+        "id": "1603",
+        "name": "Manolo Blahnik",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Manolo-Blahnik-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Manolo-Blahnik-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Manolo-Blahnik-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Manolo-Blahnik-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Manolo-Blahnik-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Manolo-Blahnik-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "manolo-blahnik",
+        "legacyUrlIdentifier": "Manolo-Blahnik"
+    },
+    {
+        "id": "35690",
+        "name": "CARAVANA",
+        "urlIdentifier": "caravana",
+        "legacyUrlIdentifier": "CARAVANA"
+    },
+    {
+        "id": "36274",
+        "name": "Dolce & Gabbana Children",
+        "urlIdentifier": "dolce-gabbana-kids",
+        "legacyUrlIdentifier": "Dolce-and-Gabbana-Children"
+    },
+    {
+        "id": "33071",
+        "name": "SLOWEAR",
+        "urlIdentifier": "slowear",
+        "legacyUrlIdentifier": "SLOWEAR"
+    },
+    {
+        "id": "859",
+        "name": "Brioni",
+        "urlIdentifier": "brioni",
+        "legacyUrlIdentifier": "Brioni"
+    },
+    {
+        "id": "44174",
+        "name": "Avalanche",
+        "urlIdentifier": "avalanche",
+        "legacyUrlIdentifier": "Avalanche"
+    },
+    {
+        "id": "231",
+        "name": "Furla",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Furla-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Furla-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Furla-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Furla-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Furla-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Furla-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "furla",
+        "legacyUrlIdentifier": "Furla"
+    },
+    {
+        "id": "8017",
+        "name": "The Row",
+        "urlIdentifier": "the-row",
+        "legacyUrlIdentifier": "The-Row"
+    },
+    {
+        "id": "32297",
+        "name": "Juun.J",
+        "urlIdentifier": "juun-j",
+        "legacyUrlIdentifier": "Juun.J"
+    },
+    {
+        "id": "47892",
+        "name": "Clarks Originals",
+        "urlIdentifier": "clarks-originals",
+        "legacyUrlIdentifier": "Clarks-Originals"
+    },
+    {
+        "id": "2290",
+        "name": "Urban Outfitters",
+        "urlIdentifier": "urban-outfitters",
+        "legacyUrlIdentifier": "Urban-Outfitters"
+    },
+    {
+        "id": "4330",
+        "name": "Patek Philippe",
+        "urlIdentifier": "patek-philippe",
+        "legacyUrlIdentifier": "Patek-Philippe"
+    },
+    {
+        "id": "34250",
+        "name": "Moose Knuckles",
+        "urlIdentifier": "moose-knuckles",
+        "legacyUrlIdentifier": "Moose-Knuckles"
+    },
+    {
+        "id": "1095",
+        "name": "Dunhill",
+        "urlIdentifier": "dunhill",
+        "legacyUrlIdentifier": "Dunhill"
+    },
+    {
+        "id": "32277",
+        "name": "Jachs",
+        "urlIdentifier": "jachs",
+        "legacyUrlIdentifier": "Jachs"
+    },
+    {
+        "id": "7924",
+        "name": "Police",
+        "urlIdentifier": "police",
+        "legacyUrlIdentifier": "Police"
+    },
+    {
+        "id": "1293",
+        "name": "Hurley",
+        "urlIdentifier": "hurley",
+        "legacyUrlIdentifier": "Hurley"
+    },
+    {
+        "id": "46537",
+        "name": "Mallet",
+        "urlIdentifier": "mallet",
+        "legacyUrlIdentifier": "Mallet"
+    },
+    {
+        "id": "1637",
+        "name": "Maui Jim",
+        "urlIdentifier": "maui-jim",
+        "legacyUrlIdentifier": "Maui-Jim"
+    },
+    {
+        "id": "3",
+        "name": "7 For All Mankind",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/7-For-All-Mankind-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/7-For-All-Mankind-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/7-For-All-Mankind-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/7-For-All-Mankind-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/7-For-All-Mankind-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/7-For-All-Mankind-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "7-for-all-mankind",
+        "legacyUrlIdentifier": "7-For-All-Mankind"
+    },
+    {
+        "id": "32432",
+        "name": "Pact",
+        "urlIdentifier": "pact",
+        "legacyUrlIdentifier": "Pact"
+    },
+    {
+        "id": "28452",
+        "name": "Peanuts",
+        "urlIdentifier": "peanuts",
+        "legacyUrlIdentifier": "Peanuts"
+    },
+    {
+        "id": "47944",
+        "name": "Z by Zella",
+        "urlIdentifier": "z-by-zella",
+        "legacyUrlIdentifier": "Z-by-Zella"
+    },
+    {
+        "id": "47859",
+        "name": "Frame Denim",
+        "urlIdentifier": "frame-denim",
+        "legacyUrlIdentifier": "Frame-Denim"
+    },
+    {
+        "id": "23584",
+        "name": "Travis Mathew",
+        "urlIdentifier": "travis-mathew",
+        "legacyUrlIdentifier": "Travis-Mathew"
+    },
+    {
+        "id": "46267",
+        "name": "Ernest W. Baker",
+        "urlIdentifier": "ernest-w-baker",
+        "legacyUrlIdentifier": "Ernest-W.-Baker"
+    },
+    {
+        "id": "36464",
+        "name": "Random Identities",
+        "urlIdentifier": "random-identities",
+        "legacyUrlIdentifier": "Random-Identities"
+    },
+    {
+        "id": "1918",
+        "name": "Robert Talbott",
+        "urlIdentifier": "robert-talbott",
+        "legacyUrlIdentifier": "Robert-Talbott"
+    },
+    {
+        "id": "32647",
+        "name": "Glanshirt",
+        "urlIdentifier": "glanshirt",
+        "legacyUrlIdentifier": "Glanshirt"
+    },
+    {
+        "id": "3196",
+        "name": "PRPS",
+        "urlIdentifier": "prps",
+        "legacyUrlIdentifier": "PRPS"
+    },
+    {
+        "id": "35369",
+        "name": "Maison Labiche",
+        "urlIdentifier": "maison-labiche",
+        "legacyUrlIdentifier": "Maison-Labiche"
+    },
+    {
+        "id": "31871",
+        "name": "Ralph Lauren RRL",
+        "urlIdentifier": "ralph-lauren-rrl",
+        "legacyUrlIdentifier": "Ralph-Lauren-RRL"
+    },
+    {
+        "id": "33176",
+        "name": "LIRA",
+        "urlIdentifier": "lira",
+        "legacyUrlIdentifier": "LIRA"
+    },
+    {
+        "id": "34550",
+        "name": "P448",
+        "urlIdentifier": "p448",
+        "legacyUrlIdentifier": "P448"
+    },
+    {
+        "id": "32613",
+        "name": "Faherty",
+        "urlIdentifier": "faherty",
+        "legacyUrlIdentifier": "Faherty"
+    },
+    {
+        "id": "25342",
+        "name": "Tommy John",
+        "urlIdentifier": "tommy-john",
+        "legacyUrlIdentifier": "Tommy-John"
+    },
+    {
+        "id": "33083",
+        "name": "Wales Bonner",
+        "urlIdentifier": "wales-bonner",
+        "legacyUrlIdentifier": "Wales-Bonner"
+    },
+    {
+        "id": "32590",
+        "name": "Wooyoungmi",
+        "urlIdentifier": "wooyoungmi",
+        "legacyUrlIdentifier": "Wooyoungmi"
+    },
+    {
+        "id": "2795",
+        "name": "Caterpillar",
+        "urlIdentifier": "caterpillar",
+        "legacyUrlIdentifier": "Caterpillar"
+    },
+    {
+        "id": "236",
+        "name": "Geoffrey Beene",
+        "urlIdentifier": "geoffrey-beene",
+        "legacyUrlIdentifier": "Geoffrey-Beene"
+    },
+    {
+        "id": "1044",
+        "name": "David Yurman",
+        "urlIdentifier": "david-yurman",
+        "legacyUrlIdentifier": "David-Yurman"
+    },
+    {
+        "id": "25225",
+        "name": "R 13",
+        "urlIdentifier": "r-13",
+        "legacyUrlIdentifier": "R-13"
+    },
+    {
+        "id": "33068",
+        "name": "Satisfy",
+        "urlIdentifier": "satisfy",
+        "legacyUrlIdentifier": "Satisfy"
+    },
+    {
+        "id": "3891",
+        "name": "J. Lindeberg",
+        "urlIdentifier": "j-lindeberg",
+        "legacyUrlIdentifier": "J.-Lindeberg"
+    },
+    {
+        "id": "18580",
+        "name": "Andersons",
+        "urlIdentifier": "andersons",
+        "legacyUrlIdentifier": "Andersons"
+    },
+    {
+        "id": "1272",
+        "name": "Helmut Lang",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Helmut-Lang-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Helmut-Lang-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Helmut-Lang-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Helmut-Lang-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Helmut-Lang-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Helmut-Lang-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "helmut-lang",
+        "legacyUrlIdentifier": "Helmut-Lang"
+    },
+    {
+        "id": "44505",
+        "name": "Jacques Marie Mage",
+        "urlIdentifier": "jacques-marie-mage",
+        "legacyUrlIdentifier": "Jacques-Marie-Mage"
+    },
+    {
+        "id": "579",
+        "name": "The Sak",
+        "urlIdentifier": "the-sak",
+        "legacyUrlIdentifier": "The-Sak"
+    },
+    {
+        "id": "45847",
+        "name": "G\/Fore",
+        "urlIdentifier": "g-fore",
+        "legacyUrlIdentifier": "GFore"
+    },
+    {
+        "id": "45410",
+        "name": "DOPPIAA",
+        "urlIdentifier": "doppiaa",
+        "legacyUrlIdentifier": "DOPPIAA"
+    },
+    {
+        "id": "32048",
+        "name": "American Eagle Outfitters",
+        "urlIdentifier": "american-eagle-outfitters",
+        "legacyUrlIdentifier": "American-Eagle-Outfitters"
+    },
+    {
+        "id": "3973",
+        "name": "Mulberry",
+        "urlIdentifier": "mulberry",
+        "legacyUrlIdentifier": "Mulberry"
+    },
+    {
+        "id": "43889",
+        "name": "Nahmias",
+        "urlIdentifier": "nahmias",
+        "legacyUrlIdentifier": "Nahmias"
+    },
+    {
+        "id": "1674",
+        "name": "Miu Miu",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Miu-Miu-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Miu-Miu-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Miu-Miu-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Miu-Miu-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Miu-Miu-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Miu-Miu-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "miu-miu",
+        "legacyUrlIdentifier": "Miu-Miu"
+    },
+    {
+        "id": "20456",
+        "name": "Voile Blanche",
+        "urlIdentifier": "voile-blanche",
+        "legacyUrlIdentifier": "Voile-Blanche"
+    },
+    {
+        "id": "8436",
+        "name": "Sunspel",
+        "urlIdentifier": "sunspel",
+        "legacyUrlIdentifier": "Sunspel"
+    },
+    {
+        "id": "2303",
+        "name": "G Star",
+        "urlIdentifier": "g-star",
+        "legacyUrlIdentifier": "G-Star"
+    },
+    {
+        "id": "1685",
+        "name": "Montblanc",
+        "urlIdentifier": "montblanc",
+        "legacyUrlIdentifier": "Montblanc"
+    },
+    {
+        "id": "46382",
+        "name": "HONOR THE GIFT",
+        "urlIdentifier": "honor-the-gift",
+        "legacyUrlIdentifier": "HONOR-THE-GIFT"
+    },
+    {
+        "id": "93",
+        "name": "Bulova",
+        "urlIdentifier": "bulova",
+        "legacyUrlIdentifier": "Bulova"
+    },
+    {
+        "id": "5506",
+        "name": "Nudie Jeans",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Nudie-Jeans-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Nudie-Jeans-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Nudie-Jeans-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Nudie-Jeans-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Nudie-Jeans-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Nudie-Jeans-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "nudie-jeans",
+        "legacyUrlIdentifier": "Nudie-Jeans"
+    },
+    {
+        "id": "6126",
+        "name": "Members Only",
+        "urlIdentifier": "members-only",
+        "legacyUrlIdentifier": "Members-Only"
+    },
+    {
+        "id": "24931",
+        "name": "Herschel",
+        "urlIdentifier": "herschel",
+        "legacyUrlIdentifier": "Herschel"
+    },
+    {
+        "id": "19728",
+        "name": "Orlebar Brown",
+        "urlIdentifier": "orlebar-brown",
+        "legacyUrlIdentifier": "Orlebar-Brown"
+    },
+    {
+        "id": "12402",
+        "name": "Iceberg",
+        "urlIdentifier": "iceberg",
+        "legacyUrlIdentifier": "Iceberg"
+    },
+    {
+        "id": "1653",
+        "name": "Mezlan",
+        "urlIdentifier": "mezlan",
+        "legacyUrlIdentifier": "Mezlan"
+    },
+    {
+        "id": "5533",
+        "name": "Scotch & Soda",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Scotch-and-Soda-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Scotch-and-Soda-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Scotch-and-Soda-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Scotch-and-Soda-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Scotch-and-Soda-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Scotch-and-Soda-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "scotch-soda",
+        "legacyUrlIdentifier": "Scotch-and-Soda"
+    },
+    {
+        "id": "35812",
+        "name": "Chubbies",
+        "urlIdentifier": "chubbies",
+        "legacyUrlIdentifier": "Chubbies"
+    },
+    {
+        "id": "35901",
+        "name": "GREATS",
+        "urlIdentifier": "greats",
+        "legacyUrlIdentifier": "GREATS"
+    },
+    {
+        "id": "35899",
+        "name": "Goodlife",
+        "urlIdentifier": "goodlife",
+        "legacyUrlIdentifier": "Goodlife"
+    },
+    {
+        "id": "34679",
+        "name": "Mizzen+Main",
+        "urlIdentifier": "mizzen-main",
+        "legacyUrlIdentifier": "MizzenMain"
+    },
+    {
+        "id": "46235",
+        "name": "DRKSHDW Rick Owens",
+        "urlIdentifier": "drkshdw-rick-owens",
+        "legacyUrlIdentifier": "DRKSHDW-Rick-Owens"
+    },
+    {
+        "id": "1374",
+        "name": "Jimmy Choo",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Jimmy-Choo-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Jimmy-Choo-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Jimmy-Choo-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Jimmy-Choo-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Jimmy-Choo-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Jimmy-Choo-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "jimmy-choo",
+        "legacyUrlIdentifier": "Jimmy-Choo"
+    },
+    {
+        "id": "25327",
+        "name": "Ten C",
+        "urlIdentifier": "ten-c",
+        "legacyUrlIdentifier": "Ten-C"
+    },
+    {
+        "id": "31203",
+        "name": "Luigi Bianchi Mantova",
+        "urlIdentifier": "luigi-bianchi-mantova",
+        "legacyUrlIdentifier": "Luigi-Bianchi-Mantova"
+    },
+    {
+        "id": "46595",
+        "name": "MP Massimo Piombo",
+        "urlIdentifier": "mp-massimo-piombo",
+        "legacyUrlIdentifier": "MP-Massimo-Piombo"
+    },
+    {
+        "id": "3510",
+        "name": "Alexander Wang",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Alexander-Wang-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Alexander-Wang-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Alexander-Wang-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Alexander-Wang-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Alexander-Wang-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Alexander-Wang-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "alexander-wang",
+        "legacyUrlIdentifier": "Alexander-Wang"
+    },
+    {
+        "id": "380",
+        "name": "Mark Nason",
+        "urlIdentifier": "mark-nason",
+        "legacyUrlIdentifier": "Mark-Nason"
+    },
+    {
+        "id": "36262",
+        "name": "Zanzara",
+        "urlIdentifier": "zanzara",
+        "legacyUrlIdentifier": "Zanzara"
+    },
+    {
+        "id": "15400",
+        "name": "adidas by Stella McCartney",
+        "urlIdentifier": "adidas-by-stella-mccartney",
+        "legacyUrlIdentifier": "adidas-by-Stella-McCartney"
+    },
+    {
+        "id": "36253",
+        "name": "Wax London",
+        "urlIdentifier": "wax-london",
+        "legacyUrlIdentifier": "Wax-London"
+    },
+    {
+        "id": "32469",
+        "name": "Retrofit",
+        "urlIdentifier": "retrofit",
+        "legacyUrlIdentifier": "Retrofit"
+    },
+    {
+        "id": "601",
+        "name": "Tumi",
+        "urlIdentifier": "tumi",
+        "legacyUrlIdentifier": "Tumi"
+    },
+    {
+        "id": "3243",
+        "name": "Sanuk",
+        "urlIdentifier": "sanuk",
+        "legacyUrlIdentifier": "Sanuk"
+    },
+    {
+        "id": "34657",
+        "name": "Fioroni",
+        "urlIdentifier": "fioroni",
+        "legacyUrlIdentifier": "Fioroni"
+    },
+    {
+        "id": "33806",
+        "name": "Neighborhood",
+        "urlIdentifier": "neighborhood",
+        "legacyUrlIdentifier": "Neighborhood"
+    },
+    {
+        "id": "29685",
+        "name": "MCM",
+        "urlIdentifier": "mcm",
+        "legacyUrlIdentifier": "MCM"
+    },
+    {
+        "id": "775",
+        "name": "Ballantyne",
+        "urlIdentifier": "ballantyne",
+        "legacyUrlIdentifier": "Ballantyne"
+    },
+    {
+        "id": "32211",
+        "name": "Eytys",
+        "urlIdentifier": "eytys",
+        "legacyUrlIdentifier": "Eytys"
+    },
+    {
+        "id": "1777",
+        "name": "Pajar",
+        "urlIdentifier": "pajar",
+        "legacyUrlIdentifier": "Pajar"
+    },
+    {
+        "id": "3380",
+        "name": "X-Ray",
+        "urlIdentifier": "x-ray",
+        "legacyUrlIdentifier": "X-Ray"
+    },
+    {
+        "id": "46513",
+        "name": "Low Brand",
+        "urlIdentifier": "low-brand",
+        "legacyUrlIdentifier": "Low-Brand"
+    },
+    {
+        "id": "7037",
+        "name": "New Era",
+        "urlIdentifier": "new-era",
+        "legacyUrlIdentifier": "New-Era"
+    },
+    {
+        "id": "469",
+        "name": "Quiksilver",
+        "urlIdentifier": "quiksilver",
+        "legacyUrlIdentifier": "Quiksilver"
+    },
+    {
+        "id": "34565",
+        "name": "ROA",
+        "urlIdentifier": "roa",
+        "legacyUrlIdentifier": "ROA"
+    },
+    {
+        "id": "5117",
+        "name": "Peugeot",
+        "urlIdentifier": "peugeot",
+        "legacyUrlIdentifier": "Peugeot"
+    },
+    {
+        "id": "23691",
+        "name": "Zales",
+        "urlIdentifier": "zales",
+        "legacyUrlIdentifier": "Zales"
+    },
+    {
+        "id": "32283",
+        "name": "Jared Lang",
+        "urlIdentifier": "jared-lang",
+        "legacyUrlIdentifier": "Jared-Lang"
+    },
+    {
+        "id": "34171",
+        "name": "APL Athletic Propulsion Labs",
+        "urlIdentifier": "apl-athletic-propulsion-labs",
+        "legacyUrlIdentifier": "APL-Athletic-Propulsion-Labs"
+    },
+    {
+        "id": "4225",
+        "name": "Ion",
+        "urlIdentifier": "ion",
+        "legacyUrlIdentifier": "Ion"
+    },
+    {
+        "id": "43895",
+        "name": "Phipps",
+        "urlIdentifier": "phipps",
+        "legacyUrlIdentifier": "Phipps"
+    },
+    {
+        "id": "7938",
+        "name": "Raf Simons",
+        "urlIdentifier": "raf-simons",
+        "legacyUrlIdentifier": "Raf-Simons"
+    },
+    {
+        "id": "31314",
+        "name": "Slate & Stone",
+        "urlIdentifier": "slate-stone",
+        "legacyUrlIdentifier": "Slate-and-Stone"
+    },
+    {
+        "id": "46786",
+        "name": "Salvatore Santoro",
+        "urlIdentifier": "salvatore-santoro",
+        "legacyUrlIdentifier": "Salvatore-Santoro"
+    },
+    {
+        "id": "31363",
+        "name": "Vintage 1946",
+        "urlIdentifier": "vintage-1946",
+        "legacyUrlIdentifier": "Vintage-1946"
+    },
+    {
+        "id": "8007",
+        "name": "Swims",
+        "urlIdentifier": "swims",
+        "legacyUrlIdentifier": "Swims"
+    },
+    {
+        "id": "34707",
+        "name": "Warfield & Grand",
+        "urlIdentifier": "warfield-grand",
+        "legacyUrlIdentifier": "Warfield-and-Grand"
+    },
+    {
+        "id": "587",
+        "name": "Tommy Jeans",
+        "urlIdentifier": "tommy-jeans",
+        "legacyUrlIdentifier": "Tommy-Jeans"
+    },
+    {
+        "id": "47384",
+        "name": "Gimaguas",
+        "urlIdentifier": "gimaguas",
+        "legacyUrlIdentifier": "Gimaguas"
+    },
+    {
+        "id": "13095",
+        "name": "Fidelity",
+        "urlIdentifier": "fidelity",
+        "legacyUrlIdentifier": "Fidelity"
+    },
+    {
+        "id": "2887",
+        "name": "Emerica",
+        "urlIdentifier": "emerica",
+        "legacyUrlIdentifier": "Emerica"
+    },
+    {
+        "id": "34817",
+        "name": "Nick Fouquet",
+        "urlIdentifier": "nick-fouquet",
+        "legacyUrlIdentifier": "Nick-Fouquet"
+    },
+    {
+        "id": "32675",
+        "name": "NATIVE YOUTH",
+        "urlIdentifier": "native-youth",
+        "legacyUrlIdentifier": "NATIVE-YOUTH"
+    },
+    {
+        "id": "1906",
+        "name": "Richard James",
+        "urlIdentifier": "richard-james",
+        "legacyUrlIdentifier": "Richard-James"
+    },
+    {
+        "id": "47374",
+        "name": "Open Edit",
+        "urlIdentifier": "open-edit",
+        "legacyUrlIdentifier": "Open-Edit"
+    },
+    {
+        "id": "32000",
+        "name": "Umbro",
+        "urlIdentifier": "umbro",
+        "legacyUrlIdentifier": "Umbro"
+    },
+    {
+        "id": "46358",
+        "name": "Haikure",
+        "urlIdentifier": "haikure",
+        "legacyUrlIdentifier": "Haikure"
+    },
+    {
+        "id": "43885",
+        "name": "Matsuda",
+        "urlIdentifier": "matsuda",
+        "legacyUrlIdentifier": "Matsuda"
+    },
+    {
+        "id": "34046",
+        "name": "Allbirds",
+        "urlIdentifier": "allbirds",
+        "legacyUrlIdentifier": "Allbirds"
+    },
+    {
+        "id": "26225",
+        "name": "UFC",
+        "urlIdentifier": "ufc",
+        "legacyUrlIdentifier": "UFC"
+    },
+    {
+        "id": "34822",
+        "name": "S\u00e9fr",
+        "urlIdentifier": "sefr",
+        "legacyUrlIdentifier": "Sefr"
+    },
+    {
+        "id": "47754",
+        "name": "Saint Laurent Eyewear",
+        "urlIdentifier": "saint-laurent-sunglasses",
+        "legacyUrlIdentifier": "Saint-Laurent-Eyewear"
+    },
+    {
+        "id": "35173",
+        "name": "\u00c9tudes",
+        "urlIdentifier": "etudes",
+        "legacyUrlIdentifier": "Etudes"
+    },
+    {
+        "id": "12499",
+        "name": "Liu Jo",
+        "urlIdentifier": "liu-jo",
+        "legacyUrlIdentifier": "Liu-Jo"
+    },
+    {
+        "id": "34875",
+        "name": "Alchemist",
+        "urlIdentifier": "alchemist",
+        "legacyUrlIdentifier": "Alchemist"
+    },
+    {
+        "id": "590",
+        "name": "Tretorn",
+        "urlIdentifier": "tretorn",
+        "legacyUrlIdentifier": "Tretorn"
+    },
+    {
+        "id": "14708",
+        "name": "Mastermind Japan",
+        "urlIdentifier": "mastermind-japan",
+        "legacyUrlIdentifier": "Mastermind-Japan"
+    },
+    {
+        "id": "33954",
+        "name": "Y\/Project",
+        "urlIdentifier": "y-project",
+        "legacyUrlIdentifier": "YProject"
+    },
+    {
+        "id": "30486",
+        "name": "Brave Soul",
+        "urlIdentifier": "brave-soul",
+        "legacyUrlIdentifier": "Brave-Soul"
+    },
+    {
+        "id": "46895",
+        "name": "Thom Krom",
+        "urlIdentifier": "thom-krom",
+        "legacyUrlIdentifier": "Thom-Krom"
+    },
+    {
+        "id": "7629",
+        "name": "Farah",
+        "urlIdentifier": "farah",
+        "legacyUrlIdentifier": "Farah"
+    },
+    {
+        "id": "184",
+        "name": "Ecco",
+        "urlIdentifier": "ecco",
+        "legacyUrlIdentifier": "Ecco"
+    },
+    {
+        "id": "13356",
+        "name": "Samsoe & Samsoe",
+        "urlIdentifier": "samsoe-samsoe",
+        "legacyUrlIdentifier": "Samsoe-and-Samsoe"
+    },
+    {
+        "id": "2585",
+        "name": "Rock Revival",
+        "urlIdentifier": "rock-revival",
+        "legacyUrlIdentifier": "Rock-Revival"
+    },
+    {
+        "id": "2455",
+        "name": "Hanes",
+        "urlIdentifier": "hanes",
+        "legacyUrlIdentifier": "Hanes"
+    },
+    {
+        "id": "2663",
+        "name": "Dickies",
+        "urlIdentifier": "dickies",
+        "legacyUrlIdentifier": "Dickies"
+    },
+    {
+        "id": "15478",
+        "name": "J.Mclaughlin",
+        "urlIdentifier": "j-mclaughlin",
+        "legacyUrlIdentifier": "J.Mclaughlin"
+    },
+    {
+        "id": "24961",
+        "name": "Jacob Cohen",
+        "urlIdentifier": "jacob-cohen",
+        "legacyUrlIdentifier": "Jacob-Cohen"
+    },
+    {
+        "id": "35081",
+        "name": "Sixth June",
+        "urlIdentifier": "sixth-june",
+        "legacyUrlIdentifier": "Sixth-June"
+    },
+    {
+        "id": "296",
+        "name": "Joe's Jeans",
+        "urlIdentifier": "joes-jeans",
+        "legacyUrlIdentifier": "Joes-Jeans"
+    },
+    {
+        "id": "151",
+        "name": "Cubavera",
+        "urlIdentifier": "cubavera",
+        "legacyUrlIdentifier": "Cubavera"
+    },
+    {
+        "id": "3539",
+        "name": "Buttero",
+        "urlIdentifier": "buttero",
+        "legacyUrlIdentifier": "Buttero"
+    },
+    {
+        "id": "45124",
+        "name": "CDLP",
+        "urlIdentifier": "cdlp",
+        "legacyUrlIdentifier": "CDLP"
+    },
+    {
+        "id": "25304",
+        "name": "Soulland",
+        "logo": {
+            "sizes": {
+                "mobile": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Soulland-mobile.png"
+                },
+                "default": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Soulland-default.png"
+                },
+                "featured": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Soulland-featured.png"
+                },
+                "mobile@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Soulland-mobile@2x.png"
+                },
+                "featured@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Soulland-featured@2x.png"
+                },
+                "default@2x": {
+                    "url": "https:\/\/s3.amazonaws.com\/extimg.shopstyle.com\/brandLogos\/Soulland-default@2x.png"
+                }
+            }
+        },
+        "urlIdentifier": "soulland",
+        "legacyUrlIdentifier": "Soulland"
+    },
+    {
+        "id": "32245",
+        "name": "Guidi",
+        "urlIdentifier": "guidi",
+        "legacyUrlIdentifier": "Guidi"
+    },
+    {
+        "id": "26272",
+        "name": "Elwood",
+        "urlIdentifier": "elwood",
+        "legacyUrlIdentifier": "Elwood"
+    },
+    {
+        "id": "32418",
+        "name": "Officine Generale",
+        "urlIdentifier": "officine-generale",
+        "legacyUrlIdentifier": "Officine-Generale"
+    },
+    {
+        "id": "36328",
+        "name": "Supreme",
+        "urlIdentifier": "supreme",
+        "legacyUrlIdentifier": "Supreme"
+    },
+    {
+        "id": "34673",
+        "name": "Brandblack",
+        "urlIdentifier": "brandblack",
+        "legacyUrlIdentifier": "Brandblack"
+    },
+    {
+        "id": "13668",
+        "name": "Katin",
+        "urlIdentifier": "katin",
+        "legacyUrlIdentifier": "Katin"
+    },
+    {
+        "id": "46364",
+        "name": "Hed Mayner",
+        "urlIdentifier": "hed-mayner",
+        "legacyUrlIdentifier": "Hed-Mayner"
+    },
+    {
+        "id": "104",
+        "name": "Calvin Klein Jeans",
+        "urlIdentifier": "calvin-klein-jeans",
+        "legacyUrlIdentifier": "Calvin-Klein-Jeans"
+    },
+    {
+        "id": "3723",
+        "name": "Toms",
+        "urlIdentifier": "toms",
+        "legacyUrlIdentifier": "Toms"
+    },
+    {
+        "id": "32972",
+        "name": "Craig Green",
+        "urlIdentifier": "craig-green",
+        "legacyUrlIdentifier": "Craig-Green"
+    },
+    {
+        "id": "21494",
+        "name": "Gramicci",
+        "urlIdentifier": "gramicci",
+        "legacyUrlIdentifier": "Gramicci"
+    }
+]
