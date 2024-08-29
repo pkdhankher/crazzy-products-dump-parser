@@ -7,8 +7,8 @@ error_reporting(E_ALL);
 include "simple_html_dom.php";
 ini_set("memory_limit", "512M");
 
-$directory = "Home"; //men, Home
-$categoryFilePath = "Home_";      //Men Fashion_, Home_
+$directory = "Women"; //Men, Home, Women
+$categoryFilePath = "Women Fashion_";      //Men Fashion_, Women Fashion_, Home_
 $productsDirectory = "parsed_products";
 $brands = [];
 $categories = [];
@@ -52,9 +52,9 @@ for ($i = $offset; $i <= $lastOffset; $i += $limit) {
         $metadata = $data["metadata"];
         $products = $data["products"];
 
-        $categoryId = $metadata["category"]["id"] ?? "";
+        $categoryName = $metadata["category"]["name"] ?? "";
         if (
-            $categoryId &&
+            $categoryName &&
             !in_array($metadata["category"], $categories, true)
         ) {
             $categories[] = $metadata["category"];
@@ -72,6 +72,7 @@ for ($i = $offset; $i <= $lastOffset; $i += $limit) {
                 "priceLabel" => $product["priceLabel"] ?? "",
                 "salePrice" => $product["salePrice"] ?? "",
                 "salePriceLabel" => $product["salePriceLabel"] ?? "",
+                "inStock" => $product['inStock'] ?: "",
                 "image" => $product["image"] ?? "",
                 "alternateImages" => $product["alternateImages"] ?? "",
                 "discount" => $product["discount"] ?? "",
@@ -82,7 +83,7 @@ for ($i = $offset; $i <= $lastOffset; $i += $limit) {
                 "brand" => $product["brand"]["name"] ?? "",
                 "category" => $metadata["category"]["id"] ?? "",
                 "productCategory" => array_map(function ($category) {
-                    return $category["id"] ?? "";
+                    return $category["name"] ?? "";
                 }, $product["categories"] ?? []),
                 "description" => $product["description"] ?? "",
                 "aiDescription" => $product["aiDescription"] ?? "",
@@ -91,8 +92,8 @@ for ($i = $offset; $i <= $lastOffset; $i += $limit) {
             $allProducts[] = $formattedProduct;
             $count++;
 
-            $brandId = $product["brand"]["id"] ?? "";
-            if ($brandId && !in_array($product["brand"], $brands, true)) {
+            $brandName = $product["brand"]["name"] ?? "";
+            if ($brandName && !in_array($product["brand"], $brands, true)) {
                 $brands[] = $product["brand"];
             }
 

@@ -1,0 +1,16 @@
+[
+    {
+        "numId": 2,
+        "id": "women",
+        "name": "Women's Fashion",
+        "shortName": "Women",
+        "fullName": "Women's Fashion",
+        "localizedIds": {
+            "en-US": "women",
+            "en-CA": "women",
+            "en-AU": "women",
+            "en-GB": "women"
+        },
+        "localizedId": "women"
+    }
+]

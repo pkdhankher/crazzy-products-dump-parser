@@ -6,9 +6,9 @@ error_reporting(E_ALL);
 
 include "simple_html_dom.php";
 
-$base_folder = "Home";
+$base_folder = "Home";  //Home, Men, Women, Kids
 createDirectory($base_folder);
-$category_name = "Home";
+$category_name = "Home";    //Home, Men, Women, Kids
 $page_count = 1;
 $continious = true;
 $limit = 80;
