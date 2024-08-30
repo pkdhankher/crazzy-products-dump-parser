@@ -24,31 +24,39 @@ $header = [
 ];
 fputcsv($csvFile, $header);
 
+$uniqueIds = [];
+
 foreach ($products as $product) {
-    $row = [
-        $product['id'],
-        $product['name'],
-        $product['brandedName'],
-        $product['unbrandedName'],
-        $product['currency'],
-        $product['price'],
-        $product['priceLabel'],
-        $product['salePrice'],
-        $product['salePriceLabel'],
-        $product['inStock'] ? 'TRUE' : 'FALSE',
-        json_encode($product['image']),
-        json_encode($product['alternateImages']),
-        $product['discount'],
-        $product['productUrl'],
-        $product['crazzyTodayUrl'],
-        $product['brand'],
-        $product['category'],
-        json_encode($product['productCategory']),
-        $product['description'],
-        $product['aiDescription'],
-        $product['retailer']
-    ];
-    fputcsv($csvFile, $row);
+    $id = $product['id'];
+
+    if (!in_array($id, $uniqueIds)) {
+        $uniqueIds[] = $id;
+
+        $row = [
+            $product['id'],
+            $product['name'],
+            $product['brandedName'],
+            $product['unbrandedName'],
+            $product['currency'],
+            $product['price'],
+            $product['priceLabel'],
+            $product['salePrice'],
+            $product['salePriceLabel'],
+            $product['inStock'] ? 'TRUE' : 'FALSE',
+            json_encode($product['image']),
+            json_encode($product['alternateImages']),
+            $product['discount'],
+            $product['productUrl'],
+            $product['crazzyTodayUrl'],
+            $product['brand'],
+            $product['category'],
+            json_encode($product['productCategory']),
+            $product['description'],
+            $product['aiDescription'],
+            $product['retailer']
+        ];
+        fputcsv($csvFile, $row);
+    }
 }
 
 fclose($csvFile);
