@@ -58,7 +58,10 @@ foreach ($directories as $dir) {
         }
 
         foreach ($data as $product) {
-            $allProducts[] = $product;
+            $productId = $product["id"] ?? null;
+            if ($productId && !isset($allProducts[$productId])) {
+                $allProducts[] = $product;
+            }
         }
     } else {
         echo "File not found: $productsFile\n";
