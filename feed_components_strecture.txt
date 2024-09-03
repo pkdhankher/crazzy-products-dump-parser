@@ -1,0 +1,7 @@
+tabs: ["Women", "Men", "Kids", "Home"]
+
+feed componenta types:
+horizontal_carousel, tabbed_vertical_grid, horizontal_image_carousel
+
+
+=> filter tabbed products with the brand name
