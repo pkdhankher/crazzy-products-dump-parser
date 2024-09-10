@@ -1,0 +1,608 @@
+{
+    "deals": [
+        {
+            "endDate": {
+                "date": "2024-09-10",
+                "timestamp": 1726030740,
+                "friendly": "tomorrow"
+            },
+            "featured": "FEATURED_AD",
+            "featuredEndDate": {
+                "date": "2024-09-10",
+                "timestamp": 1726030740,
+                "friendly": "tomorrow"
+            },
+            "featuredStartDate": {
+                "date": "2024-09-04",
+                "timestamp": 1725426000,
+                "friendly": "5 days ago"
+            },
+            "id": 789956,
+            "retailer": {
+                "cashBack": {
+                    "currentRate": 2.0,
+                    "hasTiers": false,
+                    "previousRate": 2.0,
+                    "retailerId": "13",
+                    "title": "2% cash back",
+                    "type": "Percent"
+                },
+                "effectiveContentLocale": "en_US",
+                "handle": "Gap",
+                "hostDomain": "gap.com",
+                "id": "13",
+                "itpCompatible": true,
+                "logo": {
+                    "sizes": {
+                        "default": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Gap-default.png"
+                        },
+                        "default@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Gap-default@2x.png"
+                        },
+                        "featured": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Gap-featured.png"
+                        },
+                        "featured@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Gap-featured@2x.png"
+                        },
+                        "mobile": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Gap-mobile.png"
+                        },
+                        "mobile@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Gap-mobile@2x.png"
+                        }
+                    }
+                },
+                "mainUrl": "https://www.gap.com/",
+                "name": "Gap",
+                "score": 21,
+                "urlIdentifier": "gap-us"
+            },
+            "shortTitle": "Gap: 30% off your purchase or 40% off 4+ items",
+            "source": "SalesOfTheWeek",
+            "startDate": {
+                "date": "2024-09-04",
+                "timestamp": 1725426000,
+                "friendly": "5 days ago"
+            },
+            "title": "Gap: 30% off your purchase or 40% off 4+ items",
+            "type": "PercentOff",
+            "typeLabel": "DISCOUNT",
+            "url": "https://www.gap.com/browse/category.do?cid=1127938#"
+        },
+        {
+            "endDate": {
+                "date": "2024-09-11",
+                "timestamp": 1726117140,
+                "friendly": "Wed, Sep 11"
+            },
+            "featured": "FEATURED_AD",
+            "featuredEndDate": {
+                "date": "2024-09-11",
+                "timestamp": 1726117140,
+                "friendly": "Wed, Sep 11"
+            },
+            "featuredStartDate": {
+                "date": "2024-09-04",
+                "timestamp": 1725426000,
+                "friendly": "5 days ago"
+            },
+            "id": 789967,
+            "retailer": {
+                "cashBack": {
+                    "currentRate": 8.0,
+                    "hasTiers": true,
+                    "previousRate": 10.0,
+                    "retailerId": "97",
+                    "title": "up to 8% cash back",
+                    "type": "Percent"
+                },
+                "effectiveContentLocale": "en_US",
+                "handle": "Adidas",
+                "hostDomain": "adidas.com",
+                "id": "97",
+                "itpCompatible": true,
+                "logo": {
+                    "sizes": {
+                        "default": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Adidas-default.png"
+                        },
+                        "default@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Adidas-default@2x.png"
+                        },
+                        "featured": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Adidas-featured.png"
+                        },
+                        "featured@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Adidas-featured@2x.png"
+                        },
+                        "mobile": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Adidas-mobile.png"
+                        },
+                        "mobile@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Adidas-mobile@2x.png"
+                        }
+                    }
+                },
+                "mainUrl": "https://www.adidas.com/us/",
+                "name": "adidas",
+                "score": 20,
+                "urlIdentifier": "adidas-us"
+            },
+            "shortTitle": "Adidas: Up to 60% off styles to welcome Fall weather",
+            "source": "SalesOfTheWeek",
+            "startDate": {
+                "date": "2024-09-04",
+                "timestamp": 1725426000,
+                "friendly": "5 days ago"
+            },
+            "title": "Adidas: Up to 60% off styles to welcome Fall weather",
+            "type": "PercentOff",
+            "typeLabel": "DISCOUNT",
+            "url": "https://www.adidas.com/us/women-sale"
+        },
+        {
+            "endDate": {
+                "date": "2024-09-11",
+                "timestamp": 1726117140,
+                "friendly": "Wed, Sep 11"
+            },
+            "featured": "FEATURED_AD",
+            "featuredEndDate": {
+                "date": "2024-09-11",
+                "timestamp": 1726117140,
+                "friendly": "Wed, Sep 11"
+            },
+            "featuredStartDate": {
+                "date": "2024-09-04",
+                "timestamp": 1725426000,
+                "friendly": "5 days ago"
+            },
+            "id": 789961,
+            "retailer": {
+                "cashBack": {
+                    "currentRate": 1.0,
+                    "hasTiers": false,
+                    "previousRate": 1.0,
+                    "retailerId": "61",
+                    "title": "1% cash back",
+                    "type": "Percent"
+                },
+                "effectiveContentLocale": "en_US",
+                "handle": "Old Navy",
+                "hostDomain": "gap.com",
+                "id": "61",
+                "itpCompatible": true,
+                "logo": {
+                    "sizes": {
+                        "default": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Old_Navy-default.png"
+                        },
+                        "default@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Old_Navy-default@2x.png"
+                        },
+                        "featured": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Old_Navy-featured.png"
+                        },
+                        "featured@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Old_Navy-featured@2x.png"
+                        },
+                        "mobile": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Old_Navy-mobile.png"
+                        },
+                        "mobile@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Old_Navy-mobile@2x.png"
+                        }
+                    }
+                },
+                "mainUrl": "https://oldnavy.gap.com/",
+                "name": "Old Navy",
+                "score": 21,
+                "urlIdentifier": "old-navy-us"
+            },
+            "shortTitle": "Old Navy: Up to 50% off hundreds of kids and baby deals",
+            "source": "SalesOfTheWeek",
+            "startDate": {
+                "date": "2024-09-04",
+                "timestamp": 1725426000,
+                "friendly": "5 days ago"
+            },
+            "title": "Old Navy: Up to 50% off hundreds of kids and baby deals",
+            "type": "PercentOff",
+            "typeLabel": "DISCOUNT",
+            "url": "https://oldnavy.gap.com/browse/category.do?cid=3033288&mlink=5151%2C1%2CPD_2"
+        },
+        {
+            "endDate": {
+                "date": "2024-09-11",
+                "timestamp": 1726117140,
+                "friendly": "Wed, Sep 11"
+            },
+            "featured": "FEATURED_AD",
+            "featuredEndDate": {
+                "date": "2024-09-11",
+                "timestamp": 1726117140,
+                "friendly": "Wed, Sep 11"
+            },
+            "featuredStartDate": {
+                "date": "2024-09-04",
+                "timestamp": 1725426000,
+                "friendly": "5 days ago"
+            },
+            "id": 789962,
+            "retailer": {
+                "effectiveContentLocale": "en_US",
+                "handle": "Reformation US",
+                "hostDomain": "thereformation.com",
+                "id": "2382",
+                "itpCompatible": true,
+                "logo": {
+                    "sizes": {
+                        "default": {
+                            "url": "http://resources.shopstyle.com/im/promos/offer-default.jpg"
+                        },
+                        "default@2x": {
+                            "url": "http://resources.shopstyle.com/im/promos/offer-default@2x.jpg"
+                        },
+                        "featured": {
+                            "url": "http://resources.shopstyle.com/im/promos/offer-default.jpg"
+                        },
+                        "featured@2x": {
+                            "url": "http://resources.shopstyle.com/im/promos/offer-default@2x.jpg"
+                        },
+                        "mobile": {
+                            "url": "http://resources.shopstyle.com/im/promos/offer-default.jpg"
+                        },
+                        "mobile@2x": {
+                            "url": "http://resources.shopstyle.com/im/promos/offer-default@2x.jpg"
+                        }
+                    }
+                },
+                "mainUrl": "https://www.thereformation.com/",
+                "name": "Reformation",
+                "score": 25,
+                "urlIdentifier": "reformation-us"
+            },
+            "shortTitle": "Reformation: Up to 70% off dresses, tops and more",
+            "source": "SalesOfTheWeek",
+            "startDate": {
+                "date": "2024-09-04",
+                "timestamp": 1725426000,
+                "friendly": "5 days ago"
+            },
+            "title": "Reformation: Up to 70% off dresses, tops and more",
+            "type": "PercentOff",
+            "typeLabel": "DISCOUNT",
+            "url": "https://www.thereformation.com/sale"
+        },
+        {
+            "endDate": {
+                "date": "2024-09-11",
+                "timestamp": 1726117140,
+                "friendly": "Wed, Sep 11"
+            },
+            "featured": "FEATURED_AD",
+            "featuredEndDate": {
+                "date": "2024-09-11",
+                "timestamp": 1726117140,
+                "friendly": "Wed, Sep 11"
+            },
+            "featuredStartDate": {
+                "date": "2024-09-04",
+                "timestamp": 1725426000,
+                "friendly": "5 days ago"
+            },
+            "id": 789958,
+            "retailer": {
+                "effectiveContentLocale": "en_US",
+                "handle": "Nordstrom",
+                "hostDomain": "nordstrom.com",
+                "id": "1",
+                "itpCompatible": true,
+                "logo": {
+                    "sizes": {
+                        "default": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Nordstrom-default.png"
+                        },
+                        "default@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Nordstrom-default@2x.png"
+                        },
+                        "featured": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Nordstrom-featured.png"
+                        },
+                        "featured@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Nordstrom-featured@2x.png"
+                        },
+                        "mobile": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Nordstrom-mobile.png"
+                        },
+                        "mobile@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Nordstrom-mobile@2x.png"
+                        }
+                    }
+                },
+                "mainUrl": "https://www.nordstrom.com/",
+                "name": "Nordstrom",
+                "score": 59,
+                "urlIdentifier": "nordstrom-us"
+            },
+            "shortTitle": "Nordstrom: Up to 60% off Summer Sale favorites",
+            "source": "SalesOfTheWeek",
+            "startDate": {
+                "date": "2024-09-04",
+                "timestamp": 1725426000,
+                "friendly": "5 days ago"
+            },
+            "title": "Nordstrom: Up to 60% off Summer Sale favorites",
+            "type": "PercentOff",
+            "typeLabel": "DISCOUNT",
+            "url": "https://www.nordstrom.com/browse/sale?breadcrumb=Home%2FSale"
+        },
+        {
+            "endDate": {
+                "date": "2024-09-11",
+                "timestamp": 1726117140,
+                "friendly": "Wed, Sep 11"
+            },
+            "featured": "FEATURED_AD",
+            "featuredEndDate": {
+                "date": "2024-09-11",
+                "timestamp": 1726117140,
+                "friendly": "Wed, Sep 11"
+            },
+            "featuredStartDate": {
+                "date": "2024-09-04",
+                "timestamp": 1725426000,
+                "friendly": "5 days ago"
+            },
+            "id": 789959,
+            "retailer": {
+                "effectiveContentLocale": "en_US",
+                "handle": "Target",
+                "hostDomain": "target.com",
+                "id": "3",
+                "itpCompatible": true,
+                "logo": {
+                    "sizes": {
+                        "default": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Target-default.png"
+                        },
+                        "default@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
+                        },
+                        "featured": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Target-featured.png"
+                        },
+                        "featured@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Target-featured@2x.png"
+                        },
+                        "mobile": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Target-mobile.png"
+                        },
+                        "mobile@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Target-mobile@2x.png"
+                        }
+                    }
+                },
+                "mainUrl": "https://www.target.com/",
+                "name": "Target",
+                "score": 21,
+                "urlIdentifier": "target-us"
+            },
+            "shortTitle": "Target: Up to 40% off bedding items",
+            "source": "SalesOfTheWeek",
+            "startDate": {
+                "date": "2024-09-04",
+                "timestamp": 1725426000,
+                "friendly": "5 days ago"
+            },
+            "title": "Target: Up to 40% off bedding items",
+            "type": "PercentOff",
+            "typeLabel": "DISCOUNT",
+            "url": "https://www.target.com/c/bedding-deals/true/-/N-y7ca7Z6o4xkg1fj1p"
+        },
+        {
+            "endDate": {
+                "date": "2024-09-11",
+                "timestamp": 1726117140,
+                "friendly": "Wed, Sep 11"
+            },
+            "featured": "FEATURED_AD",
+            "featuredEndDate": {
+                "date": "2024-09-11",
+                "timestamp": 1726117140,
+                "friendly": "Wed, Sep 11"
+            },
+            "featuredStartDate": {
+                "date": "2024-09-04",
+                "timestamp": 1725426000,
+                "friendly": "5 days ago"
+            },
+            "id": 789969,
+            "retailer": {
+                "effectiveContentLocale": "en_US",
+                "handle": "Athleta",
+                "hostDomain": "gap.com",
+                "id": "457",
+                "itpCompatible": true,
+                "logo": {
+                    "sizes": {
+                        "default": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Athleta-default.png"
+                        },
+                        "default@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Athleta-default@2x.png"
+                        },
+                        "featured": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Athleta-featured.png"
+                        },
+                        "featured@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Athleta-featured@2x.png"
+                        },
+                        "mobile": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Athleta-mobile.png"
+                        },
+                        "mobile@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Athleta-mobile@2x.png"
+                        }
+                    }
+                },
+                "mainUrl": "http://athleta.gap.com",
+                "name": "Athleta",
+                "score": 21,
+                "urlIdentifier": "athleta-us"
+            },
+            "shortTitle": "Athleta: Up to 60% off most-loved styles you don't want to miss",
+            "source": "SalesOfTheWeek",
+            "startDate": {
+                "date": "2024-09-04",
+                "timestamp": 1725426000,
+                "friendly": "5 days ago"
+            },
+            "title": "Athleta: Up to 60% off most-loved styles you don't want to miss",
+            "type": "PercentOff",
+            "typeLabel": "DISCOUNT",
+            "url": "https://athleta.gap.com/"
+        },
+        {
+            "endDate": {
+                "date": "2024-09-18",
+                "timestamp": 1726721940,
+                "friendly": "Wed, Sep 18"
+            },
+            "featured": "FEATURED_AD",
+            "featuredEndDate": {
+                "date": "2024-09-18",
+                "timestamp": 1726721940,
+                "friendly": "Wed, Sep 18"
+            },
+            "featuredStartDate": {
+                "date": "2024-09-04",
+                "timestamp": 1725426000,
+                "friendly": "5 days ago"
+            },
+            "id": 789971,
+            "retailer": {
+                "cashBack": {
+                    "currentRate": 2.0,
+                    "hasTiers": false,
+                    "previousRate": 2.0,
+                    "retailerId": "64",
+                    "title": "2% cash back",
+                    "type": "Percent"
+                },
+                "effectiveContentLocale": "en_US",
+                "handle": "Sephora",
+                "hostDomain": "sephora.com",
+                "id": "64",
+                "itpCompatible": true,
+                "logo": {
+                    "sizes": {
+                        "default": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Sephora-default.png"
+                        },
+                        "default@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Sephora-default@2x.png"
+                        },
+                        "featured": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Sephora-featured.png"
+                        },
+                        "featured@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Sephora-featured@2x.png"
+                        },
+                        "mobile": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Sephora-mobile.png"
+                        },
+                        "mobile@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Sephora-mobile@2x.png"
+                        }
+                    }
+                },
+                "mainUrl": "https://www.sephora.com/",
+                "name": "Sephora",
+                "score": 25,
+                "urlIdentifier": "sephora-us"
+            },
+            "shortTitle": "Sephora: 50% off select beauty at Sephora and Sephora at Kohl's",
+            "source": "SalesOfTheWeek",
+            "startDate": {
+                "date": "2024-09-04",
+                "timestamp": 1725426000,
+                "friendly": "5 days ago"
+            },
+            "title": "Sephora: 50% off select beauty at Sephora and Sephora at Kohl's",
+            "type": "PercentOff",
+            "typeLabel": "DISCOUNT",
+            "url": "https://www.sephora.com/beauty/beauty-offers?icid2=homepage_slideshow_sale_animation_ohsnap0824_fy243666_broadcast_us_rwd_banner_083024_generic"
+        },
+        {
+            "endDate": {
+                "date": "2024-09-21",
+                "timestamp": 1726981140,
+                "friendly": "Sat, Sep 21"
+            },
+            "featured": "FEATURED_AD",
+            "featuredEndDate": {
+                "date": "2024-09-21",
+                "timestamp": 1726981140,
+                "friendly": "Sat, Sep 21"
+            },
+            "featuredStartDate": {
+                "date": "2024-08-19",
+                "timestamp": 1724043600,
+                "friendly": "Sun, Aug 18"
+            },
+            "id": 789634,
+            "retailer": {
+                "effectiveContentLocale": "en_US",
+                "handle": "J.Crew Factory US",
+                "hostDomain": "jcrew.com",
+                "id": "1512",
+                "itpCompatible": true,
+                "logo": {
+                    "sizes": {
+                        "default": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/J.Crew-default.png"
+                        },
+                        "default@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/J.Crew-default@2x.png"
+                        },
+                        "featured": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/J.Crew-featured.png"
+                        },
+                        "featured@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/J.Crew-featured@2x.png"
+                        },
+                        "mobile": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/J.Crew-mobile.png"
+                        },
+                        "mobile@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/J.Crew-mobile@2x.png"
+                        }
+                    }
+                },
+                "mainUrl": "https://factory.jcrew.com/",
+                "name": "J.Crew Factory",
+                "score": 25,
+                "urlIdentifier": "j.crew-factory-us"
+            },
+            "shortTitle": "J.Crew Factory:  $49.95 on all jeans. Snag the best denim!",
+            "source": "SalesOfTheWeek",
+            "startDate": {
+                "date": "2024-08-19",
+                "timestamp": 1724043600,
+                "friendly": "Sun, Aug 18"
+            },
+            "title": "J.Crew Factory:  $49.95 on all jeans. Snag the best denim!",
+            "type": "Sale",
+            "typeLabel": "DISCOUNT",
+            "url": "https://factory.jcrew.com/plp/womens/features/deals/the-score?sub-categories=women-na-jeans"
+        }
+    ],
+    "metadata": {
+        "limit": 100,
+        "offset": 0,
+        "total": 9
+    }
+}
