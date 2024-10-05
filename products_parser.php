@@ -18,6 +18,7 @@ if (!file_exists($allDataFolder)) {
 
 $allBrands = [];
 $allProducts = [];
+$allRetailers = [];
 $allCategories = [];
 $allProductCategories = [];
 
@@ -43,6 +44,27 @@ foreach ($directories as $dir) {
         }
     } else {
         echo "File not found: $brandsFile\n";
+    }
+    
+    $retailersFile = "$baseDirectory/$dir/retailers.json";
+    echo "Parsing file: $retailersFile\n";
+    if (file_exists($retailersFile)) {
+        $content = file_get_contents($retailersFile);
+        $data = json_decode($content, true);
+
+        if ($data === null) {
+            echo "Error decoding JSON from file: $retailersFile\n";
+            return;
+        }
+
+        foreach ($data as $retailer) {
+            $retailerId = $retailer["id"] ?? null;
+            if ($retailerId && !isset($allRetailers[$retailerId])) {
+                $allRetailers[] = $retailer;
+            }
+        }
+    } else {
+        echo "File not found: $retailersFile\n";
     }
 
     $productsFile = "$baseDirectory/$dir/products.json";
@@ -120,6 +142,13 @@ file_put_contents(
 );
 echo "Saving Brands: Total: " . count($allBrands) . "\n";
 
+$mergedRetailersFileName = "$allDataFolder/retailers.json";
+file_put_contents(
+    $mergedRetailersFileName,
+    json_encode(array_values($allRetailers), JSON_PRETTY_PRINT)
+);
+echo "Saving Retailers: Total: " . count($allRetailers) . "\n";
+
 $mergedProductsFileName = "$allDataFolder/products.json";
 file_put_contents(
     $mergedProductsFileName,
@@ -141,6 +170,6 @@ file_put_contents(
 );
 echo "Saving Product Categories: Total: " . count($allProductCategories) . "\n";
 
-echo "Merging completed. Unique brands, products, categories and productCategories are saved in the All Data directory.\n";
+echo "Merging completed. Unique brands, products, retailers, categories and productCategories are saved in the All Data directory.\n";
 ?>
 
