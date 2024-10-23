@@ -1,0 +1,578 @@
+[
+    {
+        "id": "3",
+        "name": "Target",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Target-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "target-us"
+    },
+    {
+        "id": "2432",
+        "name": "TJ Maxx",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2432.png"
+                }
+            }
+        },
+        "urlIdentifier": "tj-maxx-us"
+    },
+    {
+        "id": "2",
+        "name": "Macy's",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Macys-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "macys-us"
+    },
+    {
+        "id": "1695",
+        "name": "Wayfair",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Wayfair_US-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "wayfair-us"
+    },
+    {
+        "id": "22",
+        "name": "Anthropologie",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/Anthropologie.jpg"
+                }
+            }
+        },
+        "urlIdentifier": "anthropologie-us"
+    },
+    {
+        "id": "1720",
+        "name": "Saks OFF 5TH",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Off5th-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "saks-off-5th-us"
+    },
+    {
+        "id": "1",
+        "name": "Nordstrom",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Nordstrom-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "nordstrom-us"
+    },
+    {
+        "id": "180",
+        "name": "Ballard Designs",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/Ballard%20Designs.gif"
+                }
+            }
+        },
+        "urlIdentifier": "ballard-designs-us"
+    },
+    {
+        "id": "924",
+        "name": "Bed Bath & Beyond",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/924.png"
+                }
+            }
+        },
+        "urlIdentifier": "bed-bath-and-beyond-us"
+    },
+    {
+        "id": "2568",
+        "name": "Rue La La",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2568.png"
+                }
+            }
+        },
+        "urlIdentifier": "rue-la-la-us"
+    },
+    {
+        "id": "1467",
+        "name": "Gilt",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Gilt-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "gilt-us"
+    },
+    {
+        "id": "2788",
+        "name": "Frontgate",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2788.png"
+                }
+            }
+        },
+        "urlIdentifier": "frontgate-us"
+    },
+    {
+        "id": "3083",
+        "name": "Grandin Road",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/3083.png"
+                }
+            }
+        },
+        "urlIdentifier": "grandin-road-us"
+    },
+    {
+        "id": "3091",
+        "name": "Ruggable",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/3091.png"
+                }
+            }
+        },
+        "urlIdentifier": "ruggable-us"
+    },
+    {
+        "id": "994",
+        "name": "LUISAVIAROMA",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Luisaviaroma-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "luisaviaroma-us"
+    },
+    {
+        "id": "1545",
+        "name": "Vera Bradley",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Vera_Bradley_US-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "vera-bradley-us"
+    },
+    {
+        "id": "2032",
+        "name": "Jonathan Adler",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/jonathan%20adler.gif"
+                }
+            }
+        },
+        "urlIdentifier": "jonathan-adler-us"
+    },
+    {
+        "id": "1929",
+        "name": "Lulu & Georgia",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/1929.png"
+                }
+            }
+        },
+        "urlIdentifier": "lulu-and-georgia-us"
+    },
+    {
+        "id": "6",
+        "name": "Neiman Marcus",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Neiman_Marcus-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "neiman-marcus-us"
+    },
+    {
+        "id": "8",
+        "name": "Bloomingdale's",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Bloomingdales-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "bloomingdales-us"
+    },
+    {
+        "id": "162",
+        "name": "2Modern",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/2Modern-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "2modern-us"
+    },
+    {
+        "id": "2718",
+        "name": "Cettire",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2718.png"
+                }
+            }
+        },
+        "urlIdentifier": "cettire-us"
+    },
+    {
+        "id": "3086",
+        "name": "Eternity Modern",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/promos\/offer-default.jpg"
+                }
+            }
+        },
+        "urlIdentifier": "eternity-modern-us"
+    },
+    {
+        "id": "3151",
+        "name": "Quince",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/3151.png"
+                }
+            }
+        },
+        "urlIdentifier": "quince-us"
+    },
+    {
+        "id": "7",
+        "name": "Saks Fifth Avenue",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Saks_Fifth_Avenue-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "saks-fifth-avenue-us"
+    },
+    {
+        "id": "2946",
+        "name": "Shutterfly",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2946.png"
+                }
+            }
+        },
+        "urlIdentifier": "shutterfly-us"
+    },
+    {
+        "id": "3028",
+        "name": "Marshalls",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/3028.png"
+                }
+            }
+        },
+        "urlIdentifier": "marshalls-us"
+    },
+    {
+        "id": "1853",
+        "name": "Nordstrom Rack",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/NordstromRack-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "nordstrom-rack-us"
+    },
+    {
+        "id": "52",
+        "name": "Ralph Lauren",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Ralph_Lauren-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "ralph-lauren-us"
+    },
+    {
+        "id": "29",
+        "name": "Urban Outfitters",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Urban_Outfitters-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "urban-outfitters-us"
+    },
+    {
+        "id": "1688",
+        "name": "Etsy",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/1688.png"
+                }
+            }
+        },
+        "urlIdentifier": "etsy-us"
+    },
+    {
+        "id": "111",
+        "name": "Nike",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Nike-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "nike-us"
+    },
+    {
+        "id": "10",
+        "name": "Bergdorf Goodman",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Bergdorf_Goodman-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "bergdorf-goodman-us"
+    },
+    {
+        "id": "849",
+        "name": "Amazon.com",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Amazon_US-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "amazon.com-us"
+    },
+    {
+        "id": "53",
+        "name": "Zappos",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Zappos-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "zappos-us"
+    },
+    {
+        "id": "1996",
+        "name": "Apt2B",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/1996.png"
+                }
+            }
+        },
+        "urlIdentifier": "apt2b-us"
+    },
+    {
+        "id": "151",
+        "name": "Container Store",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/Container%20Store.png"
+                }
+            }
+        },
+        "urlIdentifier": "container-store-us"
+    },
+    {
+        "id": "2531",
+        "name": "24S",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2531.png"
+                }
+            }
+        },
+        "urlIdentifier": "24s-us"
+    },
+    {
+        "id": "306",
+        "name": "SSENSE",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Ssense-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "ssense-us"
+    },
+    {
+        "id": "2589",
+        "name": "Harrods",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2589.png"
+                }
+            }
+        },
+        "urlIdentifier": "harrods-us"
+    },
+    {
+        "id": "1689",
+        "name": "H&M",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/HM-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "handm-us"
+    },
+    {
+        "id": "154",
+        "name": "Design Within Reach",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Design_Within_Reach-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "design-within-reach-us"
+    },
+    {
+        "id": "3105",
+        "name": "Albany Park Furniture",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/3105.png"
+                }
+            }
+        },
+        "urlIdentifier": "albany-park-furniture-us"
+    },
+    {
+        "id": "1402",
+        "name": "MODA OPERANDI",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Moda_Operandi-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "moda-operandi-us"
+    },
+    {
+        "id": "2451",
+        "name": "Italist",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2451.png"
+                }
+            }
+        },
+        "urlIdentifier": "italist-us"
+    },
+    {
+        "id": "895",
+        "name": "MR PORTER",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Mr_Porter-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "mr-porter-us"
+    },
+    {
+        "id": "2628",
+        "name": "Harvey Nichols",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2628.png"
+                }
+            }
+        },
+        "urlIdentifier": "harvey-nichols-us"
+    },
+    {
+        "id": "344",
+        "name": "Farfetch",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Far_Fetch-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "farfetch-us"
+    }
+]

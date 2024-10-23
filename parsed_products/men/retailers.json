@@ -1,0 +1,1610 @@
+[
+    {
+        "id": "2451",
+        "name": "Italist",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2451.png"
+                }
+            }
+        },
+        "urlIdentifier": "italist-us"
+    },
+    {
+        "id": "2628",
+        "name": "Harvey Nichols",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2628.png"
+                }
+            }
+        },
+        "urlIdentifier": "harvey-nichols-us"
+    },
+    {
+        "id": "2467",
+        "name": "The Webster",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2467.png"
+                }
+            }
+        },
+        "urlIdentifier": "the-webster-us"
+    },
+    {
+        "id": "2718",
+        "name": "Cettire",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2718.png"
+                }
+            }
+        },
+        "urlIdentifier": "cettire-us"
+    },
+    {
+        "id": "7",
+        "name": "Saks Fifth Avenue",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Saks_Fifth_Avenue-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "saks-fifth-avenue-us"
+    },
+    {
+        "id": "3010",
+        "name": "Vuori Clothing",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/3010.png"
+                }
+            }
+        },
+        "urlIdentifier": "vuori-clothing-us"
+    },
+    {
+        "id": "108",
+        "name": "ASOS",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Asos-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "asos-us"
+    },
+    {
+        "id": "111",
+        "name": "Nike",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Nike-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "nike-us"
+    },
+    {
+        "id": "344",
+        "name": "Farfetch",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Far_Fetch-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "farfetch-us"
+    },
+    {
+        "id": "2",
+        "name": "Macy's",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Macys-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "macys-us"
+    },
+    {
+        "id": "138",
+        "name": "Steve Madden",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/Steve%20Madden.gif"
+                }
+            }
+        },
+        "urlIdentifier": "steve-madden-us"
+    },
+    {
+        "id": "895",
+        "name": "MR PORTER",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Mr_Porter-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "mr-porter-us"
+    },
+    {
+        "id": "1720",
+        "name": "Saks OFF 5TH",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Off5th-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "saks-off-5th-us"
+    },
+    {
+        "id": "6",
+        "name": "Neiman Marcus",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Neiman_Marcus-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "neiman-marcus-us"
+    },
+    {
+        "id": "994",
+        "name": "LUISAVIAROMA",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Luisaviaroma-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "luisaviaroma-us"
+    },
+    {
+        "id": "849",
+        "name": "Amazon.com",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Amazon_US-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "amazon.com-us"
+    },
+    {
+        "id": "374",
+        "name": "DSW",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/DSW.gif"
+                }
+            }
+        },
+        "urlIdentifier": "dsw-us"
+    },
+    {
+        "id": "306",
+        "name": "SSENSE",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Ssense-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "ssense-us"
+    },
+    {
+        "id": "3129",
+        "name": "Massimo Dutti",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/3129.png"
+                }
+            }
+        },
+        "urlIdentifier": "massimo-dutti-us"
+    },
+    {
+        "id": "3075",
+        "name": "JD Sports",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/3075.png"
+                }
+            }
+        },
+        "urlIdentifier": "jd-sports-us"
+    },
+    {
+        "id": "3108",
+        "name": "Loewe",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/promos\/offer-default.jpg"
+                }
+            }
+        },
+        "urlIdentifier": "loewe-us"
+    },
+    {
+        "id": "53",
+        "name": "Zappos",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Zappos-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "zappos-us"
+    },
+    {
+        "id": "1",
+        "name": "Nordstrom",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Nordstrom-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "nordstrom-us"
+    },
+    {
+        "id": "25",
+        "name": "Yoox",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Yoox-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "yoox-us"
+    },
+    {
+        "id": "3276",
+        "name": "TheDoubleF",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/3276.png"
+                }
+            }
+        },
+        "urlIdentifier": "thedoublef-us"
+    },
+    {
+        "id": "3230",
+        "name": "Stylemyle",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/promos\/offer-default.jpg"
+                }
+            }
+        },
+        "urlIdentifier": "stylemyle-us"
+    },
+    {
+        "id": "2454",
+        "name": "Selfridges",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/Selfridges%20UK.jpg"
+                }
+            }
+        },
+        "urlIdentifier": "selfridges-us"
+    },
+    {
+        "id": "3107",
+        "name": "Coach Outlet",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/3107.png"
+                }
+            }
+        },
+        "urlIdentifier": "coach-outlet-us"
+    },
+    {
+        "id": "10",
+        "name": "Bergdorf Goodman",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Bergdorf_Goodman-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "bergdorf-goodman-us"
+    },
+    {
+        "id": "8",
+        "name": "Bloomingdale's",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Bloomingdales-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "bloomingdales-us"
+    },
+    {
+        "id": "1853",
+        "name": "Nordstrom Rack",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/NordstromRack-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "nordstrom-rack-us"
+    },
+    {
+        "id": "3079",
+        "name": "Shop Premium Outlets",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/3079.png"
+                }
+            }
+        },
+        "urlIdentifier": "shop-premium-outlets-us"
+    },
+    {
+        "id": "2568",
+        "name": "Rue La La",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2568.png"
+                }
+            }
+        },
+        "urlIdentifier": "rue-la-la-us"
+    },
+    {
+        "id": "2162",
+        "name": "Tommy Hilfiger",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/Tommy%20Hilfiger.png"
+                }
+            }
+        },
+        "urlIdentifier": "tommy-hilfiger-us"
+    },
+    {
+        "id": "3",
+        "name": "Target",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Target-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "target-us"
+    },
+    {
+        "id": "1276",
+        "name": "Club Monaco",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Club_Monaco-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "club-monaco-us"
+    },
+    {
+        "id": "1995",
+        "name": "Antonioli",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/1995.png"
+                }
+            }
+        },
+        "urlIdentifier": "antonioli-us"
+    },
+    {
+        "id": "2997",
+        "name": "Baltini",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2997.png"
+                }
+            }
+        },
+        "urlIdentifier": "baltini-us"
+    },
+    {
+        "id": "3278",
+        "name": "The Mens Wearhouse",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/promos\/offer-default.jpg"
+                }
+            }
+        },
+        "urlIdentifier": "the-mens-wearhouse-us"
+    },
+    {
+        "id": "2186",
+        "name": "HBX",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2186.png"
+                }
+            }
+        },
+        "urlIdentifier": "hbx-us"
+    },
+    {
+        "id": "2250",
+        "name": "The Frye Company",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Frye-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "the-frye-company-us"
+    },
+    {
+        "id": "760",
+        "name": "Rag & Bone",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Rag_And_Bone-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "rag-and-bone-us"
+    },
+    {
+        "id": "97",
+        "name": "adidas",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Adidas-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "adidas-us"
+    },
+    {
+        "id": "1467",
+        "name": "Gilt",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Gilt-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "gilt-us"
+    },
+    {
+        "id": "2531",
+        "name": "24S",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2531.png"
+                }
+            }
+        },
+        "urlIdentifier": "24s-us"
+    },
+    {
+        "id": "970",
+        "name": "Finish Line",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/FinishLine-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "finish-line-us"
+    },
+    {
+        "id": "2713",
+        "name": "Cariuma",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2713.png"
+                }
+            }
+        },
+        "urlIdentifier": "cariuma-us"
+    },
+    {
+        "id": "13",
+        "name": "Gap",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Gap-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "gap-us"
+    },
+    {
+        "id": "1512",
+        "name": "J.Crew Factory",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/J.Crew-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "j.crew-factory-us"
+    },
+    {
+        "id": "2537",
+        "name": "Tuckernuck",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2537.png"
+                }
+            }
+        },
+        "urlIdentifier": "tuckernuck-us"
+    },
+    {
+        "id": "3309",
+        "name": "Spinnaker Boutique",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/promos\/offer-default.jpg"
+                }
+            }
+        },
+        "urlIdentifier": "spinnaker-boutique-us"
+    },
+    {
+        "id": "52",
+        "name": "Ralph Lauren",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Ralph_Lauren-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "ralph-lauren-us"
+    },
+    {
+        "id": "2541",
+        "name": "Wolf & Badger",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2541.png"
+                }
+            }
+        },
+        "urlIdentifier": "wolf-and-badger-us"
+    },
+    {
+        "id": "3272",
+        "name": "FRMODA",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/3272.png"
+                }
+            }
+        },
+        "urlIdentifier": "frmoda-us"
+    },
+    {
+        "id": "740",
+        "name": "Lacoste",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/740.png"
+                }
+            }
+        },
+        "urlIdentifier": "lacoste-us"
+    },
+    {
+        "id": "54",
+        "name": "Banana Republic",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Banana_Republic-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "banana-republic-us"
+    },
+    {
+        "id": "1035",
+        "name": "Vans",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/1035.png"
+                }
+            }
+        },
+        "urlIdentifier": "vans-us"
+    },
+    {
+        "id": "2533",
+        "name": "Backcountry.com",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2533.png"
+                }
+            }
+        },
+        "urlIdentifier": "backcountry.com-us"
+    },
+    {
+        "id": "3066",
+        "name": "VITKAC",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/3066.png"
+                }
+            }
+        },
+        "urlIdentifier": "vitkac-us"
+    },
+    {
+        "id": "2821",
+        "name": "Rebag",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2821.png"
+                }
+            }
+        },
+        "urlIdentifier": "rebag-us"
+    },
+    {
+        "id": "494",
+        "name": "Alexander McQueen",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/494.png"
+                }
+            }
+        },
+        "urlIdentifier": "alexander-mcqueen-us"
+    },
+    {
+        "id": "5",
+        "name": "J.Crew",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/J.Crew-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "j.crew-us"
+    },
+    {
+        "id": "2550",
+        "name": "GIGLIO.COM",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2550.png"
+                }
+            }
+        },
+        "urlIdentifier": "giglio.com-us"
+    },
+    {
+        "id": "574",
+        "name": "FWRD",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/574.png"
+                }
+            }
+        },
+        "urlIdentifier": "fwrd-us"
+    },
+    {
+        "id": "2589",
+        "name": "Harrods",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2589.png"
+                }
+            }
+        },
+        "urlIdentifier": "harrods-us"
+    },
+    {
+        "id": "3085",
+        "name": "Hoka One One",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/promos\/offer-default.jpg"
+                }
+            }
+        },
+        "urlIdentifier": "hoka-one-one-us"
+    },
+    {
+        "id": "1689",
+        "name": "H&M",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/HM-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "handm-us"
+    },
+    {
+        "id": "43",
+        "name": "Tillys",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/Tillys.jpg"
+                }
+            }
+        },
+        "urlIdentifier": "tillys-us"
+    },
+    {
+        "id": "2642",
+        "name": "Tessabit",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2642.png"
+                }
+            }
+        },
+        "urlIdentifier": "tessabit-us"
+    },
+    {
+        "id": "788",
+        "name": "HUGO BOSS",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/Hugo%20Boss.jpg"
+                }
+            }
+        },
+        "urlIdentifier": "hugo-boss-us"
+    },
+    {
+        "id": "999",
+        "name": "Nautica",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/999.png"
+                }
+            }
+        },
+        "urlIdentifier": "nautica-us"
+    },
+    {
+        "id": "3012",
+        "name": "RESIDENZA725",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/3012.png"
+                }
+            }
+        },
+        "urlIdentifier": "residenza725-us"
+    },
+    {
+        "id": "3151",
+        "name": "Quince",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/3151.png"
+                }
+            }
+        },
+        "urlIdentifier": "quince-us"
+    },
+    {
+        "id": "2839",
+        "name": "Alo Yoga",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2839.png"
+                }
+            }
+        },
+        "urlIdentifier": "alo-yoga-us"
+    },
+    {
+        "id": "1787",
+        "name": "BALENCIAGA",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/1787.png"
+                }
+            }
+        },
+        "urlIdentifier": "balenciaga-us"
+    },
+    {
+        "id": "105",
+        "name": "REVOLVE",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/Revolve%20Clothing.jpg"
+                }
+            }
+        },
+        "urlIdentifier": "revolve-us"
+    },
+    {
+        "id": "2816",
+        "name": "The Luxury Closet",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2816.png"
+                }
+            }
+        },
+        "urlIdentifier": "the-luxury-closet-us"
+    },
+    {
+        "id": "1068",
+        "name": "Crocs",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/1068.png"
+                }
+            }
+        },
+        "urlIdentifier": "crocs-us"
+    },
+    {
+        "id": "846",
+        "name": "Reiss",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/Reiss%20UK.png"
+                }
+            }
+        },
+        "urlIdentifier": "reiss-us"
+    },
+    {
+        "id": "3283",
+        "name": "Wanan",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/promos\/offer-default.jpg"
+                }
+            }
+        },
+        "urlIdentifier": "wanan-us"
+    },
+    {
+        "id": "131",
+        "name": "Lucky Brand",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/Lucky%20Brand%20Jeans.png"
+                }
+            }
+        },
+        "urlIdentifier": "lucky-brand-us"
+    },
+    {
+        "id": "1154",
+        "name": "Cole Haan",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/1154.png"
+                }
+            }
+        },
+        "urlIdentifier": "cole-haan-us"
+    },
+    {
+        "id": "720",
+        "name": "Madewell",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Madewell-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "madewell-us"
+    },
+    {
+        "id": "130",
+        "name": "Michael Kors",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Michael_Kors-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "michael-kors-us"
+    },
+    {
+        "id": "21",
+        "name": "shopbop.com",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Shopbop-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "shopbop.com-us"
+    },
+    {
+        "id": "2653",
+        "name": "Browns Fashion",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2653.png"
+                }
+            }
+        },
+        "urlIdentifier": "browns-fashion-us"
+    },
+    {
+        "id": "992",
+        "name": "Levi's",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Levis_US-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "levis-us"
+    },
+    {
+        "id": "801",
+        "name": "AllSaints",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/All_Saints-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "allsaints-us"
+    },
+    {
+        "id": "364",
+        "name": "Calvin Klein",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Calvin_Klein-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "calvin-klein-us"
+    },
+    {
+        "id": "2608",
+        "name": "Vineyard Vines",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2608.png"
+                }
+            }
+        },
+        "urlIdentifier": "vineyard-vines-us"
+    },
+    {
+        "id": "1034",
+        "name": "Under Armour",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/1034.png"
+                }
+            }
+        },
+        "urlIdentifier": "under-armour-us"
+    },
+    {
+        "id": "3249",
+        "name": "Marathon Sports",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/3249.png"
+                }
+            }
+        },
+        "urlIdentifier": "marathon-sports-us"
+    },
+    {
+        "id": "2629",
+        "name": "Giuseppe Zanotti",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2629.png"
+                }
+            }
+        },
+        "urlIdentifier": "giuseppe-zanotti-us"
+    },
+    {
+        "id": "249",
+        "name": "Aldo",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/aldo-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "aldo-us"
+    },
+    {
+        "id": "61",
+        "name": "Old Navy",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Old_Navy-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "old-navy-us"
+    },
+    {
+        "id": "3060",
+        "name": "Biffi",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/promos\/offer-default.jpg"
+                }
+            }
+        },
+        "urlIdentifier": "biffi-us"
+    },
+    {
+        "id": "1340",
+        "name": "Gucci",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Gucci_US-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "gucci-us"
+    },
+    {
+        "id": "2129",
+        "name": "Todd Snyder",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2129.png"
+                }
+            }
+        },
+        "urlIdentifier": "todd-snyder-us"
+    },
+    {
+        "id": "2432",
+        "name": "TJ Maxx",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2432.png"
+                }
+            }
+        },
+        "urlIdentifier": "tj-maxx-us"
+    },
+    {
+        "id": "3112",
+        "name": "Gap Factory",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/3112.png"
+                }
+            }
+        },
+        "urlIdentifier": "gap-factory-us"
+    },
+    {
+        "id": "716",
+        "name": "Bottega Veneta",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/promos\/offer-default.jpg"
+                }
+            }
+        },
+        "urlIdentifier": "bottega-veneta-us"
+    },
+    {
+        "id": "1632",
+        "name": "Belstaff",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/1632.png"
+                }
+            }
+        },
+        "urlIdentifier": "belstaff-us"
+    },
+    {
+        "id": "2633",
+        "name": "COS",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2633.png"
+                }
+            }
+        },
+        "urlIdentifier": "cos-us"
+    },
+    {
+        "id": "2538",
+        "name": "Frame Denim",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2538.png"
+                }
+            }
+        },
+        "urlIdentifier": "frame-denim-us"
+    },
+    {
+        "id": "1475",
+        "name": "LN-CC",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/1475.png"
+                }
+            }
+        },
+        "urlIdentifier": "ln-cc-us"
+    },
+    {
+        "id": "2470",
+        "name": "Marks and Spencer",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2470.png"
+                }
+            }
+        },
+        "urlIdentifier": "marks-and-spencer-us"
+    },
+    {
+        "id": "2666",
+        "name": "FitFlop",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2666.png"
+                }
+            }
+        },
+        "urlIdentifier": "fitflop-us"
+    },
+    {
+        "id": "736",
+        "name": "Theory",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Theory-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "theory-us"
+    },
+    {
+        "id": "552",
+        "name": "PAIGE",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/PaigeDenim-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "paige-us"
+    },
+    {
+        "id": "2412",
+        "name": "Sandro",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2412.png"
+                }
+            }
+        },
+        "urlIdentifier": "sandro-us"
+    },
+    {
+        "id": "3069",
+        "name": "Off White",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/3069.png"
+                }
+            }
+        },
+        "urlIdentifier": "off-white-us"
+    },
+    {
+        "id": "2743",
+        "name": "Verishop",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2743.png"
+                }
+            }
+        },
+        "urlIdentifier": "verishop-us"
+    },
+    {
+        "id": "3293",
+        "name": "LUX LAIR",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/promos\/offer-default.jpg"
+                }
+            }
+        },
+        "urlIdentifier": "lux-lair-us"
+    },
+    {
+        "id": "90",
+        "name": "Jos. A. Bank",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Jos_A_Bank-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "jos.-a.-bank-us"
+    },
+    {
+        "id": "2195",
+        "name": "Vestiaire Collective",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Vestiaire_Collective_US-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "vestiaire-collective-us"
+    },
+    {
+        "id": "1368",
+        "name": "Tod's",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/1368.png"
+                }
+            }
+        },
+        "urlIdentifier": "tods-us"
+    },
+    {
+        "id": "3183",
+        "name": "Prada",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/3183.png"
+                }
+            }
+        },
+        "urlIdentifier": "prada-us"
+    },
+    {
+        "id": "2716",
+        "name": "NAADAM",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2716.png"
+                }
+            }
+        },
+        "urlIdentifier": "naadam-us"
+    },
+    {
+        "id": "285",
+        "name": "Burberry",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Burberry-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "burberry-us"
+    },
+    {
+        "id": "427",
+        "name": "THE OUTNET.COM",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/OutNet-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "the-outnet.com-us"
+    },
+    {
+        "id": "94",
+        "name": "La Gar\u00e7onne",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/la%20garconne.gif"
+                }
+            }
+        },
+        "urlIdentifier": "la-garconne-us"
+    },
+    {
+        "id": "29",
+        "name": "Urban Outfitters",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Urban_Outfitters-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "urban-outfitters-us"
+    },
+    {
+        "id": "2396",
+        "name": "Faherty",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2396.png"
+                }
+            }
+        },
+        "urlIdentifier": "faherty-us"
+    },
+    {
+        "id": "3359",
+        "name": "Moncler",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/promos\/offer-default.jpg"
+                }
+            }
+        },
+        "urlIdentifier": "moncler-us"
+    },
+    {
+        "id": "960",
+        "name": "David Yurman",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/David_Yurman_US-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "david-yurman-us"
+    },
+    {
+        "id": "1909",
+        "name": "Vince",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/1909.png"
+                }
+            }
+        },
+        "urlIdentifier": "vince-us"
+    },
+    {
+        "id": "3111",
+        "name": "Valentino",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/3111.png"
+                }
+            }
+        },
+        "urlIdentifier": "valentino-us"
+    },
+    {
+        "id": "2463",
+        "name": "MCM Worldwide",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2463.png"
+                }
+            }
+        },
+        "urlIdentifier": "mcm-worldwide-us"
+    },
+    {
+        "id": "1039",
+        "name": "Zales",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/1039.png"
+                }
+            }
+        },
+        "urlIdentifier": "zales-us"
+    },
+    {
+        "id": "2562",
+        "name": "Versace",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2562.png"
+                }
+            }
+        },
+        "urlIdentifier": "versace-us"
+    },
+    {
+        "id": "2514",
+        "name": "Allbirds",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/2514.png"
+                }
+            }
+        },
+        "urlIdentifier": "allbirds-us"
+    },
+    {
+        "id": "1515",
+        "name": "Ferragamo",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/img.shopstyle-cdn.com\/iosdeals\/1515.png"
+                }
+            }
+        },
+        "urlIdentifier": "ferragamo-us"
+    },
+    {
+        "id": "3402",
+        "name": "Givenchy",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/promos\/offer-default.jpg"
+                }
+            }
+        },
+        "urlIdentifier": "givenchy-us"
+    },
+    {
+        "id": "857",
+        "name": "TOMS Shoes",
+        "logo": {
+            "sizes": {
+                "default": {
+                    "url": "https:\/\/resources.shopstyle.com\/im\/retailers\/logos\/Toms_Shoes_US-default.png"
+                }
+            }
+        },
+        "urlIdentifier": "toms-shoes-us"
+    }
+]

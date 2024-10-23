@@ -7,10 +7,11 @@ error_reporting(E_ALL);
 include "simple_html_dom.php";
 ini_set("memory_limit", "512M");
 
-$directory = "Women"; //Men, Home, Women
-$categoryFilePath = "Women Fashion_";      //Men Fashion_, Women Fashion_, Home_
+$directory = "Home"; //Home, Men, Women
+$categoryFilePath = "Home_";      //Men Fashion_, Women Fashion_, Home_
 $productsDirectory = "parsed_products";
 $brands = [];
+$retailers = [];
 $categories = [];
 $allProducts = [];
 $productCategories = [];
@@ -21,6 +22,7 @@ $lastOffset = 9840;
 
 $brandsFilePath = "$productsDirectory/$directory/brands.json";
 $productsFilePath = "$productsDirectory/$directory/products.json";
+$retailersFilePath = "$productsDirectory/$directory/retailers.json";
 $categoriesFilePath = "$productsDirectory/$directory/categories.json";
 $productCategoriesFilePath = "$productsDirectory/$directory/product_categories.json";
 
@@ -31,6 +33,11 @@ if (!is_dir(dirname($brandsFilePath))) {
 if (!is_dir(dirname($productsFilePath))) {
     mkdir(dirname($productsFilePath), 0777, true);
 }
+
+if (!is_dir(dirname($retailersFilePath))) {
+    mkdir(dirname($retailersFilePath), 0777, true);
+}
+
 
 if (!is_dir(dirname($categoriesFilePath))) {
     mkdir(dirname($categoriesFilePath), 0777, true);
@@ -96,6 +103,11 @@ for ($i = $offset; $i <= $lastOffset; $i += $limit) {
             if ($brandName && !in_array($product["brand"], $brands, true)) {
                 $brands[] = $product["brand"];
             }
+            
+            $retailerName = $product["retailer"]["name"] ?? "";
+            if ($retailerName && !in_array($product["retailer"], $retailers, true)) {
+                $retailers[] = $product["retailer"];
+            }
 
             foreach ($product["categories"] as $productCategory) {
                 $productCategoryId = $productCategory["id"] ?? "";
@@ -116,12 +128,14 @@ for ($i = $offset; $i <= $lastOffset; $i += $limit) {
 }
 
 $brandsJson = json_encode($brands, JSON_PRETTY_PRINT);
+$retailerJson = json_encode($retailers, JSON_PRETTY_PRINT);
 $productsJson = json_encode($allProducts, JSON_PRETTY_PRINT);
 $categoriesJson = json_encode($categories, JSON_PRETTY_PRINT);
 $productCategoriesJson = json_encode($productCategories, JSON_PRETTY_PRINT);
 
 file_put_contents($brandsFilePath, $brandsJson);
 file_put_contents($productsFilePath, $productsJson);
+file_put_contents($retailersFilePath, $retailerJson);
 file_put_contents($categoriesFilePath, $categoriesJson);
 file_put_contents($productCategoriesFilePath, $productCategoriesJson);
 
